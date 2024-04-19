@@ -2,8 +2,8 @@
 from openai import OpenAI
 import pandas as pd
 
-def read_csv(file_path, nrows=5):
-    df = pd.read_csv(file_path, nrows=nrows)
+def read_csv(file_path):
+    df = pd.read_csv(file_path)
     definitions = df['definition'].tolist()  # Assuming 'Definition' is the header for the definition column
     answers = df['answer'].tolist()  # Assuming 'Answer' is the header for the answer column
     return definitions, answers
