@@ -23,6 +23,8 @@ def write_info(clue, answer, words):
 
 file_path = 'definitions.csv'
 definitions, answers = read_csv(file_path)
+right_count = 0
+wrong_count = 0
 
 prompt =  """ 
             You are a crossword solver. You will take in a user definition and return a list of 20 words that match the definition. The output must be a list of 20 words seperated by commas.
@@ -38,7 +40,7 @@ client = OpenAI(
 )
 
 for i in range(len(definitions)):
-    print(f"word{i}")
+    print(f"{i+1} / {len(definitions)}")
 
     completion = client.chat.completions.create(
         model="LLaMA_CPP",
@@ -54,16 +56,17 @@ for i in range(len(definitions)):
     # Split each line into words
     words_list = [line.split('. ')[1] for line in word_lines]
     
-    print(words_list)
-    
     right, printline = write_info(definitions[i], answers[i], words_list)
     
     if right == True:
         output_filename = 'right_results.txt'
+        right_count += 1
     else:
         output_filename = 'wrong_results.txt'
         
     with open(output_filename, 'a') as output_file:
             output_file.write(printline)
     
-print("!!!DONE!!!")
+print("_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-")
+print(f"ACCURACY: {right_count/ len(definitions) * 100}%")
+print("_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-")

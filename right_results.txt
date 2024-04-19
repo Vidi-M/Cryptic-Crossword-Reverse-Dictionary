@@ -1,0 +1,4 @@
+CLUE: Teases (informal) ||| ANS: ribs ||| POS: 8 
+CLUE: Give thought to ||| ANS: consider ||| POS: 8 
+CLUE: Put forward ||| ANS: suggest ||| POS: 3 
+CLUE: One eating out ||| ANS: diner ||| POS: 1 
