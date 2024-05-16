@@ -20,8 +20,6 @@ def read_csv(file_path, dataset): ## need to implement cross validation
     answers = sampled_df['answer'].tolist()  # Assuming 'Answer' is the header for the answer column
     #word_lengths = [len(word) for answer in answers for word in answer.split()]
     return definitions, answers
-
-def write_info(clue, answer, words):
     right = False
     for pos, word in enumerate(words):
         if word.lower() == answer and right != True:
@@ -45,7 +43,7 @@ def main():
 
     file_path = 'definitions.csv'
     definitions, answers = read_csv(file_path, dataset)
-    right_count = 0
+    right_count, almost_count = 0, 0
     
     # ollama.chat(model=model, messages=[
     #     {
@@ -74,11 +72,17 @@ def main():
         
         print(words_list)
         
-        right_count = process_result(definitions[i], answers[i], words_list, right_count)
+        right_count,almost_count = process_result(definitions[i], 
+                                                  answers[i], 
+                                                  words_list, 
+                                                  right_count, 
+                                                  almost_count)
                 
     print("_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-")
-    print(f"ACCURACY: {right_count/ len(definitions) * 100}%")
-    print("_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-") 
+    print(f"RIGHT: {right_count/ len(definitions) * 100}%")
+    print(f"ALMOST: {almost_count/ len(definitions) * 100}%")
+    print(f"ACCURACY: {right_count + almost_count/ len(definitions) * 100}%")
+    print("_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-")
     
 if __name__ == "__main__":
     main()
