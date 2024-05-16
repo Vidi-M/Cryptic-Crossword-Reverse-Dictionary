@@ -1,0 +1,40 @@
+CLUE: Teases (informal) ||| ANS: ribs ||| POS: 8 
+CLUE: Give thought to ||| ANS: consider ||| POS: 8 
+CLUE: Put forward ||| ANS: suggest ||| POS: 3 
+CLUE: One eating out ||| ANS: diner ||| POS: 1 
+CLUE: Magnitude - scope ||| ANS: extent ||| POS: 1 
+CLUE: Grass-cutting implement ||| ANS: scythe ||| POS: 17 
+CLUE: Subtlety in handling difficult situations ||| ANS: finesse ||| POS: 17 
+CLUE: Put up with ||| ANS: tolerate ||| POS: 1 
+CLUE: Greenish-blue colour ||| ANS: cyan ||| POS: 4 
+CLUE: Legally binding decision ||| ANS: decree ||| POS: 1 
+CLUE: Fish providing isinglass ||| ANS: sturgeon ||| POS: 1 
+CLUE: Disagreeably domineering ||| ANS: bossy ||| POS: 1 
+CLUE: Only - fair ||| ANS: just ||| POS: 2 
+CLUE: Nobleman ||| ANS: baron ||| POS: 5 
+CLUE: Incite to action ||| ANS: provoke ||| POS: 5 
+CLUE: Eventually ||| ANS: in the long run ||| POS: 2 
+CLUE: Sign of the zodiac ||| ANS: cancer ||| POS: 4 
+CLUE: Heartbroken ||| ANS: inconsolable ||| POS: 8 
+CLUE: Crimson ||| ANS: scarlet ||| POS: 6 
+CLUE: Walk through water ||| ANS: wade ||| POS: 1 
+CLUE: Used up ||| ANS: depleted ||| POS: 1 
+CLUE: Incendiary liquid used in firebombs ||| ANS: napalm ||| POS: 1 
+CLUE: String player ||| ANS: cellist ||| POS: 2 
+CLUE: Beet with edible white leaf stalks ||| ANS: chard ||| POS: 1 
+CLUE: Male horse kept for breeding ||| ANS: stud ||| POS: 2 
+CLUE: Faint-hearted ||| ANS: timid ||| POS: 1 
+CLUE: Tyrannical ruler ||| ANS: dictator ||| POS: 1 
+CLUE: Sausage in a bun ||| ANS: hot dog ||| POS: 1 
+CLUE: Navy, army or air force unit ||| ANS: squadron ||| POS: 5 
+CLUE: Enticed ||| ANS: tempted ||| POS: 8 
+CLUE: Stringed instrument, usually played with a plectrum ||| ANS: mandolin ||| POS: 7 
+CLUE: Provide with materials for life and growth ||| ANS: nourish ||| POS: 1 
+CLUE: Britain's only venomous snake ||| ANS: adder ||| POS: 1 
+CLUE: Reduce the population by selective slaughter ||| ANS: cull ||| POS: 1 
+CLUE: Take issue ||| ANS: disagree ||| POS: 1 
+CLUE: Pleased ||| ANS: glad ||| POS: 11 
+CLUE: Surpass ||| ANS: excel ||| POS: 12 
+CLUE: Divide into three parts ||| ANS: trisect ||| POS: 12 
+CLUE: Fold stitched into cloth ||| ANS: pleat ||| POS: 2 
+CLUE: Bloodsucking worm ||| ANS: leech ||| POS: 1 

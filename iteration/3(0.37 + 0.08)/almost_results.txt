@@ -1,0 +1,8 @@
+CLUE: Teases (informal) ||| ANS: ribs ||| POS: 4 ||| Found in: Ribs (slang for jokes) 
+CLUE: Grass-cutting implement ||| ANS: scythe ||| POS: 8 ||| Found in: Garden scythe 
+CLUE: Sign of the zodiac ||| ANS: cancer ||| POS: 3 ||| Found in: Cancer - a sign of the zodiac 
+CLUE: Author of Adam Bede, d.1880 ||| ANS: eliot ||| POS: 2 ||| Found in: George Eliot 
+CLUE: Not fake news! ||| ANS: fact ||| POS: 8 ||| Found in: Verifiable facts 
+CLUE: Optimism ||| ANS: hope ||| POS: 1 ||| Found in: Hopefulness 
+CLUE: Composer of incidental music to Peer Gynt, d.1907 ||| ANS: grieg ||| POS: 1 ||| Found in: Edvard Grieg (composer of incidental music to Peer Gynt) 
+CLUE: Surpass ||| ANS: excel ||| POS: 12 ||| Found in: Excelling 
