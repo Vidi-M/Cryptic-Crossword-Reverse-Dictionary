@@ -1,0 +1,4 @@
+model=phi3
+prompt=Imagine yourself as a skilled crossword solver. Your task is to offer a comprehensive selection of 20 words that you feel correspond to the definition of {def}. Take your time and let your intuition guide you through this puzzle!
+prompt_no=2
+dataset=100

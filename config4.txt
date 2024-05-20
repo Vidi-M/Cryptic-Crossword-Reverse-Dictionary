@@ -1,0 +1,4 @@
+model=phi3
+prompt=Picture yourself as a seasoned crossword solver, tackling a particularly challenging clue: {def}. Channel your expertise and intuition to generate 20 words that you believe could match this clue. Prioritize accuracy and carefully consider all interpretations of the clue.
+prompt_no=4
+dataset=100
