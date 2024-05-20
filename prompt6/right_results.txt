@@ -1,0 +1,30 @@
+CLUE: Celestial body  ||| ANS: star ||| POS: 1 
+CLUE: Popeye's nemesis ||| ANS: bluto ||| POS: 1 
+CLUE: Booking (in restaurant)  ||| ANS: reservation ||| POS: 1 
+CLUE: Strange or eccentric person  ||| ANS: weirdo ||| POS: 4 
+CLUE: Prejudice  ||| ANS: bias ||| POS: 1 
+CLUE: It follows from that fact  ||| ANS: hence ||| POS: 17 
+CLUE: Night attire  ||| ANS: pyjamas ||| POS: 1 
+CLUE: Ball game  ||| ANS: hockey ||| POS: 8 
+CLUE: Cringing, fawning  ||| ANS: servile ||| POS: 15 
+CLUE: Taj Mahal city  ||| ANS: agra ||| POS: 1 
+CLUE: Country bumpkin  ||| ANS: yokel ||| POS: 16 
+CLUE: Statement of money owed ||| ANS: invoice ||| POS: 13 
+CLUE: Sacred beetle  ||| ANS: scarab ||| POS: 2 
+CLUE: Bird of prey  ||| ANS: eagle ||| POS: 2 
+CLUE: Small mark  ||| ANS: dot ||| POS: 2 
+CLUE: One employed to look after a golf course  ||| ANS: greenkeeper ||| POS: 5 
+CLUE: Skin blemish  ||| ANS: wart ||| POS: 19 
+CLUE: Enclosure set back or indented  ||| ANS: recess ||| POS: 2 
+CLUE: Court game  ||| ANS: squash ||| POS: 6 
+CLUE: Appalling, awful  ||| ANS: dreadful ||| POS: 8 
+CLUE: Open valley  ||| ANS: dale ||| POS: 9 
+CLUE: Window in roof  ||| ANS: skylight ||| POS: 1 
+CLUE: PhD or D.Phil  ||| ANS: doctorate ||| POS: 1 
+CLUE: Tough and elastic  ||| ANS: rubbery ||| POS: 1 
+CLUE: Private teacher  ||| ANS: tutor ||| POS: 1 
+CLUE: Perimeter of circle  ||| ANS: circumference ||| POS: 1 
+CLUE: Fertiliser  ||| ANS: manure ||| POS: 11 
+CLUE: Amorous mark  ||| ANS: lovebite ||| POS: 4 
+CLUE: Very skilled or proficient  ||| ANS: adept ||| POS: 1 
+CLUE: Apt or witty remark - in France  ||| ANS: bon mot ||| POS: 9 

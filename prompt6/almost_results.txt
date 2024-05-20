@@ -1,0 +1,18 @@
+CLUE: Like oxygen, neon, etc  ||| ANS: gaseous ||| POS: 11 ||| Found in: Gaseous Elements 
+CLUE: Period (of enchantment?) ||| ANS: spell ||| POS: 17 ||| Found in: Spellbinding 
+CLUE: Banknote; beak  ||| ANS: bill ||| POS: 15 ||| Found in: Billfold 
+CLUE: 1987 Best Actress Oscar winner for 'Moonstruck'  ||| ANS: cher ||| POS: 1 ||| Found in: Cher (CHErry) - The actress who won the Best Actress Oscar in 1987 for Moonstruck. 
+CLUE: Assassinated US president  ||| ANS: kennedy ||| POS: 5 ||| Found in: Kennedy (John F 
+CLUE: Playing card; sailor  ||| ANS: jack ||| POS: 1 ||| Found in: Jack: A playing card, also associated with a common name for sailors in some cultures. 
+CLUE: Draw (brows) together  ||| ANS: knit ||| POS: 1 ||| Found in: Knit brows 
+CLUE: Small narrow river  ||| ANS: stream ||| POS: 2 ||| Found in: Streamlet 
+CLUE: In favour of  ||| ANS: pro ||| POS: 1 ||| Found in: Pro-active 
+CLUE: Push lips out as sign of annoyance  ||| ANS: pout ||| POS: 1 ||| Found in: Pouting 
+CLUE: Explicit or in detail  ||| ANS: specific ||| POS: 5 ||| Found in: Specifically 
+CLUE: Entrance  ||| ANS: gate ||| POS: 1 ||| Found in: Gateway 
+CLUE: Huge legendary beings  ||| ANS: giants ||| POS: 2 ||| Found in: Giants (creatures from folklore) 
+CLUE: Peculiar  ||| ANS: odd ||| POS: 6 ||| Found in: Oddball 
+CLUE: Run away secretly to marry ||| ANS: elope ||| POS: 16 ||| Found in: Elopement 
+CLUE: Verity  ||| ANS: truth ||| POS: 1 ||| Found in: Truthfulness 
+CLUE: Irish ferry port  ||| ANS: rosslare ||| POS: 2 ||| Found in: RosslareOcean 
+CLUE: Grotto  ||| ANS: cave ||| POS: 1 ||| Found in: Cavernous 
