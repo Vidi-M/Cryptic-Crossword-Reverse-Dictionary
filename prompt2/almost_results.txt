@@ -1,0 +1,32 @@
+CLUE: Movement along a route  ||| ANS: traffic ||| POS: 18 ||| Found in: Byway: An unpaved road suitable for use by motor vehicles or foot traffic that often leads through rural areas, providing a route from one location to another. 
+CLUE: Celestial body  ||| ANS: star ||| POS: 1 ||| Found in: Astronomy: The scientific study of celestial bodies, including stars, planets, comets, and galaxies. 
+CLUE: Popeye's nemesis ||| ANS: bluto ||| POS: 1 ||| Found in: Bluto - Often considered Popeye's arch-rival, known for his physical confrontations with the sailor man 
+CLUE: Like oxygen, neon, etc  ||| ANS: gaseous ||| POS: 8 ||| Found in: Gaseous - In their natural state, these elements exist as a gas under standard conditions. 
+CLUE: Booking (in restaurant)  ||| ANS: reservation ||| POS: 1 ||| Found in: Reservation - A prior arrangement to secure a table at a restaurant 
+CLUE: Prejudice  ||| ANS: bias ||| POS: 1 ||| Found in: Bias - An unfair inclination or predisposition toward something, often based on stereotypes. 
+CLUE: Separate the wheat from the chaff  ||| ANS: winnow ||| POS: 7 ||| Found in: Winnow: An agricultural method for separating grain from chaff; metaphorically used to mean sorting out the valuable aspects from less important ones. 
+CLUE: 1987 Best Actress Oscar winner for 'Moonstruck'  ||| ANS: cher ||| POS: 1 ||| Found in: Cherubino: Refers to cherub or angel-like, symbolizing Cher's youthful charm in "Moonstruck." 
+CLUE: Night attire  ||| ANS: pyjamas ||| POS: 5 ||| Found in: Pyjamas - A set of clothing consisting of a top (or tunic) and trousers (usually for both men and women), often worn at home in bedtime attire. 
+CLUE: Ball game  ||| ANS: hockey ||| POS: 6 ||| Found in: Field hockey: This specific sport is played with a small, hard ball and involves two teams competing to score goals using sticks to hit the ball across the field. 
+CLUE: Of skin, yellowish in colour  ||| ANS: sallow ||| POS: 2 ||| Found in: Sallow - Describes an unhealthy pale or sickly yellowish appearance of the skin. 
+CLUE: Taj Mahal city  ||| ANS: agra ||| POS: 8 ||| Found in: Archaeological Site: The Taj Mahal itself as well as other nearby ancient sites, like Agra Fort. 
+CLUE: Swimming stroke  ||| ANS: crawl ||| POS: 3 ||| Found in: Front crawl 
+CLUE: Sacred beetle  ||| ANS: scarab ||| POS: 4 ||| Found in: Scarabaeidae - The family to which scarab beetles belong; these beetiles have been revered in many ancient civilizations as sacred symbols of rebirth or regeneration. 
+CLUE: In favour of  ||| ANS: pro ||| POS: 3 ||| Found in: Pro-active 
+CLUE: Enclosure set back or indented  ||| ANS: recess ||| POS: 1 ||| Found in: Recession 
+CLUE: Explicit or in detail  ||| ANS: specific ||| POS: 11 ||| Found in: Specific directive 
+CLUE: Search  ||| ANS: quest ||| POS: 1 ||| Found in: Query: A request for information or data, often used in search engines. 
+CLUE: Entrance  ||| ANS: gate ||| POS: 1 ||| Found in: Gateway - The initial point of entry or access into a specific location. 
+CLUE: Colour  ||| ANS: green ||| POS: 11 ||| Found in: Azure - Sky blue or light greenish-blue. 
+CLUE: Huge legendary beings  ||| ANS: giants ||| POS: 2 ||| Found in: Titans (mythological giants in Greek lore) 
+CLUE: Window in roof  ||| ANS: skylight ||| POS: 1 ||| Found in: Pane - A single sheet of glass used in windows, often found in roofs with skylights or vents. 
+CLUE: PhD or D.Phil  ||| ANS: doctorate ||| POS: 1 ||| Found in: Doctorate: A highest academic degree awarded by universities, often represented as PhD or D.Phil. 
+CLUE: Indian cotton rug  ||| ANS: dhurrie ||| POS: 10 ||| Found in: Dhurries: Traditional flat mats or rugs from India made using cotton but highlighting different weaving techniques than more formal cotton rugs. 
+CLUE: Peculiar  ||| ANS: odd ||| POS: 4 ||| Found in: Odd - Astonishingly strange; not typical. 
+CLUE: Private teacher  ||| ANS: tutor ||| POS: 2 ||| Found in: Tutor - An individual who gives private lessons to students on specific subjects or skills. 
+CLUE: Perimeter of circle  ||| ANS: circumference ||| POS: 1 ||| Found in: Circumference - The perimeter or distance around the circle's edge. 
+CLUE: Run away secretly to marry ||| ANS: elope ||| POS: 10 ||| Found in: Elopement 
+CLUE: Fertiliser  ||| ANS: manure ||| POS: 10 ||| Found in: Organic Fertiliser - Materials derived from living organisms, such as manure or compost, which enhance soil structure and nutrient content without synthetic additives. 
+CLUE: Verity  ||| ANS: truth ||| POS: 1 ||| Found in: Truth - The quality or state of being true; it embodies veracity, aligning with the essence of Verity. 
+CLUE: Grotto  ||| ANS: cave ||| POS: 1 ||| Found in: Cavernous (related to grottoes) 
+CLUE: Amorous mark  ||| ANS: lovebite ||| POS: 13 ||| Found in: Lovebite - A small red mark left on the skin after passionate kissing, symbolizing physical evidence of romantic feelings and desire. 

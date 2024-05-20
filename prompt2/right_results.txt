@@ -1,0 +1,8 @@
+CLUE: Strange or eccentric person  ||| ANS: weirdo ||| POS: 5 
+CLUE: Assassinated US president  ||| ANS: kennedy ||| POS: 2 
+CLUE: Country bumpkin  ||| ANS: yokel ||| POS: 15 
+CLUE: Small narrow river  ||| ANS: stream ||| POS: 1 
+CLUE: Bird of prey  ||| ANS: eagle ||| POS: 4 
+CLUE: Appalling, awful  ||| ANS: dreadful ||| POS: 9 
+CLUE: Ran away to get married  ||| ANS: eloped ||| POS: 1 
+CLUE: Very skilled or proficient  ||| ANS: adept ||| POS: 3 
