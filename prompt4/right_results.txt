@@ -1,0 +1,26 @@
+CLUE: Celestial body  ||| ANS: star ||| POS: 2 
+CLUE: Popeye's nemesis ||| ANS: bluto ||| POS: 1 
+CLUE: Booking (in restaurant)  ||| ANS: reservation ||| POS: 1 
+CLUE: Strange or eccentric person  ||| ANS: weirdo ||| POS: 6 
+CLUE: Prejudice  ||| ANS: bias ||| POS: 1 
+CLUE: 1987 Best Actress Oscar winner for 'Moonstruck'  ||| ANS: cher ||| POS: 1 
+CLUE: Assassinated US president  ||| ANS: kennedy ||| POS: 3 
+CLUE: Oriental two-wheeled carriage ||| ANS: rickshaw ||| POS: 8 
+CLUE: Taj Mahal city  ||| ANS: agra ||| POS: 1 
+CLUE: Country bumpkin  ||| ANS: yokel ||| POS: 4 
+CLUE: Statement of money owed ||| ANS: invoice ||| POS: 9 
+CLUE: Small narrow river  ||| ANS: stream ||| POS: 1 
+CLUE: Bird of prey  ||| ANS: eagle ||| POS: 3 
+CLUE: Push lips out as sign of annoyance  ||| ANS: pout ||| POS: 1 
+CLUE: One employed to look after a golf course  ||| ANS: greenkeeper ||| POS: 3 
+CLUE: Enclosure set back or indented  ||| ANS: recess ||| POS: 1 
+CLUE: Tropical skirt  ||| ANS: sarong ||| POS: 4 
+CLUE: Court game  ||| ANS: squash ||| POS: 3 
+CLUE: Talked indiscreetly  ||| ANS: blabbed ||| POS: 8 
+CLUE: Huge legendary beings  ||| ANS: giants ||| POS: 2 
+CLUE: Window in roof  ||| ANS: skylight ||| POS: 1 
+CLUE: Private teacher  ||| ANS: tutor ||| POS: 1 
+CLUE: Perimeter of circle  ||| ANS: circumference ||| POS: 1 
+CLUE: Fertiliser  ||| ANS: manure ||| POS: 8 
+CLUE: Verity  ||| ANS: truth ||| POS: 1 
+CLUE: Very skilled or proficient  ||| ANS: adept ||| POS: 1 
