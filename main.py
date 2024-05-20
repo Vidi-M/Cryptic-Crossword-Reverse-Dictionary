@@ -51,6 +51,7 @@ def main():
     start = time.time()
     for i in range(len(definitions)):
         print(f"{i+1}/{len(definitions)}")
+        prompt = prompt.replace('{definition}', definitions[i])
         print(prompt)
         response = ollama.chat(model=model, messages=[
         {
@@ -70,12 +71,12 @@ def main():
                                                   words_list, 
                                                   right_count, 
                                                   almost_count,
-                                                  prompt_no)
+                                                  f"prompt{prompt_no}")
         
     end = time.time()
     elapsed = end - start
                 
-    print_result(right_count, almost_count, len(definitions), elapsed, prompt_no)
+    print_result(right_count, almost_count, len(definitions), elapsed, f"prompt{prompt_no}")
     
 if __name__ == "__main__":
     main()

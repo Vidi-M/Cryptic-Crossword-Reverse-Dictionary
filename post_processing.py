@@ -1,4 +1,7 @@
-def process_result(clue, answer, words, right_count, almost_count, prompt_no):
+import os
+
+
+def process_result(clue, answer, words, right_count, almost_count, dir):
     ## Check for match with answer
     page = 'wrong'
     chars = len(answer)
@@ -27,12 +30,12 @@ def process_result(clue, answer, words, right_count, almost_count, prompt_no):
     else:
         output_filename = 'wrong_results.txt'
 
-    with open(f"prompt{prompt_no}/" + output_filename, 'a') as output_file:
+    with open(os.path.join(dir, output_filename), 'a') as output_file:
         output_file.write(printline)
 
     return right_count, almost_count
 
-def print_result(right_count, almost_count, length, time, prompt_no):
+def print_result(right_count, almost_count, length, time, dir):
     results = (
         "-------------------------------------------------\n"
         f"RIGHT: {right_count / length * 100:.2f}%\n"
@@ -43,5 +46,5 @@ def print_result(right_count, almost_count, length, time, prompt_no):
     )
 
                 
-    with open(f"prompt{prompt_no}/summary", "a") as output_file:
+    with open(os.path.join(dir, 'Summary'), "a") as output_file:
         output_file.write(results)
