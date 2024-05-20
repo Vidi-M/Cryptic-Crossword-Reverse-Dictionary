@@ -1,0 +1,128 @@
+CLUE: Movement along a route  ||| ANS: traffic 
+ ['Navigation', 'Travel', 'Transit', 'Journey', 'Pathway', 'Route', 'Track', 'Passage', 'Avenue', 'Highway', 'Byway', 'Street', 'Road', 'Trip', 'Excursion', 'Commute', 'Trek', 'Pilgrimage', 'Drive', 'Stroll'] 
+CLUE: Efficient conductor  ||| ANS: transmission line 
+ ['Conductivity', 'Resistivity', 'Superconductor', 'Electrical resistance', 'Thermal conductivity', 'Metallic element', 'Copper', 'Silver', 'Gold', 'Aluminum', 'Tin', 'Graphite', 'Diamond', 'Conduction band', 'Free electrons', 'Bandgap', 'Electrical current', 'Heat transfer', 'Low-resistance pathway', 'High conductivity'] 
+CLUE: Awkward  ||| ANS: inept 
+ ['Uncomfortable', 'Clumsy', 'Tepid', 'Shy', 'Uneasy', 'Incongruous', 'Ill-suited', 'Abashed', 'Fumbling', 'Misaligned', 'Blundering', 'Disheveled', 'Awkward silence', 'Haphazard', 'Stilted', 'Peculiar', 'Imbalanced', 'Fractured', 'Slipshod', 'Misguided'] 
+CLUE: Like oxygen, neon, etc  ||| ANS: gaseous 
+ ['Gas', 'Element', 'Noble', 'Atom', 'Ionization Energy', 'Electron Configuration', 'Periodic Table', 'Nonreactive', 'Molecular Weight', 'Chemical Symbols (O for Oxygen, Ne for Neon)', 'Kinetic Theory of Gases', 'Density', 'Boiling Point', 'Melting Point', 'Isotopes', 'Alkaline Earth Metals (like calcium and magnesium)', 'Transition Metals (such as iron, copper)', 'Halogens (e.g., fluorine, chlorine)', 'Nonmetal (elements like carbon, nitrogen, oxygen)', 'Chemical Bonding (covalent bonds between non-reactive elements or with different properties)'] 
+CLUE: Absurd misrepresentation  ||| ANS: travesty 
+ ['Distortion', 'Fabrication', 'Deception', 'Exaggeration', 'Misleading', 'Falsehood', 'Untruthfulness', 'Inaccuracy', 'Irrelevance', 'Absurdity', 'Farce', 'Pretense', 'Parody', 'Malapropism (used when misusing a word in an amusing way)', 'Misconstrued', 'Deleterious distortion', 'Unfounded assertion', 'Dubious claim', 'Exaggerated depiction', 'Implausible exaggeration'] 
+CLUE: Strange or eccentric person  ||| ANS: weirdo 
+ ['Eccentric', 'Unconventional', 'Oddball', 'Idiosyncratic', 'Outlandish', 'Quirky', 'Peculiar', 'Curious', 'Mysterious', 'Offbeat', 'Flawed', 'Unconventionality-driven', 'Whimsical', 'Absurd', 'Wacky', 'Nonconformist', 'Divergent', 'Inimitable', 'Bespoke', 'Singular'] 
+CLUE: Separate the wheat from the chaff  ||| ANS: winnow 
+ ['Discernment', 'Criteria', 'Evaluation', 'Analysis', 'Assessment', 'Differentiation', 'Quality', 'Distinction', 'Filtering', 'Separating', 'Rejection', 'Exclusion', 'Refining', 'Purity', 'Insightfulness', 'Selectivity', 'Culling', 'Sorting', 'Elimination', 'Refinement'] 
+CLUE: Wife of Leofric, an early streaker!  ||| ANS: lady godiva 
+ ['Husbandry', 'Eccentricity', 'Marriage', 'Medieval', 'Anglo-Saxon', 'Courtly Life', 'Leoffrid (variant spelling of Leofric)', 'Normandy', 'England', 'Viking Invasion', 'Norman Conquest', 'Feudalism', 'Chivalry', 'Domesticity', 'Peculiarity', 'Stripping (in a historical context)', 'Public Scandals', 'Social Norms', 'Legends and Mythology', 'Historical Figure'] 
+CLUE: Swindle  ||| ANS: hustle 
+ ['Deception', 'Fraud', 'Scam', 'Chicanery', 'Scheme', 'Swindle plot', 'Con game', 'Hoax', 'Trickery', 'Bait-and-switch', 'Cons prey', 'Ripoff', 'Dishonesty', 'Embezzlement', 'Confidence trick', 'Deceptive practice', 'False advertising', 'Cheating', 'Money laundering (in some contexts)', "Swindler's art"] 
+CLUE: Banknote; beak  ||| ANS: bill 
+ ['Currency', 'Exchange Rate', 'Denomination', 'Serial Number', 'Inflation', 'Security Features', 'Fiscal Policy', 'Composition (metal or cotton)', 'Circulation', 'Authentication', 'Ancient Coins (comparative history)', 'Deposit', 'Counterfeit', 'Withdrawal', 'Reserve Bank', 'Value Fluctuation', 'Paper Quality', 'Historical Era (e.g., Renaissance)', 'Minting', 'Banknote Collector (Numismatist)'] 
+CLUE: Final stage in chess  ||| ANS: end game 
+ ['Endgame', 'Checkmate', 'Pawn promotion', 'King safety', 'Minor piece maneuvering', 'Rook endgames', 'Queen activity', 'Castling kingside/queenside', 'Pinning tactics', 'Fork tactic', 'Skewer strategy', 'Zugzwang position', 'Overloading defense', 'Back rank mate', 'Last-move theory', 'Endgame tablebases', 'Zwingerman’s endgame principles', 'Rook versus rook endgames', 'King and pawn vs', 'Stalemate avoidance'] 
+CLUE: Miscellaneous curios  ||| ANS: bric-a-brac 
+ ['Antiquities', 'Collectibles', 'Novelty items', 'Souvenirs', 'Trinkets', 'Eccentric artifacts', 'Unique finds', 'Oddities', 'Rarities', 'Curios', 'Niche interests', 'Hobbyist treasures', 'Vintage knick-knacks', 'Kitsch objects', 'Whimsical items', 'Unconventional memorabilia', 'One-of-a-kind pieces', 'Archaeological relics', 'Peculiar mementos', 'Curiosities of the world'] 
+CLUE: Kind of ferry  ||| ANS: ro-ro 
+ ['Passenger', 'Cargo', 'Ferryboat', 'Toll', 'Docking', 'Berthing', 'Pilotage', 'Crossing', 'Lighter', 'Channel', 'Waterway', 'Steam-powered', 'Electric ferry', 'Paddlewheel', 'Crew', 'Towboat', 'Transit', 'Intermodal', 'Tide', 'Seasonal'] 
+CLUE: Night attire  ||| ANS: pyjamas 
+ ['Pajamas', 'Sleepwear', 'Lingerie', 'Evening gowns', 'Silk robes', 'Thermal wear', 'Nocturnal clothing', 'Nightgowns', 'Flannel pajamas', 'Nightdresses', 'Sheets (bedding)', 'Cozies (throws for feet or hands)', 'Blanket slips', 'Eye masks', 'Soft shoes', 'Pillowcases', 'Nightwear fabrics: silk, cotton, flannel', 'Sleep shirts/Tops', 'Leg warmers (for cold environments)', 'Dream catchers (decorative items that are often used in bedrooms).'] 
+CLUE: Ball game  ||| ANS: hockey 
+ ['Matches', 'Strikes', 'Outs', 'Innings', 'Home Run', 'Pitcher', 'Base Stealer', 'Fielding', 'Umpire', 'Diamond (baseball diamond)', 'Glove', 'Bat', 'Baseball Cap', 'Cleats', 'Dugout', 'Foul Ball', 'Runner', 'Catcher', 'Base Coaches', 'Wicket (in cricket, which is also a ball game)'] 
+CLUE: Cringing, fawning  ||| ANS: servile 
+ ['Submissive', 'Affected', 'Eager-to-please', 'Foolishly obsequious', 'Quivering', 'Nervousness', 'Awkwardness', 'Embarrassment', 'Meek', 'Groveling', 'Disingenuous', 'Overeager', 'Uncomfortable', 'Cringeworthy', 'Desperate', 'Flattery-seeking', 'Vulnerability', 'Deferential', 'Self-consciousness', 'Overly submissive'] 
+CLUE: Of skin, yellowish in colour  ||| ANS: sallow 
+ ['Carotenemia', 'Jaundice', 'Scleroderma', 'Keratosis', 'Albinism (partially related)', 'Xanthelasma (cholesterol plaques)', 'Vitiligo (white patches, but yellowish in context with other skin conditions)', 'Yellow Dermatitis', 'Lupus Erythematosus (can present yellowish rashes)', 'Pellagra (niacin deficiency causing dermatological issues including yellowing of the skin)', 'Xanthoma Nodosum', 'Hepatitis (associated with yellowing skin due to liver problems, not directly a skin condition but related to coloration)', 'Cholecalciferosis (osteoporosis leading to yellowish discoloration in some cases)', 'Urticaria (hives that can sometimes appear yellowish when inflamed)', 'Hemochromatosis (iron overload causing a bronze or yellow appearance of the skin)', 'Xanthogenic Eruption (rare reactions producing orange-yellow hues on skin)', 'Neutrophilia (abnormal increase in neutrophils which can sometimes lead to discoloration, not directly related but contextually relevant for a color shift)', 'Porphyria Cutanea Tarda (skin lesions with yellowish crusts)', 'Dermatomyositis (muscle inflammation with potential skin involvement and discoloration including yellow shades)', 'Erythroderma (extensive redness that can sometimes have a yellow tint, particularly in chronic cases or those associated with underlying conditions).'] 
+CLUE: Spongy confection ||| ANS: marsh mallow 
+ ['Marshmallow', 'Candyfloss', 'Cotton candy', 'Puffballs', 'Foam-based treat', 'Spongecake', 'Doughnut hole', 'Fondant', 'Whipped cream', 'Choux pastry', 'Gelato (if whipped with air)', 'Bubblegum', 'Fluffy confectionery', 'Ice cream aeration', 'Panna cotta', 'Malabar sponge', 'Baklava layers', 'Sweet dough base', 'Marshmallow pearls', 'Air-infused sweet treat'] 
+CLUE: Unpowered aircraft  ||| ANS: hang-glider 
+ ['Glider', 'Hang glider', 'Paraglider', 'Kite', 'Hot air balloon', 'Airship (dirigible)', 'Zeppelin', 'Barrage balloon', 'Skyhook', 'Helium-filled bladder', 'Rafting', 'Blimps (non-rigid airships)', 'Airfoil (used in kites and gliders for lift generation)', 'Soaring flight', 'Glide ratio (measure of the distance an unpowered aircraft can travel forward relative to its descent rate)', 'Elevator (horizontal control surface on a glider or airplane that controls pitch)', 'Venturi effect (related to kites and wind tunnels for studying aerodynamics in unpowered aircraft)', 'Delta wing design (seen in some unmanned drones which rely primarily on lift rather than power for propulsion)'] 
+CLUE: Moves stealthily  ||| ANS: creeps 
+ ['Sneak', 'Stealthy', 'Silent', 'Undetected', 'Covert', 'Invisible', 'Clandestine', 'Elusive', 'Camouflaged', 'Shadowed', 'Hushed', 'Concealed', 'Stealth', 'Evasion', 'Whispering', 'Ghostlike', 'Prowling', 'Phantom-like', 'Subtle', 'Intriguing'] 
+CLUE: See  ||| ANS: attheokcorral* 
+ ['Vision', 'Glasses', 'Sight', 'Observation', 'Perception', 'Insight', 'Blindness', 'Eye', 'Gaze', 'Glance', 'Viewpoint', 'Perspective', 'Scan', 'Spy', 'Swoop (as in birds of prey)', 'Peer', 'Lookout', 'Vista (a distant view)', 'Spectacle (an impressive sight or display)', 'Seesaw (metaphorically, to alternate attention between different things)'] 
+CLUE: Swimming stroke  ||| ANS: crawl 
+ ['Breaststroke', 'Freestyle', 'Backstroke', 'Butterfly', 'Doggie-roll (Diving entry style)', 'Tumble turn', 'Flip-turn', 'Flutter kick (Swimming technique)', 'Catch-up stroke (Beginner swim)', 'Sidestroke', 'Dolphin kick (Butterfly and Freestyle underwater phase)', 'Streamline position', 'Pull (Part of the freestyle stroke cycle)', 'Breathing technique (Related to all strokes)', 'Gliding (Relaxed swimming position between strokes)', 'Effortless motion (Describes a well-performed stroke)', 'Spin turn (Different from the flip turn, used in competitive diving pools)', 'Turtle roll (A different term for doggie-roll or dive entry)', 'Eagle kick (Another name for flutter kick often associated with Freestyle and Butterfly strokes)', 'Surface interval (Time spent at the surface between sets in competitive swimming)'] 
+CLUE: Brave and chivalrous men  ||| ANS: gallants 
+ ['Gallant', 'Courageous', 'Heroic', 'Valorous', 'Noble', 'Valiant', 'Chivalrous', 'Daring', 'Bravehearted', 'Fearless', 'Knightly', 'Dauntless', 'Courageous', 'Heroic', 'Lionshearted', 'Sir-like', 'Chivalrous', 'Bold', 'Brave-spirited', 'Valor-filled'] 
+CLUE: Seasoning  ||| ANS: salt-and-pepper 
+ ['Salt', 'Pepper', 'Herbs', 'Spices', 'Marinades', 'Umami', 'Thyme', 'Rosemary', 'Garlic powder', 'Onion powder', 'Paprika', 'Cumin', 'Saffron', 'Oregano', 'Turmeric', 'Steak seasoning blend', 'Bouillon cubes', 'Soy sauce', 'Lemon zest', 'Vanilla extract (used in savory dishes for a subtle flavor boost)'] 
+CLUE: Draw (brows) together  ||| ANS: knit 
+ ['Browlowser', 'Pencil', 'Sketching', 'Shading', 'Definition', 'Arch', 'Eyebrow', 'Lineart', 'Contouring', 'Stroke', 'Sculptor', 'Highlighter', 'Feathered', 'Natural', 'Defined', 'Enhancement', 'Mascara', 'Under-eye', 'Drawing guide', 'Brow filler'] 
+CLUE: Attractive  ||| ANS: fetching 
+ ['Appealing', 'Charming', 'Desirable', 'Elegant', 'Fascinating', 'Gracious', 'Handsome', 'Lovely', 'Pleasing', 'Seductive', 'Tantalizing', 'Alluring', 'Beautiful', 'Enchanting', 'Glamorous', 'Irresistible', 'Attractive (noun form)', 'Captivating', 'Engaging', 'Eye-catching'] 
+CLUE: Node ||| ANS: lump 
+ ['Connection', 'Edge', 'Link', 'Interconnectivity', 'Hub', 'Root', 'Tree', 'Parent', 'Child', 'Leaf', 'Branch', 'Topology', 'Network', 'Data Transfer', 'Packet', 'Flow', 'Routing', 'Layer', 'Pathway', 'Fiber Optic'] 
+CLUE: Sacred beetle  ||| ANS: scarab 
+ ['Sanctity', 'Ceremony', 'Worship', 'Taboo', 'Totem', 'Divinity', 'Ancestor', 'Spirituality', 'Veneration', 'Mythology', 'Prayer', 'Oracle', 'Sacredness', 'Ritual', 'Sanctuary', 'Elders', 'Legend', 'Pilgrimage', 'Reverence', 'Symbolism'] 
+CLUE: Bird of prey  ||| ANS: eagle 
+ ['Talons', 'Plumage', 'Soaring', 'Apex predator', 'Hunting', 'Raptor', 'Ectothermic', 'Beak', 'Fledgling', 'Biodiversity', 'Migration', 'Territorial', 'Prey', 'Predation', 'Conservation', 'Aerial acrobatics', 'Keen eyesight', 'Reproductive behavior', 'Eggs', 'Carrion'] 
+CLUE: No more the old blond film start  ||| ANS: monroe 
+ ['Silver Screen', 'Cinematic Era', 'Classical Hollywood', 'Golden Age', 'Retro Cinema', 'Vintage Aesthetic', 'Nostalgia', 'Yellowish Tone', 'Sun-Kissed Hue', 'Amber Glow', 'Bygone Days', 'Film Noir', 'Black and White', 'Grainy Texture', 'Monochrome Movies', 'Warm Color Palette', 'Golden Ratio', 'Timeless Appeal', 'Cinemagraphic Elements', 'Historical Footage'] 
+CLUE: Such as one would not stoop to  ||| ANS: infra dig 
+ ['Respect', 'Integrity', 'Dignity', 'Honor', 'Pride', 'Self-worth', 'Excellence', 'Quality', 'Professionalism', 'Courage', 'Commitment', 'Empathy', 'Compassion', 'Responsibility', 'Virtue', 'Discipline', 'Excellence', 'Perseverance', 'Humility', 'Loyalty'] 
+CLUE: Push lips out as sign of annoyance  ||| ANS: pout 
+ ['Snarl', 'Frown', 'Scowl', 'Grimace', 'Sneer', 'Tsk-tsk', 'Grit teeth', 'Clench jaw', 'Puff chest', 'Purse lips', 'Mouth tighten', 'Wrinkle nose', 'Eye roll', 'Disgruntled', 'Irate', 'Agitated', 'Frustrated', 'Exasperated', 'Ire', 'Testy'] 
+CLUE: Small mark  ||| ANS: dot 
+ ['Label', 'Tagline', 'Badge', 'Emblem', 'Seal', 'Insignia', 'Marker', 'Stamp', 'Icon', 'Symbol', 'Monogram', 'Motif', 'Logo', 'Crest', 'Signature (miniature)', 'Emphasis', 'Distinctive feature', 'Identifier', 'Badge of honor', 'Marker ink'] 
+CLUE: Approaches boldly  ||| ANS: accosts 
+ ['Strategize', 'Bravefront', 'Daringly', 'Fearlessness', 'Courageous', 'Boldly-minded', 'Intrepidity', 'Venturesome', 'Gutsy', 'Audacious', 'Dauntless', 'Resolute', 'Comprehensive (as in a comprehensive approach)', 'Holistic', 'Progressive', 'Innovative', 'Transformative', 'Proactive', 'Trailblazing', 'Radical'] 
+CLUE: String  ||| ANS: twine 
+ ['Character', 'Alphabet', 'Sequence', 'Substring', 'Concatenation', 'Interpolation', 'Iteration', 'Encoding', 'Decoding', 'Parsing', 'Regular Expression (Regex)', 'String Manipulation', 'Indexing', 'Length', 'Compression', 'Concatenative Language', 'Multiline Strings', 'Unicode', 'Slicing', 'Trimming'] 
+CLUE: Skin blemish  ||| ANS: wart 
+ ['Acne', 'Melanoma', 'Pimple', 'Scar', 'Freckle', 'Birthmark', 'Rash', 'Eczema', 'Psoriasis', 'Hives', 'Blotch', 'Dermatitis', 'Chloasma (age spots)', 'Nevus (mole)', 'Sebaceous gland', 'Hyperpigmentation', 'Vitiligo', 'Melanosis', 'Keratosis', 'Keloid'] 
+CLUE: Enclosure set back or indented  ||| ANS: recess 
+ ['Indentation', 'Spacing', 'Margins', 'Paragraphs', 'Justification', 'Alignment', 'Formatting', 'Whitespace', 'Margin setback', 'Text indentation', 'Leading (line spacing)', 'Tab stop', 'Inset box', 'Footer', 'Header', 'Enclosing border', 'Indented blockquote', 'Sidebar', 'Nesting', 'Layout design'] 
+CLUE: Left high and dry  ||| ANS: marooned 
+ ['Abandoned', 'Adrift', 'Helplessness', 'Disappointment', 'Devastated', 'Desolation', 'Exasperation', 'Neglect', 'Stranded', 'Unsupported', 'Bereaved', 'Forlorn', 'Forsaken', 'Futility', 'Humiliation', 'Inefficacy', 'Lonely', 'Misguided', 'Ostracized', 'Rejected'] 
+CLUE: Cardinal number  ||| ANS: seventeen 
+ ['One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine', 'Ten', 'Decimal', 'Counting', 'Quantity', 'Number line', 'Ordered set', 'Sequence', 'Rankings', 'Integers (including negative numbers)', 'Whole numbers', 'Ordinal numbers'] 
+CLUE: Over-indulged child  ||| ANS: spoilt brat 
+ ['Gluttony', 'Entitlement', 'Hoarding', 'Extravagance', 'Impulsivity', 'Consumerism', 'Greediness', 'Lavishness', 'Excessiveness', 'Overeating', 'Indulgence', 'Privilege', 'Self-indulgence', 'Narcissism', 'Materialism', 'Overspending', 'Profligacy', 'Neglectfulness (towards discipline)', 'Overstimulation ', 'Inconsiderate behavior'] 
+CLUE: Search  ||| ANS: quest 
+ ['Indexing', 'Query', 'Algorithm', 'Keywords', 'Database', 'Retrieval', 'Ranking', 'Filtering', 'Web search engine', 'Search optimization', 'Spiders (web crawlers)', 'SERP (Search Engine Results Page)', 'Backlink', 'Indexation process', 'Boolean operators', 'Full-text search', 'Faceted search', 'Deep learning for search', 'Search engine marketing (SEM)', 'Voice search technology'] 
+CLUE: Tropical skirt  ||| ANS: sarong 
+ ['Hibiscus', 'Palm fronds', 'Lace', 'Silk', 'Frilly', 'Fluttery', 'Sundress', 'Beachwear', 'Breezy', 'Tropical floral print', 'Flowing skirt', 'Vibrant colors', 'Sequin', 'Sun-drenched fabric', 'Woven stripes', 'Patterned tropical print', 'Lightweight chiffon', 'Hawaian style', 'Bermuda shorts', 'Aloha shirt'] 
+CLUE: The quality of being amusing  ||| ANS: humour 
+ ['Amusement', 'Entertainment', 'Humor', 'Comical', 'Hilarious', 'Witty', 'Jocular', 'Whimsical', 'Funny', 'Light-hearted', 'Playful', 'Cheerful', 'Enjoyable', 'Amusing anecdotes', 'Laughter-inducing', 'Wit-filled', 'Gleeful', 'Charming', 'Spirited', 'Jovial'] 
+CLUE: Not all there  ||| ANS: dotty 
+ ['Incomplete', 'Partial', 'Fragmented', 'Selective', 'Limited', 'Restricted', 'Narrow', 'Bounded', 'Constrained', 'Excluded', 'Uncertain', 'Ambiguous', 'Inconsistent', 'Irregular', 'Varied', "Diverse (though it's often used to indicate difference, in this context it may imply not all is the same)", "Multifaceted (indicating complexity but also suggesting that there isn't a single perspective or answer)", 'Intricate (complexity and not easily understood as a whole)', "Disparate (various, different things which don't entirely fit together)", 'Asymmetrical (lacking symmetry; though more often used in physical contexts, it metaphorically can suggest an imbalance or lack of wholeness).'] 
+CLUE: Cruel ||| ANS: ogreish 
+ ['Brutality', 'Malice', 'Sadism', 'Apathy', 'Torture', 'Misery', 'Abuse', 'Suffering', 'Indifference', 'Cruelty', 'Wickedness', 'Savagery', 'Inhumanity', 'Harshness', 'Brutalism', 'Painstakingly cruel', 'Tormentor', 'Mercilessness', 'Cruelty-inflicted', 'Ferociousness'] 
+CLUE: Court game  ||| ANS: squash 
+ ['Litigation', 'Trial', 'Arbitration', 'Verdict', 'Jury', 'Plaintiff', 'Defendant', 'Judgment', 'Objection', 'Plea', 'Cross-examination', 'Hearing', 'Appeal', 'Bench trial', 'Docket', 'Contempt of court', 'Sentencing', 'Gavel', 'Adjournment', 'Summary judgment'] 
+CLUE: Truncated remnant  ||| ANS: stub 
+ ['Fragmentation', 'Tailpiece', 'Deletion', 'Reduction', 'Snippet', 'Shortened', 'Cutoff', 'Pruning', 'Extension loss', 'Incomplete', 'Residue', 'Excessive', 'Remnant part', 'Truncated end', 'Broken section', 'Subset', 'Overhang', 'Length modification', 'Fragmented data', 'Shortened sequence'] 
+CLUE: Open valley  ||| ANS: dale 
+ ['Basin', 'Stream', 'Slope', 'Ridges', 'Terraces', 'Confluence', 'Foothills', 'Plateau', 'Glacier (if applicable)', 'Wildlife', 'Flora', 'Biodiversity', 'Conservation', 'Tourism', 'Hydrology', 'Erosion', 'Canyon', 'Landscape', 'Sedimentation', 'Recreational (activities in the valley)'] 
+CLUE: Talked indiscreetly  ||| ANS: blabbed 
+ ['Gossip', 'Whisper', 'Rumor', 'Chatter', 'Blabbermouth', 'Revelation', 'Scandal', 'Slander', 'Tattletale', 'Indiscretion', 'Confidentiality breach', 'Disclosure (inappropriate)', 'Exposition (unintentional reveal)', 'Secrecy-breaker', 'Lurker', 'Gossipmonger', 'Speakout (irresponsible sharing)', 'Muttering secrets', 'Chatterbox', 'Insincerity'] 
+CLUE: Ran away to get married  ||| ANS: eloped 
+ ['Escaped', 'Fleeing', 'Honeymooning', 'Lovebug', 'Wedding bells', 'Aisle', 'Vows', 'Courtship', 'Elopement', 'Romance', 'Union', 'Marriage license', 'Heartthrob', 'Matrimony', 'Love letter', 'Wedding planner', 'Proposal', 'Happily-ever-after', 'Engagement ring', 'Nuptials'] 
+CLUE: Tough and elastic  ||| ANS: rubbery 
+ ['Resilience', 'Flexibility', 'Elastomer', 'Toughness', 'Durability', 'Robust', 'Stretchable', 'Rigidity', 'High-tensile strength', 'Bounce back', 'Deformability', 'Suppleness', 'Reinforcement', 'Compressibility', 'Toughened glass', 'Hybrid material', 'Elasticity', 'Malleable', 'Adaptive', 'Break-resistant'] 
+CLUE: Eat and drink  ||| ANS: wine and dine 
+ ['Nutrition', 'Hydrate', 'Appetite', 'Cuisine', 'Gastronomy', 'Digestion', 'Sustenance', 'Dietary', 'Palate', 'Consumption', 'Dining', 'Beverage', 'Alimentation', 'Gastroenterology', 'Epicurean', 'Feasting', 'Gastronomy', 'Mastication', 'Fermentation', 'Zest'] 
+CLUE: Young newt  ||| ANS: eft 
+ ['Aquatic', 'Newborn', 'Amphibian', 'Hatchling', 'Pupa', 'Metamorphosis', 'Juvenile', 'Reptilian-like', 'Ecdysis (molting)', 'Tadpole stage', 'Neoteny (retention of juvenile features in adulthood)', 'Freshwater', 'Piscivorous (fish-eating, at early stages)', 'Newtletes (nickname for young newts, informal term)', 'Heterochrony (differences in development rates among species)', 'Caudata (order of amphibians that includes newts and salamanders)', 'Viviparous (bearing live young, some newt species exhibit this trait)', 'Ecosystem engineer (young newts can alter their habitat as they grow)', 'Threatened species (due to environmental changes and habitat loss)', 'Tadpole-to-newt transition (the process of metamorphosis from tadpole to young newt)'] 
+CLUE: Happy  ||| ANS: glad 
+ ['Joyful', 'Content', 'Elated', 'Blissful', 'Jubilant', 'Satisfied', 'Delighted', 'Radiant', 'Gleeful', 'Cheerful', 'Euphoric', 'Lively', 'Upbeat', 'Exuberant', 'Pleasant', 'Beaming', 'Sunny', 'Optimistic', 'Grateful', 'Serene'] 
+CLUE: Indian cotton rug  ||| ANS: dhurrie 
+ ['Handwoven', 'Pashmina', 'Silk', 'Fine Cottons', 'Textile', 'Dharavi', 'Artisan', 'Kantha', 'Nalmy', 'Ikat', 'Zari', 'Fresco', 'Traditionalism', 'Geometric patterns', 'Vibrant colors', 'Antique', 'Caste system influence', 'Comfortable', 'Eco-friendly', 'Heritage craftsmanship'] 
+CLUE: Makes intelligible  ||| ANS: explains 
+ ['Comprehend', 'Clarify', 'Explanation', 'Decipher', 'Interpret', 'Understandable', 'Perceptible', 'Discernible', 'Comprehensible', 'Coherent', 'Articulate', 'Enlightening', 'Insightful', 'Explicatory', 'Expository', 'Intelligible', 'Legible', 'Decodable', 'Transparent', 'Decode'] 
+CLUE: Important person ||| ANS: bigwig 
+ ['Influential', 'Noteworthy', 'Esteemed', 'Distinguished', 'Prominent', 'Renowned', 'Respected', 'Leader', 'Iconic', 'Visionary', 'Catalyst', 'Trailblazer', 'Architect', 'Advocate', 'Mentor', 'Philanthropist', 'Ambassador', 'Luminary', 'Pioneer', 'Benefactor'] 
+CLUE: Knock against ||| ANS: jostle 
+ ['Impact', 'Collision', 'Strike', 'Pound', 'Assault', 'Injure', 'Batter', 'Thud', 'Beat', 'Crash', 'Tap', 'Hammer', 'Boom', 'Chase (as in a car chase)', 'Clash', 'Fray', 'Kickback', 'Throw', 'Bump', 'Scratch'] 
+CLUE: Feeling a blow to one's pride  ||| ANS: crestfallen 
+ ['Humiliation', 'Embarrassment', 'Disgrace', 'Insult', 'Offense', 'Rejection', 'Shame', 'Hurt', 'Wound', 'Pain (emotional)', 'Blowback', 'Demeaning', 'Demoralization', 'Sensitivity', 'Affront', 'Indignation', 'Resentment', 'Self-consciousness', 'Defiance (subsequent response)', "Resilience (response to the blow's impact)"] 
+CLUE: Gilt brass  ||| ANS: ormolu 
+ ['Ornamentation', 'Decoration', 'Brass', 'Patina', 'Metalwork', 'Craftsmanship', 'Restoration', 'Antique', 'Elegance', 'Heirloom', 'Hardware', 'Gilding', 'Alloy', 'Victorian Era', 'Chandelier', 'Stamped pattern', 'Pewter', 'Art deco', 'Appraisal', 'Preservation'] 
+CLUE: Amorous mark  ||| ANS: lovebite 
+ ['Affection', 'Passionate', 'Intimate', 'Romance', 'Courtship', 'Sensuality', 'Desire', 'Lover', 'Infatuation', 'Enthusiasm', 'Devotion', 'Yearning', 'Attraction', "Cupid's arrow", 'Heartbeat synchronization', 'Chemistry', 'Seduction', 'Whispered sweet nothings', 'Kiss', 'Embrace'] 
+CLUE: Morning dining area  ||| ANS: breakfast-room 
+ ['Breakfast nook', 'Dining table', 'Cereal bowl', 'Toast rack', 'Fruit platter', 'Kitchen island', 'Coffee maker', 'Teapot', 'Morning smoothie blender', 'Butter dish', 'Omelet station', 'Muffin trays', 'Dining chairs', 'Nut butter jar', 'Croissant basket', 'Yogurt cups', 'Cereal boxes', 'Banana stand', 'Bread basket', 'Herb garden'] 
+CLUE: Apt or witty remark - in France  ||| ANS: bon mot 
+ ['Aphorisme (Aphorism)', 'Argot (Slang/Jargon)', 'Argotique (Argotical, related to slang)', 'Articulé (Articulate, witty in expression)', 'Assaisonnement (Flavoring; metaphorically enhancing wit with spice or charm)', 'Bande dessinée (Comics) - French comics often contain clever and apt dialogue', 'Chanson française (French Song) - Often contains witty lyrics', 'Courrier (Letter) - Witticisms can be penned in letters or emails', 'Éloquence (Eloquence)', 'Humour noir (Dark humor) - Aptly humorous remarks, sometimes biting', 'Jeu de mots (Pun)', 'Joyeux (Happy/Cheerful) - Often associated with a light-hearted wit', 'Léger (Light; also implies the lightness of wit in conversation)', 'Litote (Understatement for sharp wit)', "Mot d'esprit (Witticism, witty remark)", 'Paraphrase (Rewording that can be clever and apt)', 'Proverbe (Proverb) - Often carries a pithy wisdom or wit', 'Remarque piquante (Nice/piquant remark)', 'Satire française (French satire) - The art of using wit to criticize and expose folly', 'Terme ingénieux (Ingenious term, clever wordplay)'] 
+CLUE: Brief moment  ||| ANS: second 
+ ['Instantaneous', 'Flashing', 'Snapshots', 'Fleeting', 'Ephemeral', 'Transitory', 'Temporary', 'Momentous', 'Peculiar (in the context of a unique, brief moment)', 'Spontaneous', 'Flashpoint', 'Durationless', 'Brisk', 'Fleeting encounter', "Blink and you'll miss it", 'Ephemeral bliss', 'Transient joy', 'Momentary pause', 'Quick glimpse', 'Flash in the pan'] 
