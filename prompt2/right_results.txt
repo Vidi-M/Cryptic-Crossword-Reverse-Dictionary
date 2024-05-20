@@ -1,5 +1,0 @@
-CLUE: Strange or eccentric person  ||| ANS: weirdo ||| POS: 6 
-CLUE: It follows from that fact  ||| ANS: hence ||| POS: 4 
-CLUE: Night attire  ||| ANS: pyjamas ||| POS: 3 
-CLUE: Small narrow river  ||| ANS: stream ||| POS: 1 
-CLUE: Appalling, awful  ||| ANS: dreadful ||| POS: 11 
