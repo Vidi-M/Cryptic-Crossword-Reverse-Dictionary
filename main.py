@@ -1,3 +1,4 @@
+import os
 import ollama
 import pandas as pd
 import argparse
@@ -42,7 +43,9 @@ def main():
     prompt_no = config.get('prompt_no')
     dataset = int(config.get('dataset'))
     
-    #prompt = config.get('prompt', 'give me 20 synonyms for ') # Control prompt
+    directory = f"prompt{prompt_no}/"
+    if not os.path.exists(directory):
+        os.makedirs(directory)
 
     file_path = 'definitions.csv'
     definitions, answers = read_csv(file_path, dataset)
@@ -66,17 +69,18 @@ def main():
         words_list = [line.split('. ')[1] for line in word_lines if '. ' in line]
         
         
+        
         right_count,almost_count = process_result(definitions[i], 
                                                   answers[i], 
                                                   words_list, 
                                                   right_count, 
                                                   almost_count,
-                                                  f"prompt{prompt_no}")
+                                                  directory)
         
     end = time.time()
     elapsed = end - start
                 
-    print_result(right_count, almost_count, len(definitions), elapsed, f"prompt{prompt_no}")
+    print_result(right_count, almost_count, len(definitions), elapsed, directory)
     
 if __name__ == "__main__":
     main()
