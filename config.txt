@@ -1,4 +1,0 @@
-model=phi3
-prompt=give me 20 word for {definition}
-prompt_no=1
-dataset=3
