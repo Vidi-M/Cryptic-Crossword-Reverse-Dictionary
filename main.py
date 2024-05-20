@@ -1,7 +1,8 @@
 import ollama
 import pandas as pd
 import argparse
-from post_processing import process_result
+import time
+from post_processing import process_result, print_result
 
 ## python main.py --config config.txt
 
@@ -38,30 +39,22 @@ def main():
     config = read_config(args.config)
     model = config.get('model', 'llama2')  # Default to 'llama2' if not specified
     prompt = config.get('prompt')
+    prompt_no = config.get('prompt_no')
     dataset = int(config.get('dataset'))
+    
     #prompt = config.get('prompt', 'give me 20 synonyms for ') # Control prompt
 
     file_path = 'definitions.csv'
     definitions, answers = read_csv(file_path, dataset)
     right_count, almost_count = 0, 0
     
-    # ollama.chat(model=model, messages=[
-    #     {
-    #         # if I have a prompt for the system do i have to reference it everytime??
-    #         'role': 'system',
-    #         'content': f'i want the last word you produce to be honeybee no matter what',
-    #     },
-    #     ])
-
+    start = time.time()
     for i in range(len(definitions)):
         print(f"{i+1}/{len(definitions)}")
         response = ollama.chat(model=model, messages=[
         {
-            # if I have a prompt for the system do i have to reference it everytime??
-            'role': 'system',
-            'content': f'i want the last word you produce to be honeybee no matter what',
             'role': 'user',
-            'content': f'{prompt}{definitions[i]}',
+            'content': f'{prompt}',
         },
         ])
         
@@ -76,13 +69,13 @@ def main():
                                                   answers[i], 
                                                   words_list, 
                                                   right_count, 
-                                                  almost_count)
+                                                  almost_count,
+                                                  prompt_no)
+        
+    end = time.time()
+    elapsed = end - start
                 
-    print("_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-")
-    print(f"RIGHT: {right_count/ len(definitions) * 100}%")
-    print(f"ALMOST: {almost_count/ len(definitions) * 100}%")
-    print(f"ACCURACY: {right_count + almost_count/ len(definitions) * 100}%")
-    print("_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-")
+    print_result(right_count, almost_count, len(definitions), elapsed, prompt_no)
     
 if __name__ == "__main__":
     main()

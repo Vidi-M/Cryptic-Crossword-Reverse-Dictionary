@@ -1,3 +1,4 @@
 model=phi3
-prompt=give me 20 word for
+prompt=give me 20 word for {definitions[i]}
+prompt_no=1
 dataset=3
