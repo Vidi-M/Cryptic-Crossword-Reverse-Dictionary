@@ -27,7 +27,7 @@ def process_result(clue, answer, words, right_count, almost_count, prompt_no):
     else:
         output_filename = 'wrong_results.txt'
 
-    with open(f"{prompt_no}/" + output_filename, 'a') as output_file:
+    with open(f"prompt{prompt_no}/" + output_filename, 'a') as output_file:
         output_file.write(printline)
 
     return right_count, almost_count
@@ -43,5 +43,5 @@ def print_result(right_count, almost_count, length, time, prompt_no):
     )
 
                 
-    with open(f"{prompt_no}/summary", "a") as output_file:
+    with open(f"prompt{prompt_no}/summary", "a") as output_file:
         output_file.write(results)
