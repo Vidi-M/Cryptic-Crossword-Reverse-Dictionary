@@ -54,12 +54,13 @@ def main():
     start = time.time()
     for i in range(len(definitions)):
         print(f"{i+1}/{len(definitions)}")
-        prompt = prompt.replace('{definition}', definitions[i])
+        prompt_clue = prompt.replace('{definition}', definitions[i])
         print(prompt)
+        print(prompt_clue)
         response = ollama.chat(model=model, messages=[
         {
             'role': 'user',
-            'content': f'{prompt}',
+            'content': f'{prompt_clue}',
         },
         ])
         
