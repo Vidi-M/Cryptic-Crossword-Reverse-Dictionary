@@ -1,0 +1,20 @@
+CLUE: Celestial body  ||| ANS: star ||| POS: 1 
+CLUE: Popeye's nemesis ||| ANS: bluto ||| POS: 1 
+CLUE: Booking (in restaurant)  ||| ANS: reservation ||| POS: 1 
+CLUE: Prejudice  ||| ANS: bias ||| POS: 3 
+CLUE: It follows from that fact  ||| ANS: hence ||| POS: 4 
+CLUE: Assassinated US president  ||| ANS: kennedy ||| POS: 1 
+CLUE: Taj Mahal city  ||| ANS: agra ||| POS: 1 
+CLUE: Statement of money owed ||| ANS: invoice ||| POS: 7 
+CLUE: 'Circus tent (3,3)'  ||| ANS: big top ||| POS: 2 
+CLUE: One employed to look after a golf course  ||| ANS: greenkeeper ||| POS: 4 
+CLUE: Explicit or in detail  ||| ANS: specific ||| POS: 5 
+CLUE: Appalling, awful  ||| ANS: dreadful ||| POS: 7 
+CLUE: Huge legendary beings  ||| ANS: giants ||| POS: 2 
+CLUE: Window in roof  ||| ANS: skylight ||| POS: 7 
+CLUE: PhD or D.Phil  ||| ANS: doctorate ||| POS: 1 
+CLUE: Peculiar  ||| ANS: odd ||| POS: 4 
+CLUE: Most of it is below the surface ||| ANS: iceberg ||| POS: 19 
+CLUE: Perimeter of circle  ||| ANS: circumference ||| POS: 1 
+CLUE: Grotto  ||| ANS: cave ||| POS: 1 
+CLUE: Very skilled or proficient  ||| ANS: adept ||| POS: 4 

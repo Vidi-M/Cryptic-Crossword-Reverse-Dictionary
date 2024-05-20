@@ -1,0 +1,16 @@
+CLUE: Banknote; beak  ||| ANS: bill ||| POS: 20 ||| Found in: Bills 
+CLUE: 1987 Best Actress Oscar winner for 'Moonstruck'  ||| ANS: cher ||| POS: 1 ||| Found in: Cher - 1987 Best Actress Award recipient from "Moonstruck" 
+CLUE: Final stage in chess  ||| ANS: end game ||| POS: 19 ||| Found in: End game theory 
+CLUE: Ball game  ||| ANS: hockey ||| POS: 17 ||| Found in: Field hockey ball 
+CLUE: Playing card; sailor  ||| ANS: jack ||| POS: 3 ||| Found in: Royal Flush - A poker hand consisting of ten, jack, queen, king, and ace all in one suit, sometimes used metaphorically for success at sea. 
+CLUE: Swimming stroke  ||| ANS: crawl ||| POS: 7 ||| Found in: Crawl (or freestyle) 
+CLUE: Small narrow river  ||| ANS: stream ||| POS: 1 ||| Found in: Streamlet 
+CLUE: Sacred beetle  ||| ANS: scarab ||| POS: 4 ||| Found in: Scarabaeidae 
+CLUE: In favour of  ||| ANS: pro ||| POS: 3 ||| Found in: Proponent 
+CLUE: Push lips out as sign of annoyance  ||| ANS: pout ||| POS: 10 ||| Found in: Pouting 
+CLUE: Small mark  ||| ANS: dot ||| POS: 16 ||| Found in: Microdot 
+CLUE: Colour  ||| ANS: green ||| POS: 13 ||| Found in: RGB (Red, Green, Blue) 
+CLUE: Run away secretly to marry ||| ANS: elope ||| POS: 16 ||| Found in: Elopement 
+CLUE: Verity  ||| ANS: truth ||| POS: 1 ||| Found in: Truthfulness 
+CLUE: Irish ferry port  ||| ANS: rosslare ||| POS: 6 ||| Found in: Rosslare Harbour 
+CLUE: Grotto  ||| ANS: cave ||| POS: 1 ||| Found in: Cave-like 

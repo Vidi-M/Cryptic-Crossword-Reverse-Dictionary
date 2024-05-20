@@ -1,0 +1,22 @@
+CLUE: Popeye's nemesis ||| ANS: bluto ||| POS: 1 ||| Found in: Bluto (original name for Brutus) - A bully and rival to Popeye who often tries to win over Olive Oyl. 
+CLUE: Like oxygen, neon, etc  ||| ANS: gaseous ||| POS: 19 ||| Found in: Water vapor (H2O), consisting primarily of hydrogen bonded to oxygen in gaseous form 
+CLUE: Period (of enchantment?) ||| ANS: spell ||| POS: 5 ||| Found in: Occasional spell 
+CLUE: Banknote; beak  ||| ANS: bill ||| POS: 2 ||| Found in: Bill (as in paper money, not as an object related to beaks) 
+CLUE: Oriental two-wheeled carriage ||| ANS: rickshaw ||| POS: 17 ||| Found in: Rickshaw (while originally a Japanese mode of transportation, it has been adapted widely across Asia including countries like India and China) 
+CLUE: Ball game  ||| ANS: hockey ||| POS: 12 ||| Found in: Field Hockey - A fast-paced outdoor game played on grass or turf fields where two teams use hockey sticks to hit a small hardball into the opposing team’s goal while following certain rules regarding position and contact. 
+CLUE: Statement of money owed ||| ANS: invoice ||| POS: 15 ||| Found in: Outstanding Invoices 
+CLUE: Playing card; sailor  ||| ANS: jack ||| POS: 6 ||| Found in: Jack (a playing card rank; though not directly associated with sailors, the 'Jack' character from seafaring tales could embody traits admired by sailors) 
+CLUE: Swimming stroke  ||| ANS: crawl ||| POS: 8 ||| Found in: Crawl (general term for various swim strokes, including freestyle and backstroke) 
+CLUE: Small narrow river  ||| ANS: stream ||| POS: 3 ||| Found in: Streamlet 
+CLUE: Sacred beetle  ||| ANS: scarab ||| POS: 1 ||| Found in: Scarab Beetle 
+CLUE: In favour of  ||| ANS: pro ||| POS: 1 ||| Found in: Pro-choice 
+CLUE: Push lips out as sign of annoyance  ||| ANS: pout ||| POS: 1 ||| Found in: Pouting 
+CLUE: Skin blemish  ||| ANS: wart ||| POS: 18 ||| Found in: Verruca (a common term for warts) 
+CLUE: Cardinal number  ||| ANS: seventeen ||| POS: 17 ||| Found in: Seventeen - Often seen as a lucky number, but also symbolizes change 
+CLUE: Entrance  ||| ANS: gate ||| POS: 1 ||| Found in: Gateway 
+CLUE: Tropical skirt  ||| ANS: sarong ||| POS: 5 ||| Found in: Sarong skirt - A wraparound garment found in many Pacific islands that can be worn by both men and women; typically made from colorful textiles. 
+CLUE: Smells  ||| ANS: scents ||| POS: 4 ||| Found in: Perfume - A mixture of scents applied to the body for fragrance; often made with essential oils and alcohol. 
+CLUE: Indian cotton rug  ||| ANS: dhurrie ||| POS: 17 ||| Found in: Dhurries 
+CLUE: Peculiar  ||| ANS: odd ||| POS: 5 ||| Found in: Oddball 
+CLUE: Fertiliser  ||| ANS: manure ||| POS: 10 ||| Found in: Composted manure/compost 
+CLUE: Irish ferry port  ||| ANS: rosslare ||| POS: 2 ||| Found in: RosslareOceanLink 
