@@ -1,0 +1,25 @@
+CLUE: Celestial body  ||| ANS: star ||| POS: 1 ||| Found in: Star: A luminous celestial sphere of plasma held together by gravity. 
+CLUE: Popeye's nemesis ||| ANS: bluto ||| POS: 1 ||| Found in: Bluto - Popeye's arch-rival, often depicted as strong yet brash and cunning. 
+CLUE: Booking (in restaurant)  ||| ANS: reservation ||| POS: 1 ||| Found in: Reservation - The act of reserving or booking a table at a restaurant in advance. 
+CLUE: Prejudice  ||| ANS: bias ||| POS: 1 ||| Found in: Bias - An inclination or predisposition toward something, often leading to unfair treatment. 
+CLUE: Wife of Leofric, an early streaker!  ||| ANS: lady godiva ||| POS: 4 ||| Found in: Leofric: A historical figure who was married to Lady Godiva; associated with legends of naked riding or streaking in medieval times. 
+CLUE: Sleep-like state  ||| ANS: trance ||| POS: 1 ||| Found in: Hypnosis - A trance-like state achieved through focused relaxation techniques, sometimes resembling sleep but induced for therapeutic purposes. 
+CLUE: Period (of enchantment?) ||| ANS: spell ||| POS: 8 ||| Found in: Enchantment: Magical allure, captivation, or spellbinding quality often experienced during a prolonged period of interest in something. 
+CLUE: 1987 Best Actress Oscar winner for 'Moonstruck'  ||| ANS: cher ||| POS: 1 ||| Found in: Diva: A highly skilled female singer or actress, like Cher in Moonstruck 
+CLUE: Night attire  ||| ANS: pyjamas ||| POS: 1 ||| Found in: Pyjamas (India-inspired nightwear) 
+CLUE: Assassinated US president  ||| ANS: kennedy ||| POS: 1 ||| Found in: JohnFitzgerald Kennedy 
+CLUE: Oriental two-wheeled carriage ||| ANS: rickshaw ||| POS: 4 ||| Found in: Jinrikisha - A Japanese word for rickshaw, which refers to a human-powered, two-wheeled vehicle used historically as an urban mode of transportation in Asia. 
+CLUE: Of skin, yellowish in colour  ||| ANS: sallow ||| POS: 13 ||| Found in: Sallow (having an unhealthy, pale or yellowish complexion) 
+CLUE: Taj Mahal city  ||| ANS: agra ||| POS: 1 ||| Found in: Agra: The Indian city where the magnificent Taj Mahal stands, housing numerous architectural wonders including the Mughal-era marvel itself. 
+CLUE: Statement of money owed ||| ANS: invoice ||| POS: 6 ||| Found in: Invoice: A document requesting payment for goods or services provided, typically including details like amount owed. 
+CLUE: Playing card; sailor  ||| ANS: jack ||| POS: 4 ||| Found in: Blackjack - Another popular casino game using cards, which sailors could play to pass the time while navigating through rough seas. 
+CLUE: Swimming stroke  ||| ANS: crawl ||| POS: 3 ||| Found in: Freestyle: Also known as front crawl, it's an efficient and fast swimming stroke with alternating arm movements and flutter kick. 
+CLUE: Small narrow river  ||| ANS: stream ||| POS: 1 ||| Found in: Stream: A small, narrow flowing body of water. 
+CLUE: Bird of prey  ||| ANS: eagle ||| POS: 1 ||| Found in: Predator: An animal that hunts, kills, and eats other animals for sustenance, specifically in reference to birds of prey such as hawks or eagles. 
+CLUE: In favour of  ||| ANS: pro ||| POS: 2 ||| Found in: Proponent 
+CLUE: Push lips out as sign of annoyance  ||| ANS: pout ||| POS: 9 ||| Found in: Pout: An exaggerated display of displeasure often featuring puckered or protruded lips, though it's more typically related to children. 
+CLUE: One employed to look after a golf course  ||| ANS: greenkeeper ||| POS: 3 ||| Found in: Greenkeeper - This term specifically refers to the individual in charge of taking care of a golf green or putting surface. 
+CLUE: Enclosure set back or indented  ||| ANS: recess ||| POS: 20 ||| Found in: Hollow out (creating a recessed area by removing material) 
+CLUE: Explicit or in detail  ||| ANS: specific ||| POS: 15 ||| Found in: Specific directive 
+CLUE: Search  ||| ANS: quest ||| POS: 1 ||| Found in: Query: A request for information 
+CLUE: Entrance  ||| ANS: gate ||| POS: 3 ||| Found in: Gateway: An entrance, especially an important one that leads into a particular area. 
