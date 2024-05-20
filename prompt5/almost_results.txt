@@ -1,0 +1,29 @@
+CLUE: Celestial body  ||| ANS: star ||| POS: 3 ||| Found in: Star-studded: Dotted with stars 
+CLUE: Like oxygen, neon, etc  ||| ANS: gaseous ||| POS: 16 ||| Found in: Gaseous State at Room Temperature 
+CLUE: Prejudice  ||| ANS: bias ||| POS: 12 ||| Found in: Collective Bias 
+CLUE: Period (of enchantment?) ||| ANS: spell ||| POS: 13 ||| Found in: Spellbound 
+CLUE: Banknote; beak  ||| ANS: bill ||| POS: 1 ||| Found in: Birds' currency -> feathered bills 
+CLUE: 1987 Best Actress Oscar winner for 'Moonstruck'  ||| ANS: cher ||| POS: 6 ||| Found in: Cherished Hollywood Feature -> Treasured American Flick 
+CLUE: Country bumpkin  ||| ANS: yokel ||| POS: 7 ||| Found in: Yokel Jargon -> country twang 
+CLUE: Playing card; sailor  ||| ANS: jack ||| POS: 9 ||| Found in: Jack's voyage: Referring to the playing card 'Jack', symbolically linked to a sailor on an adventure. 
+CLUE: Moves stealthily  ||| ANS: creeps ||| POS: 10 ||| Found in: Secretively Creeps 
+CLUE: Draw (brows) together  ||| ANS: knit ||| POS: 7 ||| Found in: Common reaction -> Eyebrows knit in surprise 
+CLUE: Sacred beetle  ||| ANS: scarab ||| POS: 2 ||| Found in: Holy scarab 
+CLUE: 'Circus tent (3,3)'  ||| ANS: big top ||| POS: 1 ||| Found in: Big Top -> circus tent 
+CLUE: In favour of  ||| ANS: pro ||| POS: 14 ||| Found in: Hands-On Approach -> getting involved 
+CLUE: Push lips out as sign of annoyance  ||| ANS: pout ||| POS: 17 ||| Found in: Pouting lips - typically expresses disappointment, but may also indicate annoyance 
+CLUE: One employed to look after a golf course  ||| ANS: greenkeeper ||| POS: 1 ||| Found in: Golf Course Custodian -> Greenkeeper's Role 
+CLUE: Skin blemish  ||| ANS: wart ||| POS: 12 ||| Found in: Wart - A growth on the skin caused by a viral infection with rough texture and irregular shape. 
+CLUE: Entrance  ||| ANS: gate ||| POS: 1 ||| Found in: Opening -> Gateway 
+CLUE: Smells  ||| ANS: scents ||| POS: 4 ||| Found in: Scented: Containing a pleasant smell, typically as a result of added fragrances like scents from flowers or plants. 
+CLUE: Appalling, awful  ||| ANS: dreadful ||| POS: 2 ||| Found in: Dreadful - Causing fear or dread; very bad 
+CLUE: Ran away to get married  ||| ANS: eloped ||| POS: 1 ||| Found in: Eloped -> fled for marriage 
+CLUE: Huge legendary beings  ||| ANS: giants ||| POS: 2 ||| Found in: Mythical Giants 
+CLUE: Window in roof  ||| ANS: skylight ||| POS: 2 ||| Found in: Openable -> in a skylight 
+CLUE: PhD or D.Phil  ||| ANS: doctorate ||| POS: 1 ||| Found in: Doctorate -> earned title 
+CLUE: Tough and elastic  ||| ANS: rubbery ||| POS: 20 ||| Found in: Rubbery -> Gummy 
+CLUE: Makes intelligible  ||| ANS: explains ||| POS: 5 ||| Found in: Elucidates - Explains 
+CLUE: Most of it is below the surface ||| ANS: iceberg ||| POS: 4 ||| Found in: Iceberg's Secret -> concealed chunk 
+CLUE: Perimeter of circle  ||| ANS: circumference ||| POS: 9 ||| Found in: Circumference Boundary 
+CLUE: Run away secretly to marry ||| ANS: elope ||| POS: 1 ||| Found in: Escape quietly for nuptials - elope 
+CLUE: Verity  ||| ANS: truth ||| POS: 20 ||| Found in: Undoubtedly truthful -> incontrovertibly accurate 

@@ -1,0 +1,4 @@
+CLUE: Strange or eccentric person  ||| ANS: weirdo ||| POS: 13 
+CLUE: Small narrow river  ||| ANS: stream ||| POS: 1 
+CLUE: Talked indiscreetly  ||| ANS: blabbed ||| POS: 5 
+CLUE: Very skilled or proficient  ||| ANS: adept ||| POS: 4 
