@@ -7,5 +7,8 @@ cd ..
 
 # Back to correct directory
 cd Cryptic-Crossword-Reverse-Dictionary
+
 # Run the Python script with the specified config file
-python main.py --config "configs/$CONFIG_FILE"
+CONFIG_PATH="configs/$CONFIG_FILE"
+
+python main.py --config "$CONFIG_PATH"
