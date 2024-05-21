@@ -1,6 +1,6 @@
 # run command for every file
 universe = vanilla
-notification = Complete # notifies after every job!
+notification = Complete
 notify_user = vs221@ic.ac.uk
 executable = run.sh
 arguments = --config $(item)
