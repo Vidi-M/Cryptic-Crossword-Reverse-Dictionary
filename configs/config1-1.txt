@@ -1,4 +1,4 @@
-model=phi3
+model=llama2
 prompt=You are presented with a challenge: provide a list of 20 words. The only instruction is that they relate to the term {def}. Take your time, and do your best!
 prompt_no=1.1
 dataset=100
