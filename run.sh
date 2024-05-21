@@ -5,4 +5,4 @@ trap "trap - SIGTERM && kill -- -$$" SIGINT SIGTERM EXIT
 ..Downloads/ollama serve &
 
 # Run the Python script with the specified config file
-python main.py --config "$CONFIG_FILE"
+python main.py --config "configs/$CONFIG_FILE"
