@@ -43,7 +43,7 @@ def main():
     prompt_no = config.get('prompt_no')
     dataset = int(config.get('dataset'))
     
-    directory = f"prompt{prompt_no}/"
+    directory = f"{model}/prompt{prompt_no}/"
     if not os.path.exists(directory):
         os.makedirs(directory)
 

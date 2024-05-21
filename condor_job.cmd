@@ -1,0 +1,9 @@
+# run command for every file
+universe = vanilla
+notification = Complete # notifies after every job!
+notify_user = vs221@ic.ac.uk
+executable = run.sh
+arguments = --config $(item)
+output = $(item).out
+log = file.log
+queue matching files config_test/*.txt
