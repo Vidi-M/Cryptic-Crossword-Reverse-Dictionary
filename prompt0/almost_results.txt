@@ -1,0 +1,5 @@
+CLUE: In favour of  ||| ANS: pro ||| POS: 2 ||| Found in: Pro- 
+CLUE: Search  ||| ANS: quest ||| POS: 5 ||| Found in: Investigate - To search for information about something by asking questions, etc 
+CLUE: Entrance  ||| ANS: gate ||| POS: 13 ||| Found in: Gateway 
+CLUE: Verity  ||| ANS: truth ||| POS: 8 ||| Found in: Truthfulness 
+CLUE: Apt or witty remark - in France  ||| ANS: bon mot ||| POS: 12 ||| Found in: Bon mot (good line, clever remark) 

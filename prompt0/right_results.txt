@@ -1,0 +1,42 @@
+CLUE: Celestial body  ||| ANS: star ||| POS: 4 
+CLUE: Popeye's nemesis ||| ANS: bluto ||| POS: 1 
+CLUE: Booking (in restaurant)  ||| ANS: reservation ||| POS: 1 
+CLUE: Sleep-like state  ||| ANS: trance ||| POS: 16 
+CLUE: It follows from that fact  ||| ANS: hence ||| POS: 5 
+CLUE: Period (of enchantment?) ||| ANS: spell ||| POS: 1 
+CLUE: Banknote; beak  ||| ANS: bill ||| POS: 4 
+CLUE: 1987 Best Actress Oscar winner for 'Moonstruck'  ||| ANS: cher ||| POS: 1 
+CLUE: Night attire  ||| ANS: pyjamas ||| POS: 16 
+CLUE: Oriental two-wheeled carriage ||| ANS: rickshaw ||| POS: 4 
+CLUE: Ball game  ||| ANS: hockey ||| POS: 12 
+CLUE: Taj Mahal city  ||| ANS: agra ||| POS: 1 
+CLUE: Statement of money owed ||| ANS: invoice ||| POS: 2 
+CLUE: Moves stealthily  ||| ANS: creeps ||| POS: 19 
+CLUE: Swimming stroke  ||| ANS: crawl ||| POS: 7 
+CLUE: Small narrow river  ||| ANS: stream ||| POS: 5 
+CLUE: Bird of prey  ||| ANS: eagle ||| POS: 1 
+CLUE: 'Circus tent (3,3)'  ||| ANS: big top ||| POS: 1 
+CLUE: Small mark  ||| ANS: dot ||| POS: 1 
+CLUE: One employed to look after a golf course  ||| ANS: greenkeeper ||| POS: 1 
+CLUE: String  ||| ANS: twine ||| POS: 4 
+CLUE: Skin blemish  ||| ANS: wart ||| POS: 11 
+CLUE: Enclosure set back or indented  ||| ANS: recess ||| POS: 12 
+CLUE: Explicit or in detail  ||| ANS: specific ||| POS: 18 
+CLUE: Cardinal number  ||| ANS: seventeen ||| POS: 17 
+CLUE: Court game  ||| ANS: squash ||| POS: 6 
+CLUE: Colour  ||| ANS: green ||| POS: 3 
+CLUE: Talked indiscreetly  ||| ANS: blabbed ||| POS: 1 
+CLUE: Ran away to get married  ||| ANS: eloped ||| POS: 7 
+CLUE: Huge legendary beings  ||| ANS: giants ||| POS: 2 
+CLUE: Window in roof  ||| ANS: skylight ||| POS: 1 
+CLUE: PhD or D.Phil  ||| ANS: doctorate ||| POS: 1 
+CLUE: Indian cotton rug  ||| ANS: dhurrie ||| POS: 11 
+CLUE: Makes intelligible  ||| ANS: explains ||| POS: 2 
+CLUE: Peculiar  ||| ANS: odd ||| POS: 5 
+CLUE: Private teacher  ||| ANS: tutor ||| POS: 1 
+CLUE: Perimeter of circle  ||| ANS: circumference ||| POS: 1 
+CLUE: Run away secretly to marry ||| ANS: elope ||| POS: 17 
+CLUE: Fertiliser  ||| ANS: manure ||| POS: 1 
+CLUE: Irish ferry port  ||| ANS: rosslare ||| POS: 6 
+CLUE: Grotto  ||| ANS: cave ||| POS: 2 
+CLUE: Very skilled or proficient  ||| ANS: adept ||| POS: 2 
