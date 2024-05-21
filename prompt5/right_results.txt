@@ -1,0 +1,26 @@
+CLUE: Celestial body  ||| ANS: star ||| POS: 2 
+CLUE: Popeye's nemesis ||| ANS: bluto ||| POS: 1 
+CLUE: Strange or eccentric person  ||| ANS: weirdo ||| POS: 3 
+CLUE: Prejudice  ||| ANS: bias ||| POS: 2 
+CLUE: Swindle  ||| ANS: hustle ||| POS: 20 
+CLUE: Oriental two-wheeled carriage ||| ANS: rickshaw ||| POS: 1 
+CLUE: Country bumpkin  ||| ANS: yokel ||| POS: 5 
+CLUE: Bird of prey  ||| ANS: eagle ||| POS: 3 
+CLUE: 'Circus tent (3,3)'  ||| ANS: big top ||| POS: 1 
+CLUE: Push lips out as sign of annoyance  ||| ANS: pout ||| POS: 13 
+CLUE: Small mark  ||| ANS: dot ||| POS: 1 
+CLUE: One employed to look after a golf course  ||| ANS: greenkeeper ||| POS: 1 
+CLUE: String  ||| ANS: twine ||| POS: 4 
+CLUE: Skin blemish  ||| ANS: wart ||| POS: 14 
+CLUE: Enclosure set back or indented  ||| ANS: recess ||| POS: 2 
+CLUE: Explicit or in detail  ||| ANS: specific ||| POS: 3 
+CLUE: Court game  ||| ANS: squash ||| POS: 6 
+CLUE: Smells  ||| ANS: scents ||| POS: 5 
+CLUE: Window in roof  ||| ANS: skylight ||| POS: 1 
+CLUE: PhD or D.Phil  ||| ANS: doctorate ||| POS: 1 
+CLUE: Makes intelligible  ||| ANS: explains ||| POS: 5 
+CLUE: Private teacher  ||| ANS: tutor ||| POS: 1 
+CLUE: Perimeter of circle  ||| ANS: circumference ||| POS: 1 
+CLUE: Grotto  ||| ANS: cave ||| POS: 2 
+CLUE: Very skilled or proficient  ||| ANS: adept ||| POS: 1 
+CLUE: Apt or witty remark - in France  ||| ANS: bon mot ||| POS: 10 

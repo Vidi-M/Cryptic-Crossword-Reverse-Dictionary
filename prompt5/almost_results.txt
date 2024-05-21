@@ -1,0 +1,17 @@
+CLUE: Booking (in restaurant)  ||| ANS: reservation ||| POS: 2 ||| Found in: Reservation (in eatery) 
+CLUE: Period (of enchantment?) ||| ANS: spell ||| POS: 2 ||| Found in: Spellbound 
+CLUE: Banknote; beak  ||| ANS: bill ||| POS: 2 ||| Found in: Bill - Nose 
+CLUE: Ball game  ||| ANS: hockey ||| POS: 16 ||| Found in: Field hockey 
+CLUE: Taj Mahal city  ||| ANS: agra ||| POS: 3 ||| Found in: Agra - Another city in India where the Taj Mahal is situated. 
+CLUE: Statement of money owed ||| ANS: invoice ||| POS: 11 ||| Found in: Invoice amount 
+CLUE: Moves stealthily  ||| ANS: creeps ||| POS: 4 ||| Found in: Creeps - Moves slowly and quietly, often with caution or stealth 
+CLUE: Draw (brows) together  ||| ANS: knit ||| POS: 14 ||| Found in: Knit - (of fabric) Intertwine together 
+CLUE: Small narrow river  ||| ANS: stream ||| POS: 1 ||| Found in: Stream - A small narrow river is often referred to as a stream. 
+CLUE: In favour of  ||| ANS: pro ||| POS: 2 ||| Found in: Pro - Advocating for a particular cause or idea. 
+CLUE: Entrance  ||| ANS: gate ||| POS: 4 ||| Found in: Gateway 
+CLUE: Tropical skirt  ||| ANS: sarong ||| POS: 2 ||| Found in: Sarong - A flowing garment typically worn in tropical climates. 
+CLUE: Truncated remnant  ||| ANS: stub ||| POS: 2 ||| Found in: Stub (of a pencil) 
+CLUE: Talked indiscreetly  ||| ANS: blabbed ||| POS: 5 ||| Found in: Blabbed brazenly (8) 
+CLUE: Peculiar  ||| ANS: odd ||| POS: 6 ||| Found in: Oddball 
+CLUE: Verity  ||| ANS: truth ||| POS: 2 ||| Found in: Truthfulness 
+CLUE: Brief moment  ||| ANS: second ||| POS: 5 ||| Found in: Fleeting second 

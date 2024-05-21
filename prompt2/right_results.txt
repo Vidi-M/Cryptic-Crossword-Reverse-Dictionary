@@ -1,0 +1,33 @@
+CLUE: Celestial body  ||| ANS: star ||| POS: 1 
+CLUE: Popeye's nemesis ||| ANS: bluto ||| POS: 2 
+CLUE: Prejudice  ||| ANS: bias ||| POS: 1 
+CLUE: Separate the wheat from the chaff  ||| ANS: winnow ||| POS: 5 
+CLUE: Swindle  ||| ANS: hustle ||| POS: 7 
+CLUE: Banknote; beak  ||| ANS: bill ||| POS: 4 
+CLUE: Oriental two-wheeled carriage ||| ANS: rickshaw ||| POS: 1 
+CLUE: Taj Mahal city  ||| ANS: agra ||| POS: 1 
+CLUE: Country bumpkin  ||| ANS: yokel ||| POS: 1 
+CLUE: Statement of money owed ||| ANS: invoice ||| POS: 3 
+CLUE: Small narrow river  ||| ANS: stream ||| POS: 1 
+CLUE: Bird of prey  ||| ANS: eagle ||| POS: 2 
+CLUE: 'Circus tent (3,3)'  ||| ANS: big top ||| POS: 2 
+CLUE: No more the old blond film start  ||| ANS: monroe ||| POS: 5 
+CLUE: Small mark  ||| ANS: dot ||| POS: 1 
+CLUE: One employed to look after a golf course  ||| ANS: greenkeeper ||| POS: 1 
+CLUE: Skin blemish  ||| ANS: wart ||| POS: 13 
+CLUE: Enclosure set back or indented  ||| ANS: recess ||| POS: 11 
+CLUE: Explicit or in detail  ||| ANS: specific ||| POS: 3 
+CLUE: Colour  ||| ANS: green ||| POS: 4 
+CLUE: Talked indiscreetly  ||| ANS: blabbed ||| POS: 1 
+CLUE: Huge legendary beings  ||| ANS: giants ||| POS: 13 
+CLUE: Window in roof  ||| ANS: skylight ||| POS: 1 
+CLUE: PhD or D.Phil  ||| ANS: doctorate ||| POS: 1 
+CLUE: Indian cotton rug  ||| ANS: dhurrie ||| POS: 7 
+CLUE: Makes intelligible  ||| ANS: explains ||| POS: 2 
+CLUE: Knock against ||| ANS: jostle ||| POS: 18 
+CLUE: Private teacher  ||| ANS: tutor ||| POS: 1 
+CLUE: Perimeter of circle  ||| ANS: circumference ||| POS: 1 
+CLUE: Fertiliser  ||| ANS: manure ||| POS: 5 
+CLUE: Verity  ||| ANS: truth ||| POS: 1 
+CLUE: Grotto  ||| ANS: cave ||| POS: 1 
+CLUE: Very skilled or proficient  ||| ANS: adept ||| POS: 13 
