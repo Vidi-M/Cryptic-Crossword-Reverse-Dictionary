@@ -2,7 +2,10 @@
 trap "trap - SIGTERM && kill -- -$$" SIGINT SIGTERM EXIT
 
 # Start the background service
-..Downloads/ollama serve &
+cd ..
+./Downloads/ollama serve &
 
+# Back to correct directory
+cd Cryptic-Crossword-Reverse-Dictionary
 # Run the Python script with the specified config file
 python main.py --config "configs/$CONFIG_FILE"
