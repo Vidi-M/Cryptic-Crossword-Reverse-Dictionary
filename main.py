@@ -67,6 +67,7 @@ def main():
         word_lines = generated_words[1:].splitlines()
         words_list = [line.split('. ')[1] for line in word_lines if '. ' in line]
         
+        print(words_list)
         
         
         right_count,almost_count = process_result(definitions[i], 
