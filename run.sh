@@ -25,4 +25,4 @@ fi
 cd "$current_dir" || exit
 
 # Run the Python script with the specified config file
-python main.py --config "$CONFIG_FILE"
+python main.py --config "config_test/$CONFIG_FILE"
