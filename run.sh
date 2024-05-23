@@ -1,11 +1,8 @@
 #!/bin/bash
 
-# Trap signals and ensure cleanup
-trap 'trap - SIGTERM && kill -- -$$' SIGINT SIGTERM EXIT
-
 # Store the relevent directories
 # Ollama directory
-OLLAMA="/homes/${USER}/Downloads/ollama"
+OLLAMA="/homes/${USER}/Downloads/"
 CROSSWORD="/homes/${USER}/Cryptic-Crossword-Reverse-Dictionary/"
 
 
@@ -16,9 +13,12 @@ if [ $# -gt 0 ]; then
 fi
 
 
+# Go to ollama directory
+cd $OLLAMA || echo "Error: can't reach OLLAMA directory"; exit 1
+
 # Start the background service
-if [ -x $OLLAMA ]; then
-  $OLLAMA serve &
+if [ -x ./ollama ]; then
+  ./ollama serve &
 else
   echo "Error: 'ollama' executable not found or not executable."
   exit 1
