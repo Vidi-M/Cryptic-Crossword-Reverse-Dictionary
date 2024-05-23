@@ -3,6 +3,7 @@ import ollama
 import pandas as pd
 import argparse
 import time
+import datetime
 from post_processing import process_result, print_result
 
 ## python main.py --config config.txt
@@ -36,6 +37,7 @@ def main():
     parser = argparse.ArgumentParser(description="Run the script to interact with the Ollama model")
     parser.add_argument('--config', help='Path to config file')
     args = parser.parse_args()
+    date = datetime.date.today()
 
     config = read_config(args.config)
     model = config.get('model', 'llama2')  # Default to 'llama2' if not specified
@@ -43,7 +45,7 @@ def main():
     prompt_no = config.get('prompt_no')
     dataset = int(config.get('dataset'))
     
-    directory = f"{model}/prompt{prompt_no}/"
+    directory = f"{model}-{date}/prompt{prompt_no}/"
     if not os.path.exists(directory):
         os.makedirs(directory)
 
