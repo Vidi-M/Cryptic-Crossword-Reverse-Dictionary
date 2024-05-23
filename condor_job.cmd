@@ -3,8 +3,8 @@ universe = vanilla
 notification = Complete
 notify_user = vs221@ic.ac.uk
 initialdir = /homes/vs221/Cryptic-Crossword-Reverse-Dictionary/
-executable = run.sh
+executable = /homes/vs221/Cryptic-Crossword-Reverse-Dictionary/run.sh
 arguments = --config $(item)
 output = $(item).out
 log = file.log
-queue matching files config_test/*.txt
+queue matching files /homes/vs221/Cryptic-Crossword-Reverse-Dictionary/config_test/*.txt
