@@ -7,4 +7,4 @@ executable = /homes/vs221/Cryptic-Crossword-Reverse-Dictionary/run.sh
 arguments = --config $(item)
 output = $(item).out
 log = file.log
-queue matching files config_test/*.txt
+queue matching files /Cryptic-Crossword-Reverse-Dictionary/config_test/*.txt
