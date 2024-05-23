@@ -1,4 +1,5 @@
 # run command for every file
+( OpSysVer == 2004 )
 universe = vanilla
 notification = Complete
 notify_user = vs221@ic.ac.uk
