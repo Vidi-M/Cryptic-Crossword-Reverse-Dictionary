@@ -12,10 +12,12 @@ if [ $# -gt 0 ]; then
   CONFIG_FILE="$1"
 fi
 
+# Ollama directory
+OLLAMA="/homes/${USER}/Downloads/ollama"
+
 # Start the background service
-cd ..
-if [ -x Downloads/ollama ]; then
-  Downloads/ollama serve &
+if [ -x $OLLAMA ]; then
+  $OLLAMA serve &
 else
   echo "Error: 'ollama' executable not found or not executable."
   exit 1
