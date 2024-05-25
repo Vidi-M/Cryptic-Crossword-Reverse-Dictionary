@@ -13,8 +13,10 @@ def read_config(filename):
     config = {}
     with open(filename, 'r') as file:
         for line in file:
-            key, value = line.strip().split('=')
-            config[key.strip()] = value.strip()
+            line = line.strip()
+            if line:
+                key, value = line.split('=')
+                config[key.strip()] = value.strip()
     return config
 
 def read_csv(file_path, datasize, init_pos): ## need to implement cross validation
