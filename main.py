@@ -42,6 +42,7 @@ def make_csv_all(file_path):
 def main():
     parser = argparse.ArgumentParser(description="Run the script to interact with the Ollama model")
     parser.add_argument('--config', help='Path to config file')
+    parser.add_argument('--machines', help='Number of machines it is running on')
     parser.add_argument('--chunk', help='Chunk number')
     args = parser.parse_args()
     date = datetime.date.today()
