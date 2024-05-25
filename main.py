@@ -30,7 +30,7 @@ def read_csv(file_path, datasize, init_pos): ## need to implement cross validati
 
 def make_csv(filename, titles):
     with open(filename, 'w', newline='') as file:
-        c = csv.writer(filename)
+        c = csv.writer(file)
         c.writerow(titles)
 
 def make_csv_all(file_path):
