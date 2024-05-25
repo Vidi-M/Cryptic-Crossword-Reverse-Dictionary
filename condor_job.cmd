@@ -1,6 +1,6 @@
 # run command for every file
 requirements = (OpSysVer == 2204)
-universe = parallel
+universe = vanilla
 notification = Complete
 notify_user = vs221@ic.ac.uk
 initialdir = /homes/vs221/Cryptic-Crossword-Reverse-Dictionary/
@@ -9,10 +9,10 @@ arguments = $(item) 5 $(Process)
 
 output = $(item)_$(Process).out
 error = $(item)_$(Process).err
-log = file_$(item).log
+log = file.log
 
 # Setting environment variables
 environment = "HOME=/homes/vs221 PATH=/homes/vs221/.local/bin:/usr/bin:/bin"
 
-queue 5 matching files config_test/*.txt
+queue 5 item matching files config_test/config0/*.txt
 

@@ -10,7 +10,7 @@ MACHINES="1"
 CHUNK="0"
 if [ $# -gt 0 ]; then
   CONFIG_FILE="$1"
-  MACHINE="$2"
+  MACHINES="$2"
   CHUNK="$3"
 fi
 
