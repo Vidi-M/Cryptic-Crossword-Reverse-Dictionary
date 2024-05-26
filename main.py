@@ -19,10 +19,13 @@ def read_config(filename):
                 config[key.strip()] = value.strip()
     return config
 
-def read_csv(file_path, datasize, init_pos): ## need to implement cross validation
+def read_csv(file_path, init_pos, end_pos): ## need to implement cross validation
     df = pd.read_csv(file_path)
-    sampled_df = df.sample(random_state=27)
-    df_chunk = sampled_df['definition'][init_pos: init_pos + datasize]
+    sampled_df = df.sample(n=len(df.index), random_state=27)
+    df_chunk = sampled_df.iloc[init_pos:end_pos, :]
+    print(f"nrows={len(df.index)}")
+    print(f"sampled_df.size {sampled_df.size}")
+    print(f"df_chunk {df_chunk}")
     definitions = df_chunk['definition'].tolist()  # Assuming 'Definition' is the header for the definition column
     answers = df_chunk['answer'].tolist()  # Assuming 'Answer' is the header for the answer column
     #word_lengths = [len(word) for answer in answers for word in answer.split()]
@@ -55,10 +58,14 @@ def main():
     batch = int(config.get('batch')) # Which section it is in
     
     #
-    machines = args.machines
-    chunk = args.chunk #which parallel job it is
-    init_pos = (machines*datasize*batch) + (chunk * datasize)
-    
+    machines = int(args.machines)
+    chunk = int(args.chunk) #which parallel job it is
+    init_pos = int((machines*datasize*batch) + (chunk * datasize))
+    end_pos = int(init_pos + datasize)
+    print(init_pos)
+    print(datasize)
+    print(end_pos)
+
     directory = f"{model}-{date}/prompt{prompt_no}/batch{batch}-chunk{chunk}"
     if not os.path.exists(directory):
         os.makedirs(directory)
@@ -66,8 +73,9 @@ def main():
     make_csv_all(directory)
 
     file_path = 'definitions.csv'
-    definitions, answers = read_csv(file_path, datasize, init_pos)
-    
+    definitions, answers = read_csv(file_path, init_pos, end_pos)
+    print(definitions)
+
     right_count, almost_count = 0, 0
     
     start = time.time()
@@ -106,7 +114,7 @@ def main():
     
     with open(os.path.join(directory, 'summary.csv'), "w", newline= '') as output_file:
         writer = csv.writer(output_file)
-        writer.writerow(batch, chunk, right_count, almost_count, wrong_count, elapsed)
+        writer.writerow([batch, chunk, right_count, almost_count, wrong_count, elapsed])
     
 if __name__ == "__main__":
     main()
