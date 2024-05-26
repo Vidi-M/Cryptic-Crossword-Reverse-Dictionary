@@ -112,7 +112,7 @@ def main():
                 
     # print_result(right_count, almost_count, len(definitions), elapsed, directory)
     
-    with open(os.path.join(directory, 'summary.csv'), "w", newline= '') as output_file:
+    with open(os.path.join(directory, 'summary.csv'), "a", newline= '') as output_file:
         writer = csv.writer(output_file)
         writer.writerow([batch, chunk, right_count, almost_count, wrong_count, elapsed])
     

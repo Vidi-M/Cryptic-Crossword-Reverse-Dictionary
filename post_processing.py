@@ -34,7 +34,7 @@ def process_result(clue, answer, words, right_count, almost_count, dir):
     else:
         output_filename = 'wrong.csv'
 
-    with open(os.path.join(dir, output_filename), 'w', newline='') as output_file:
+    with open(os.path.join(dir, output_filename), 'a', newline='') as output_file:
         writer = csv.writer(output_file)
         writer.writerow(result)
 
@@ -51,6 +51,6 @@ def print_result(chunk, right_count, almost_count, time, dir):
     # )
 
                 
-    with open(os.path.join(dir, 'summary.csv'), "w", newline= '') as output_file:
+    with open(os.path.join(dir, 'summary.csv'), "a", newline= '') as output_file:
         writer = csv.writer(output_file)
         writer.writerow(chunk, right_count, almost_count)
