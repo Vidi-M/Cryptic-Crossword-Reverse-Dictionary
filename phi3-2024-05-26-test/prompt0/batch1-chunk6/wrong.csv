@@ -1,1 +1,4 @@
-Search ,quest,"['Investigate', 'Locate', 'Discover', 'Detect', 'Uncover', 'Examine', 'Probe', 'Query', 'Seek', 'Traverse', 'Scour', 'Explore', 'Research', 'Track', 'Reconnaissance', 'Survey', 'Peruse', 'Pursue', 'Sift', 'Dig']"
+CLUE,ANS,OUTPUT
+Left high and dry ,marooned,"['Stranded', 'Abandoned', 'Forlorn', 'Helpless', 'Defeated', 'Disheartened', 'Desolated', 'Exasperated', 'Humiliated', 'Unsupported', 'Dismissed', 'Betrayed', 'Forsaken', 'Bereaved', 'Devastated', 'Disenchanted', 'Demoralized', 'Forlornly abandoned', 'Languishing', 'Rejected']"
+Over-indulged child ,spoilt brat,"['Spoiled', 'Picky', 'Demanding', 'Selfish', 'Narcissistic', 'Materialistic', 'Entitled', 'Immoderate', 'Indulgent', 'Overprotected', 'Opportunistic', 'Egocentric', 'Ungrateful', 'Perfectionist', 'Boundary-less', 'Freeloader', 'Nimrod', 'Immature', 'Haughty', 'Presumptuous']"
+Search ,quest,"['Investigate', 'Explore', 'Locate', 'Discover', 'Seek', 'Probe', 'Track', 'Find', 'Uncover', 'Hunt', 'Research', 'Delve into', 'Query', 'Sift through', 'Scour', 'Examine', 'Reconnoiter', 'Peruse', 'Survey', 'Root out']"

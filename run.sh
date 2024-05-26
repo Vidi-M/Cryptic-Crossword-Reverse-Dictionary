@@ -6,12 +6,10 @@ CROSSWORD="/homes/${USER}/Cryptic-Crossword-Reverse-Dictionary/"
 
 # Check if a config file is provided as an argument
 CONFIG_FILE="config.txt"  # Default config file
-MACHINES="1"
 CHUNK="0"
 if [ $# -gt 0 ]; then
   CONFIG_FILE="$1"
-  MACHINES="$2"
-  CHUNK="$3"
+  CHUNK="$2"
 fi
 
 # Start the background service
@@ -26,4 +24,4 @@ fi
 sleep 8
 
 # Run the Python script with the specified config file
-python main.py --config "$CONFIG_FILE" --machines "$MACHINES" --chunk "$CHUNK"|| echo "Error: main.py did not execute"
+python main.py --config "$CONFIG_FILE" --chunk "$CHUNK"|| echo "Error: main.py did not execute"

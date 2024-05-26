@@ -23,9 +23,6 @@ def read_csv(file_path, init_pos, end_pos): ## need to implement cross validatio
     df = pd.read_csv(file_path)
     sampled_df = df.sample(n=len(df.index), random_state=27)
     df_chunk = sampled_df.iloc[init_pos:end_pos, :]
-    print(f"nrows={len(df.index)}")
-    print(f"sampled_df.size {sampled_df.size}")
-    print(f"df_chunk {df_chunk}")
     definitions = df_chunk['definition'].tolist()  # Assuming 'Definition' is the header for the definition column
     answers = df_chunk['answer'].tolist()  # Assuming 'Answer' is the header for the answer column
     #word_lengths = [len(word) for answer in answers for word in answer.split()]
@@ -45,7 +42,6 @@ def make_csv_all(file_path):
 def main():
     parser = argparse.ArgumentParser(description="Run the script to interact with the Ollama model")
     parser.add_argument('--config', help='Path to config file')
-    parser.add_argument('--machines', help='Number of machines it is running on')
     parser.add_argument('--chunk', help='Chunk number')
     args = parser.parse_args()
     date = datetime.date.today()
@@ -57,16 +53,11 @@ def main():
     datasize = int(config.get('datasize'))
     batch = int(config.get('batch')) # Which section it is in
     
-    #
-    machines = int(args.machines)
-    chunk = int(args.chunk) #which parallel job it is
-    init_pos = int((machines*datasize*batch) + (chunk * datasize))
-    end_pos = int(init_pos + datasize)
-    print(init_pos)
-    print(datasize)
-    print(end_pos)
+    chunk = int(args.chunk) #which process job it is
+    init_pos = int(chunk*datasize + 1)
+    end_pos = int(init_pos + datasize - 1)
 
-    directory = f"{model}-{date}/prompt{prompt_no}/batch{batch}-chunk{chunk}"
+    directory = f"{model}-{date}/prompt{prompt_no}/chunk{chunk}"
     if not os.path.exists(directory):
         os.makedirs(directory)
         
@@ -91,6 +82,7 @@ def main():
         
         generated_words = response['message']['content']
         
+        print(f"def: {definitions[i]} ans: {answers[i]}")
         print(generated_words)
         
         word_lines = generated_words[1:].splitlines()
