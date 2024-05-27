@@ -1,4 +1,49 @@
-model=llama2
-prompt=You are presented with a challenge: provide a list of 20 words. The only instruction is that they relate to the term {def}.
-prompt_no=1
-dataset=100
+model=phi3
+prompt_no=0
+datasize=100
+prompt=[INST] <<SYS>>
+	Return a list of 20 words that match the given clue:
+	<</SYS>>
+	Readily Available[/INST]
+	1. On tap
+	2. Abundant
+	3. Easily obtainable
+	4. Accessible
+	5. Obtainable on demand
+	6. At-hand
+	7. Handy
+	8. Quickly available
+	9. Immediate
+	10. Instantly obtainable
+	11. Convenient
+	12. Readily accessible
+	13. Within reach
+	14. Available at short notice
+	15. Up-to-the-minute
+	16. Promptly available
+	17. Quick-fetching
+	18. Straightforward to obtain
+	19. Directly obtainable
+	20. Instantaneously accessible
+	[INST] Left Hungry [/INST]
+	1. Unfed
+	2. Undernourished
+	3. Malnourished
+	4. Starving
+	5. Famished
+	6. Hungry stomach
+	7. Inadequately fed
+	8. Underfed
+	9. Deprived of food
+	10. Nutrient-deficient
+	11. Fasting (when unintended)
+	12. Empty belly
+	13. Goiter (indirectly related to left hungry)
+	14. Vitamin deficiency
+	15. Picky eater (can lead to hunger if not addressed)
+	16. Food insecurity
+	17. Underfed child
+	18. Unfulfilled appetite
+	19. Empty pantry
+	20. Lean and gaunt (due to lack of food)
+	[INST] {def} [/INST]
