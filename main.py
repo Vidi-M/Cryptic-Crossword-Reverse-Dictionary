@@ -51,11 +51,10 @@ def main():
     prompt = config.get('prompt')
     prompt_no = config.get('prompt_no')
     datasize = int(config.get('datasize'))
-    batch = int(config.get('batch')) # Which section it is in
-    
+        
     chunk = int(args.chunk) #which process job it is
     init_pos = int(chunk*datasize + 1)
-    end_pos = int(init_pos + datasize - 1)
+    end_pos = int(init_pos + datasize)
 
     directory = f"{model}-{date}/prompt{prompt_no}/chunk{chunk}"
     if not os.path.exists(directory):
@@ -65,7 +64,7 @@ def main():
 
     file_path = 'definitions.csv'
     definitions, answers = read_csv(file_path, init_pos, end_pos)
-    print(definitions)
+    
 
     right_count, almost_count = 0, 0
     
@@ -106,7 +105,7 @@ def main():
     
     with open(os.path.join(directory, 'summary.csv'), "a", newline= '') as output_file:
         writer = csv.writer(output_file)
-        writer.writerow([batch, chunk, right_count, almost_count, wrong_count, elapsed])
+        writer.writerow([chunk, right_count, almost_count, wrong_count, elapsed])
     
 if __name__ == "__main__":
     main()
