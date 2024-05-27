@@ -10,13 +10,21 @@ from post_processing import process_result, print_result
 ## python main.py --config config.txt
 
 def read_config(filename):
-    config = {}
     with open(filename, 'r') as file:
-        for line in file:
-            line = line.strip()
-            if line:
-                key, value = line.split('=')
-                config[key.strip()] = value.strip()
+        lines = file.readlines()
+
+    config = {}
+    current_key = None
+
+    for line in lines:
+        line = line.strip()
+        if '=' in line:
+            key, value = line.split('=', 1)
+            config[key.strip()] = value.strip()
+            current_key = key.strip()
+        elif current_key:
+            config[current_key] += '\n' + line
+
     return config
 
 def read_csv(file_path, init_pos, end_pos): ## need to implement cross validation
