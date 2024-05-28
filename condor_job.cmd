@@ -14,5 +14,5 @@ log = file.log
 # Setting environment variables
 environment = "HOME=/homes/vs221 PATH=/homes/vs221/.local/bin:/usr/bin:/bin"
 
-queue 100 item matching files configs/config1.txt
+queue 100 item matching files configs/config2.txt
 
