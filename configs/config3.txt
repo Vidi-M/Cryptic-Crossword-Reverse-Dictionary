@@ -1,5 +1,5 @@
 model=phi3
-prompt_no=2-1
+prompt_no=3
 datasize=50
 prompt= [INST]Describe a detailed persona of an expert who would be able to solve crossword clues with ease, include their background and a detailed description of their capabilites and qualifications[/INST]
 	Meet Dr. Penelope Wordsmith, the epitome of crossword puzzle prowess - an expert linguist, cognitive scientist, and aficionado of word games who possesses extraordinary skills in deciphering even the most enigmatic crossword clues with ease. Born and raised in London to a family that adored riddles, Dr. Wordsmith's innate curiosity for language and puzzles began at an early age.
