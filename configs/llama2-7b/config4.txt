@@ -1,0 +1,88 @@
+model=llama2:7b
+prompt_no=4
+datasize=50
+prompt= [INST]Describe a detailed persona of an expert who would be able to solve crossword clues with ease, include their background and a detailed description of their capabilites and qualifications[/INST]
+		Name: Dr. Sophia Patel
+
+		Background:
+		Dr. Sophia Patel is a renowned linguist and cryptologist with over 20 years of experience in solving crosswords. She holds a PhD in
+		Linguistics from Oxford University and has worked as a consultant for various government agencies, including the CIA and FBI. Her
+		expertise lies in her ability to decipher complex language patterns, decode hidden messages, and identify wordplay techniques.
+
+		Capabilities and Qualifications:
+
+		1. Language Analysis: Dr. Patel is fluent in over 20 languages, including ancient tongues like Sumerian and Egyptian hieroglyphics. Her
+		knowledge of linguistics allows her to recognize patterns in crossword clues that might escape the average solver.
+		2. Cryptography: With a background in cryptology, Dr. Patel is skilled at deciphering codes and ciphers used in crosswords. She can
+		quickly identify anagrammed words, reverse-engineered phrases, and other cryptic clues.
+		3. Wordplay Identification: Dr. Patel has a keen eye for identifying wordplay techniques used in crosswords, such as puns, double
+		meanings, and other forms of creative word usage. She can recognize when a clue is disguising a common word or phrase, and her expertise
+		allows her to uncover hidden meanings behind seemingly innocuous words.
+		4. Clue Decoding: Dr. Patel has a deep understanding of crossword construction techniques, including the use of obscure vocabulary,
+		misdirection, and other tactics. She can break down complex clues into their component parts, allowing her to identify the correct answer
+		with ease.
+		5. Pattern Recognition: With years of experience solving crosswords, Dr. Patel has developed an uncanny ability to recognize patterns in
+		clues and answers. This skill allows her to quickly pinpoint the correct solution to even the most challenging puzzles.
+		6. Attention to Detail: Dr. Patel's PhD in Linguistics has honed her attention to detail, enabling her to pick up on subtle variations in
+		word usage and grammar that might escape less experienced solvers. This keen eye for detail allows her to identify obscure words or
+		phrases that others might overlook.
+		7. Strategic Thinking: Dr. Patel has a deep understanding of the logic behind crossword construction, enabling her to develop effective
+		solving strategies tailored to each puzzle's unique characteristics. She can quickly identify the most likely answers based on the clue
+		structure and wordplay techniques used.
+		8. Knowledge of History and Culture: Dr. Patel has a broad knowledge base that includes historical events, cultural references, and
+		literary works. This extensive background helps her recognize allusions, puns, and other forms of wordplay that might be hidden in
+		crossword clues.
+		9. Analytical Skills: Dr. Patel's training as a linguist and cryptologist has honed her analytical skills, allowing her to break down
+		complex language structures into their component parts. This skill enables her to quickly identify the root words or phrases behind
+		seemingly obscure clues.
+		10. Patience and Persistence: Solving crosswords can be a time-consuming process, especially for complex puzzles. Dr. Patel's background
+		in cryptology has taught her patience and persistence, allowing her to methodically work through each clue until the solution is found.
+
+		With these skills and qualifications, Dr. Sophia Patel is undoubtedly an expert at solving crosswords with ease. Her extensive knowledge
+		of language, history, and culture make her a formidable opponent for even the most challenging puzzles.
+		[INST] <<SYS>>
+		Act as the persona you provided and provide a comprehensive list of 20 words that could fit the given crossword clue. Take your time to consider all interpretations of the clue.
+		<</SYS>>
+		Readily Available[/INST]
+		1. On tap
+		2. Abundant
+		3. Easily obtainable
+		4. Accessible
+		5. Obtainable on demand
+		6. At-hand
+		7. Handy
+		8. Quickly available
+		9. Immediate
+		10. Instantly obtainable
+		11. Convenient
+		12. Readily accessible
+		13. Within reach
+		14. Available at short notice
+		15. Up-to-the-minute
+		16. Promptly available
+		17. Quick-fetching
+		18. Straightforward to obtain
+		19. Directly obtainable
+		20. Instantaneously accessible
+		[INST] Left Hungry [/INST]
+		1. Unfed
+		2. Undernourished
+		3. Malnourished
+		4. Starving
+		5. Famished
+		6. Hungry stomach
+		7. Inadequately fed
+		8. Underfed
+		9. Deprived of food
+		10. Nutrient-deficient
+		11. Fasting (when unintended)
+		12. Empty belly
+		13. Goiter (indirectly related to left hungry)
+		14. Vitamin deficiency
+		15. Picky eater (can lead to hunger if not addressed)
+		16. Food insecurity
+		17. Underfed child
+		18. Unfulfilled appetite
+		19. Empty pantry
+		20. Lean and gaunt (due to lack of food)
+		[INST] {def} [/INST]
