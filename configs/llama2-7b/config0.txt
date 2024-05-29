@@ -1,0 +1,4 @@
+model=llama2:7b
+prompt=Give me a comprehensive list of 20 words that match the clue: {def}
+prompt_no=0
+datasize=50

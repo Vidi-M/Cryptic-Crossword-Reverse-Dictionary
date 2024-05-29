@@ -1,9 +1,9 @@
-model=phi3
-prompt_no=2-1
-datasize=100
+model=llama2:7b
+prompt_no=2
+datasize=50
 prompt=[INST] <<SYS>>
-	Act as an incredibly skilled crossword solver that is an expert at problem solving, common sense, reasoning and strategy.
-	Provide a comprehensive list of 20 words that could fit the given crossword clue:
+	Act as a skilled crossword solver.
+	Return a comprehensive list of 20 words that could fit the given crossword clue:
 	<</SYS>>
 	Readily Available[/INST]
 	1. On tap
