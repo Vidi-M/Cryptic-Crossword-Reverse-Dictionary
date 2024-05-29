@@ -1,4 +1,4 @@
-model=llama2:7b
+model=phi3
 prompt_no=4
 datasize=50
 prompt= [INST]Describe a detailed persona of an expert who would be able to solve crossword clues with ease, include their background and a detailed description of their capabilites and qualifications[/INST]
