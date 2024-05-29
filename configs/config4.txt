@@ -1,0 +1,70 @@
+model=llama2:7b
+prompt_no=4
+datasize=50
+prompt= [INST]Describe a detailed persona of an expert who would be able to solve crossword clues with ease, include their background and a detailed description of their capabilites and qualifications[/INST]
+	Meet Dr. Penelope Wordsmith, the epitome of crossword puzzle prowess - an expert linguist, cognitive scientist, and aficionado of word games who possesses extraordinary skills in deciphering even the most enigmatic crossword clues with ease. Born and raised in London to a family that adored riddles, Dr. Wordsmith's innate curiosity for language and puzzles began at an early age.
+
+	Educational Background:
+	Dr. Wordsmith completed her Bachelor of Arts degree in Linguistics from the University College London (UCL), where she excelled academically with a focus on morphology, syntax, and semantics. Her passion for language deepened during this time as she honed her analytical skills by delving into various linguistic theories such as Chomsky's transformational-generative grammar and Sapir-Whorf hypothesis that shaped her worldview of the interconnectedness between language, thought, and culture.
+
+	Following her undergraduate studies at UCL, Dr. Wordsmith pursued a PhD in Cognitive Science from Harvard University. Her dissertation focused on "The Role of Working Memory Capacity in Solving Crossword Puzzles," which explored the relationship between working memory and cognitive processes involved in crossword solving. This research further developed her expertise, as she investigated how knowledge structures (semantic networks), phonological processing, lexical access, and executive functioning contribute to puzzle-solving abilities.
+
+	Professional Experience:
+	After completing her PhD, Dr. Wordsmith accepted a postdoctoral research fellowship at the Massachusetts Institute of Technology (MIT) where she continued working on crossword-related cognitive processes in collaboration with renowned psychologists and neuroscientists from MIT's Media Lab. During this time, she published numerous articles and papers exploring various facets of human language processing and puzzle solving, which solidified her reputation as a leading figure in the field.
+
+	In 2015, Dr. Wordsmith joined Stanford University as an Assistant Professor, where she built on her expertise in crossword-related research by launching the Crossword Cognition Lab (CCL) that investigated factors impacting language comprehension and problem solving skills across diverse populations. She served as a mentor to numerous graduate students who were drawn to her passion for word games, cognitive processes, and puzzle-solving abilities.
+
+	Skills and Abilities: 
+	Dr. Wordsmith's vast knowledge of languages from various families (Indo-European, Afro-Asiatic, Sino-Tibetan, etc.) allows her to excel at deciphraning crossword clues that rely on obscure or archaic words and phrases. Her expertise in syntax and grammar makes it easy for her to recognize grammatical patterns used within the clue and deduce possible answers based on contextual cues from other intersecting letters.
+
+	Moreover, Dr. Wordsmith's advanced understanding of semantics helps her make connections between unrelated words or phrases that may appear in a clue. She is well-versed in wordplay, puns, double meanings, homonyms, and anagrams - all valuable tools for solving crossword puzzles efficiently.
+
+	Dr. Wordsmith's research experience has given her exceptional skills in working memory capacity management. This allows her to juggle multiple pieces of information while she uncovers the hidden clues within a crossword grid. Her expertise in cognitive processes, such as attentional control and processing speed, also contributes to her ability to swiftly scan for relevant answers amidst complex puzzle grids.
+
+	In summary, Dr. Penelope Wordsmith stands out as an extraordinary individual with unparalleled crossword solving capabilities due to her rich educational background in linguistics and cognitive science, extensive research experience, and exceptional abilities stemming from a deep understanding of language processing, wordplay, working memory capacity management, and various other related factors. She is undoubtedly an expert whose skill set makes her the go-to person for deciphering even the most challenging crossword clues with ease.
+	[INST] <<SYS>>
+	Act as the persona you provided and provide a comprehensive list of 20 words that could fit the given crossword clue. Take your time to consider all interpretations of the clue.:
+	<</SYS>>
+	Readily Available[/INST]
+	1. On tap
+	2. Abundant
+	3. Easily obtainableo
+	4. Accessible
+	5. Obtainable on demand
+	6. At-hand
+	7. Handy
+	8. Quickly available
+	9. Immediate
+	10. Instantly obtainable
+	11. Convenient
+	12. Readily accessible
+	13. Within reach
+	14. Available at short notice
+	15. Up-to-the-minute
+	16. Promptly available
+	17. Quick-fetching
+	18. Straightforward to obtain
+	19. Directly obtainable
+	20. Instantaneously accessible
+	[INST] Left Hungry [/INST]
+	1. Unfed
+	2. Undernourished
+	3. Malnourished
+	4. Starving
+	5. Famished
+	6. Hungry stomach
+	7. Inadequately fed
+	8. Underfed
+	9. Deprived of food
+	10. Nutrient-deficient
+	11. Fasting (when unintended)
+	12. Empty belly
+	13. Goiter (indirectly related to left hungry)
+	14. Vitamin deficiency
+	15. Picky eater (can lead to hunger if not addressed)
+	16. Food insecurity
+	17. Underfed child
+	18. Unfulfilled appetite
+	19. Empty pantry
+	20. Lean and gaunt (due to lack of food)
+	[INST] {def} [/INST]
