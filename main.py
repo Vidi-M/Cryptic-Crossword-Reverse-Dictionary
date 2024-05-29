@@ -64,7 +64,7 @@ def main():
     init_pos = int(chunk*datasize + 1)
     end_pos = int(init_pos + datasize)
 
-    directory = f"{model}-3b/prompt{prompt_no}/chunk{chunk}"
+    directory = f"llama2-7b/prompt{prompt_no}/chunk{chunk}"
     if not os.path.exists(directory):
         os.makedirs(directory)
         
