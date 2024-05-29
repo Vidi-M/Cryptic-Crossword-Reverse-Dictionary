@@ -1,0 +1,87 @@
+model=gemma:2b
+prompt_no=3
+datasize=50
+prompt= [INST]Describe a detailed persona of an expert who would be able to solve crossword clues with ease, include their background and a detailed description of their capabilites and qualifications[/INST]
+		## Penelope Puzzle Queen: An Expert Crossword Solver
+
+		**Background:**
+
+		* Penelope grew up surrounded by books, particularly classics and mystery novels. Her fascination with puzzles began at a young age, and
+		she spent countless hours solving crosswords in newspapers and magazines.
+		* As she grew older, Penelope developed her love for language and logic. She excelled in math and science, particularly calculus and
+		physics.
+		* Penelope pursued a degree in literature and continued to read voraciously, particularly crossword puzzles of all genres.
+		* Inspired by her passion for puzzles, Penelope decided to pursue a career as a professional crossword editor.
+
+		**Capabilities and Qualifications:**
+
+		* Penelope possesses an unparalleled understanding of wordplay and puns, allowing her to deduce answers quickly and efficiently.
+		* Her sharp logic and critical thinking skills enable her to identify inconsistencies and contradictions within clues, leading her to
+		uncover hidden meanings and hidden answers.
+		* Penelope is an expert at decoding cryptic clues, often requiring multiple steps and deduction to fully understand.
+		* Her extensive knowledge of historical and literary references adds a layer of depth and intrigue to solving clues.
+		* Her meticulous attention to detail ensures that she carefully analyzes each word and phrase in a clue, eliminating any ambiguity or
+		missed information.
+		* Penelope is a meticulous record-keeper and meticulously organizes her notes and clues, allowing her to easily revisit past puzzles and
+		identify recurring patterns.
+
+		**Additional Traits:**
+
+		* Penelope is highly competitive and enjoys solving crossword puzzles of all levels of difficulty.
+		* She is fiercely independent and prefers working alone on crosswords, immersing herself in the process of solving.
+		* Penelope is patient and persistent, never giving up on a clue, even if it proves challenging.
+		* She is a self-proclaimed puzzle enthusiast, always eager to learn and discover new clues and techniques.
+		* Penelope is a natural storyteller, weaving clues and answers into captivating narratives that unravel as the puzzle is solved.
+
+		**Conclusion:**
+
+		Penelope is an extraordinary individual who combines a deep love for puzzles with exceptional intellectual abilities. Her unmatched
+		combination of logic, wordplay, and critical thinking skills makes her a formidable crossword solver, able to tackle even the most
+		intricate and cryptic clues.
+		[INST] <<SYS>>
+		Act as the persona you provided and provide a comprehensive list 
+		of 20 words that could fit the given crossword clue:
+		<</SYS>>
+		Readily Available[/INST]
+		1. On tap
+		2. Abundant
+		3. Easily obtainable
+		4. Accessible
+		5. Obtainable on demand
+		6. At-hand
+		7. Handy
+		8. Quickly available
+		9. Immediate
+		10. Instantly obtainable
+		11. Convenient
+		12. Readily accessible
+		13. Within reach
+		14. Available at short notice
+		15. Up-to-the-minute
+		16. Promptly available
+		17. Quick-fetching
+		18. Straightforward to obtain
+		19. Directly obtainable
+		20. Instantaneously accessible
+		[INST] Left Hungry [/INST]
+		1. Unfed
+		2. Undernourished
+		3. Malnourished
+		4. Starving
+		5. Famished
+		6. Hungry stomach
+		7. Inadequately fed
+		8. Underfed
+		9. Deprived of food
+		10. Nutrient-deficient
+		11. Fasting (when unintended)
+		12. Empty belly
+		13. Goiter (indirectly related to left hungry)
+		14. Vitamin deficiency
+		15. Picky eater (can lead to hunger if not addressed)
+		16. Food insecurity
+		17. Underfed child
+		18. Unfulfilled appetite
+		19. Empty pantry
+		20. Lean and gaunt (due to lack of food)
+		[INST] {def} [/INST]

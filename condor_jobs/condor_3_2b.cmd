@@ -7,12 +7,12 @@ initialdir = /homes/vs221/Cryptic-Crossword-Reverse-Dictionary
 executable = /homes/vs221/Cryptic-Crossword-Reverse-Dictionary/run.sh
 arguments = $(item) $(Process)
 
-output = file/out2/$(Process).out
-error = file/err2/$(Process).err
-log = file2.log
+output = file/out/$(Process).out
+error = file/err/$(Process).err
+log = file.log
 
 # Setting environment variables
 environment = "HOME=/homes/vs221 PATH=/homes/vs221/.local/bin:/usr/bin:/bin"
 
-queue 200 item matching files configs/llama3-8b/config2.txt
+queue 200 item matching files configs/gemma-2b/config3.txt
 
