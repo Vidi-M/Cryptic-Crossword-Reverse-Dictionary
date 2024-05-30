@@ -1,7 +1,8 @@
 CLUE,ANS,POS,FOUND IN
-Clown ,buffoon,16,Buffoonish
-Spicy pepper sauce ,tabasco,11,Tabasco sauce
-Paris stock exchange ,bourse,3,"History: The exchange was established in 1842 as the ""Bourse de Paris."" It has a long history of innovation and has been at the forefront of European financial markets."
-"Brogue or loafer, perhaps ",shoe,20,Water shoes
-Alternative ,other,8,Munchies (on something other than food)
-Swift ,fleet,10,Fleet-footed
+"Brogue or loafer, perhaps ",shoe,7,Boat shoes
+Fireplace for Nigel ,ingle,4,"Ingle (a rare word, but it could fit the context)"
+Not so tall ,shorter,17,Shorter than average
+A Hindu spiritual teacher ,guru,1,"Born into a family of Brahmins in rural India, he was initiated into the study of Vedic scriptures at a young age and later pursued his spiritual training under some of the most revered gurus of his time"
+Suffering,distress,1,Distressed
+(Of computer memory) able to be read in non-sequential order ,random access,1,Random Access Memory (RAM)
+Swift ,fleet,19,Fleet-footed

@@ -1,7 +1,10 @@
 CLUE,ANS,POS,FOUND IN
-Temporary residence ,stay,12,Short-term stay
-Branch of mathematics ,geometry,3,"Geometry: The study of shapes, sizes, and positions of objects, and the relationships between them."
-Mother-of-pearl ,nacre,4,Nacreous
-Very tactful person ,diplomat,1,Diplomatic
-Pyramids location ,giza,1,"Specifically, there are three main pyramids located near the city of Giza on the west bank of the Nile River:"
+Temporary residence ,stay,2,Hostel stay
+Branch of mathematics ,geometry,3,"Geometry: The study of shapes, sizes, and positions of objects, including points, lines, planes, angles, and distances."
+Mother-of-pearl ,nacre,1,Nacreous
+Very tactful person ,diplomat,2,Diplomatic
+Pyramids location ,giza,1,"The three main pyramids of Giza, also known as the Great Pyramids, are:"
+Sweet almond biscuit ,macaroon,2,Coconut macaroon
+Short period of relief ,respite,8,Brief respite
 Causing laughter ,comic,3,Comical
+Standards on which to base judgment ,criteria,1,"Objectivity: Base judgments on objective criteria, rather than personal opinions or biases."

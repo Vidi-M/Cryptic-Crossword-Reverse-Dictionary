@@ -1,8 +1,6 @@
 CLUE,ANS,POS,FOUND IN
 New York borough and island in Bay ,staten,4,Staten Island
 Subject to scrutiny ,examine,1,Examined
-Brazilian dance ,lambada,3,"Lambada - a sensual and rhythmic dance that originated in the Amazon region of Brazil, often performed in a circular formation."
-Back of neck ,nape,3,Nape of the neck
-Choose ,pick,15,Picky eater (can lead to hunger if not addressed)
-Tourist attraction of Moscow,red square,3,"Red Square: Located adjacent to the Kremlin, Red Square is a historic square known for its impressive buildings, including the Lenin Mausoleum, the State Historical Museum, and the colorful onion domes of St"
-Cattleman,rancher,1,Ranchero
+Choose ,pick,11,Picky eater (can lead to hunger if not addressed)
+Whole and complete ,entire,14,Entirety
+Hole in a needle ,eye,2,Eye of a needle (Biblical reference)

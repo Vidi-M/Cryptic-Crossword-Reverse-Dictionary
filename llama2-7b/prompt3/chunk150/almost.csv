@@ -1,6 +1,8 @@
 CLUE,ANS,POS,FOUND IN
-"-- and Aeneas, opera by Purcell ",dido,7,Dido (legendary queen of Carthage from Virgil's Aeneid)
-Very thin paper ,tissue,6,Tissue-like
-Automation ,robot,1,Robotization
-District of the Gironde ,m,3,Gironde department
-Speak to the residence ,address,1,Address (to the residence)
+Canopy ,awning,5,Awnings
+Very thin paper ,tissue,4,Tissue-thin
+Run with long bounding steps ,lope,7,Galloped
+Automation ,robot,1,Robotics
+District of the Gironde ,m,3,New Aquitaine (a more contemporary term for the region)
+Speak to the residence ,address,1,Address (the person or people)
+Dull person; use a drill ,bore,15,Boredom-inducing

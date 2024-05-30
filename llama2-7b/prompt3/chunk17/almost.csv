@@ -1,8 +1,10 @@
 CLUE,ANS,POS,FOUND IN
-Calculate approximately ,estimate,2,"Based on the average length of words in English (around 6-8 letters), we can estimate that the number of possible words that fit the clue is between 10-15 words."
-Defeat by superior ingenuity ,outwit,3,Outwitted
+Calculate approximately ,estimate,2,"Long answers: For longer answers, we can estimate around 10-12 possible words that could fit the clue, given the length restriction."
+Defeat by superior ingenuity ,outwit,5,Outwitted
 Reverie ,dream,1,Daydream
 Sway on the brink,teeter,1,Teetering
-Direction of the rising sun ,east,1,Eastward
-Fluid collected by bees ,nectar,4,Apian nectar
-A facial twitch ,tic,1,Tick (as in a small movement of the face)
+Aperture or opportunity ,opening,2,Opening for advancement
+Direction of the rising sun ,east,1,"The sun rises in the east, so the direction of the rising sun is generally eastward"
+Slightly drunk ,tipsy,5,Mildly tipsy
+Fluid collected by bees ,nectar,3,Bee nectar
+Seed-bearing spike ,ear,17,Terminal bud (can form a seed-bearing spike)

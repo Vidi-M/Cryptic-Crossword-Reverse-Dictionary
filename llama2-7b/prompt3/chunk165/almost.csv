@@ -1,5 +1,8 @@
 CLUE,ANS,POS,FOUND IN
-Cloak-and-dagger ,secret,2,Secretive
-Tax-free savings account ,isa,11,Disability savings account
-Like an omelette ,eggy,9,Eggy bread (related to omelette)
-Obstinate quadruped,mule,9,Obstinate mule (a common example of an obstinate quadruped)
+Cloak-and-dagger ,secret,4,Top secret
+Room for surgery ,theatre,6,Operation theatre
+Organization of people or resources that can be shared ,pool,12,Shared resource pool
+Defame falsely,libel,1,Libelous statement
+Tax-free savings account ,isa,19,Disability income replacement (with tax benefits)
+"Weill, Weber or Webber ",composer,1,It seems you may have misspelled the name of the famous composer Carl Weil.
+Obstinate quadruped,mule,1,Moody mule

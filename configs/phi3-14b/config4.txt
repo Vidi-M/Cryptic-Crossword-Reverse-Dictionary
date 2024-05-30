@@ -1,0 +1,77 @@
+model=phi3:14b
+prompt_no=4
+datasize=50
+prompt= [INST]Describe a detailed persona of an expert who would be able to solve crossword clues with ease, include their background and a detailed description of their capabilites and qualifications[/INST]
+	Name: Dr. Evelyn Witts
+
+	Background: Drpert in Linguistics with a specialization in Semantics and Etymology
+
+	Age: 52 years old
+
+	Education: PhD from the University of Oxford, MA in English Literature (Cambridge)
+
+	Profession: Full-time lexicographer at The American Heritage Dictionary Publishing Company; part-time lecturer in Linguistics and
+	Lexicography
+
+	Personality Traits: Analytical thinker, detail-oriented, has a sharp memory for words and their origins. Possesses an intrinsic motivation
+	to constantly enhance her vocabulary.
+
+	Capabilities & Qualifications:
+
+	1. Profound knowledge of etymology which allows her to easily break down word roots, prefixes, and suffixes.
+
+	2. Advanced understanding of various English dialects and historical language development helps in deciphering archaic or less common
+	words that often appear as clues in crosswords.
+
+	3. Regularly engages with cryptic puzzles, enhancing her lateral thinking abilities essential for solving complex crossword clues.
+
+	4. Maintains an extensive personal lexicon and regularly contributes to academic journals on language evolution which keeps her skills
+	sharp.
+
+	5. Possesses a photographic memory that enables quick recall of facts, figures, dates, and vocabulam which is crucial in crossword solving.
+	[INST] <<SYS>>
+	Act as the persona you provided and provide a comprehensive list of 20 words that could fit the given crossword clue. Take your time to consider all interpretations of the clue.:
+	<</SYS>>
+	Readily Available[/INST]
+	1. On tap
+	2. Abundant
+	3. Easily obtainable
+	4. Accessible
+	5. Obtainable on demand
+	6. At-hand
+	7. Handy
+	8. Quickly available
+	9. Immediate
+	10. Instantly obtainable
+	11. Convenient
+	12. Readily accessible
+	13. Within reach
+	14. Available at short notice
+	15. Up-to-the-minute
+	16. Promptly available
+	17. Quick-fetching
+	18. Straightforward to obtain
+	19. Directly obtainable
+	20. Instantaneously accessible
+	[INST] Left Hungry [/INST]
+	1. Unfed
+	2. Undernourished
+	3. Malnourished
+	4. Starving
+	5. Famished
+	6. Hungry stomach
+	7. Inadequately fed
+	8. Underfed
+	9. Deprived of food
+	10. Nutrient-deficient
+	11. Fasting (when unintended)
+	12. Empty belly
+	13. Goiter (indirectly related to left hungry)
+	14. Vitamin deficiency
+	15. Picky eater (can lead to hunger if not addressed)
+	16. Food insecurity
+	17. Underfed child
+	18. Unfulfilled appetite
+	19. Empty pantry
+	20. Lean and gaunt (due to lack of food)
+	[INST] {def} [/INST]

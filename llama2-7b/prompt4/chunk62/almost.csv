@@ -1,8 +1,9 @@
 CLUE,ANS,POS,FOUND IN
-"Collection of facts, information ",data,1,Databases
-Tourist attraction of Rome ,colosseum,2,The Colosseum: This ancient amphitheater is one of Rome's most iconic landmarks and a must-visit attraction for any traveler
+Acknowledgments of payment ,receipts,9,Receipts (digital or paper)
+"Collection of facts, information ",data,1,Data bank
+Tourist attraction of Rome ,colosseum,1,"The Colosseum - Also known as the Flavian Amphitheatre, this ancient monument is one of Rome's most recognizable landmarks and a must-visit attraction for any traveler."
 Consent ,agree,1,Agreement
-Broad prospect ,vista,6,Endless vistas
-Devours - food,eats,4,Eats voraciously
-Swedish astronomer who devised temperature scale ,celsius,1,"Prior to Celsius' invention, there was no standardized temperature scale used across different scientific fields and cultures"
-Minutiae ,trivia,3,Trivialities
+Broad prospect ,vista,3,Sweeping vista
+Minutiae ,trivia,6,Trivialities
+Unite ,join,1,Join forces
+"Support, large mammal ",bear,6,Bear (brown or black)

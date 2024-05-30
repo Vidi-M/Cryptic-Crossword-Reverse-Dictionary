@@ -1,4 +1,7 @@
 CLUE,ANS,POS,FOUND IN
+Spike on plant ,thorn,20,Rose thorn
+Sound like hostile or angry dog,growl,1,"*growls* Nyaaahh!"""
+Garments ,clothing,11,Trim (old-fashioned term for clothing)
 Smoking accessory,lighter,1,Cigarette lighter
-Disguises ,cloaks,11,Cloaks true self
-"I tear away, being annoyed ",irate,14,Got irate (can lead to tearing away)
+Awake from sleep ,arouse,3,Aroused
+Outrage ,scandal,14,Scandalize

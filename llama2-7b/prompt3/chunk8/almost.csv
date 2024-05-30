@@ -1,7 +1,7 @@
 CLUE,ANS,POS,FOUND IN
-"Hard, spicy beef and pork sausage ",pepperoni,8,Pepperoni (sometimes found in spicy sausages)
-Pigpen ,sty,11,Dusty
-A really foul smell ,stench,2,Stench-ridden
-Horrific experience ,ordeal,20,Unforgettable ordeal
+"Charlotte, Branwell, Emily and Anne ",bronte,2,"Bronte quartet (the same as above, but using the term ""quartet"" instead of ""sisters"")"
+"Hard, spicy beef and pork sausage ",pepperoni,6,Pepperoni (when spicy)
+A really foul smell ,stench,12,Stench-filled
 Vegetable ,pea,7,Peas
-Instructions for cooking ,recipe,1,Follow recipe instructions
+One of the Twelve Apostles ,thomas,8,Saint Thomas
+Person of great strength -- moon of Saturn ,titan,1,"Titan is a moon of Saturn, which aligns with the given information"

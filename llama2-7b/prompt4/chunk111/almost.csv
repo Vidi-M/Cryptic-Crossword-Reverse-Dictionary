@@ -1,8 +1,9 @@
 CLUE,ANS,POS,FOUND IN
-Watch - intellect ,mind,4,Mindful
-Brave guy ,hero,4,Heroic
-Items of business ,agenda,13,Agendas
-All assets and liabilities ,estate,4,Real estate property
-Appealing to emotion rather than actuality ,sentimental,4,Sentimental value
-Walk as if about to fall,stagger,5,Staggering
-Seraph ,angel,1,Angelic
+Watch - intellect ,mind,6,Mindful
+Breathed audibly and deeply ,sighed,10,Sighed (can be audible and deep)
+Items of business ,agenda,1,Agenda items
+All assets and liabilities ,estate,2,"Real estate properties (homes, land, etc.)"
+"- - Flynn, film star ",errol,1,"Errol Flynn was a popular actor in Hollywood's golden age, known for his dashing good looks and swashbuckling roles in films such as ""Captain Blood"" and ""The Adventures of Robin Hood."""
+Surprise greatly or daze ,stun,4,Stunned
+Seraph ,angel,4,Angelic
+'. . . . . . speaks louder then words' ,action,3,Action speaks louder than words
