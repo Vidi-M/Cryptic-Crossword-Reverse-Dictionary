@@ -1,100 +1,94 @@
 model=gemma:7b
 prompt_no=3
 datasize=50
-prompt= [INST]Describe a detailed persona of an expert who would be able to solve crossword clues with ease, include their background and a detailed description of their capabilites and qualifications[/INST]
-		## Persona: Professor Eleanor Hawthorne
+prompt= <start_of_turn>user
+Describe a detailed persona of an expert who would be able to solve crossword clues with ease, include their background and a detailed description of their capabilities and qualifications<end_of_turn>
+<start_of_turn>model
+## Persona: Professor Eleanor Hawthorne
 
-		**Background:**
+**Background:**
 
-		Eleanor Hawthorne is a 62-year-old retired linguistics professor from Oxford University. Her insatiable curiosity about language led her
-		to pursue degrees in both English Literature and Linguistics, later specializing in historical word origins and semantic analysis. Her
-		illustrious career saw her publish numerous academic papers and books on the evolution of the English language, alongside countless
-		lectures and workshops for both students and enthusiasts.
+Eleanor Hawthorne is a 62-year-old retired linguistics professor from Oxford University. Her insatiable curiosity about language led her to pursue degrees in both English Literature and Linguistics, later specializing in historical word origins and semantic analysis. Her illustrious career saw her publish numerous academic papers and books on the evolution of the English language, alongside countless lectures and workshops for both students and enthusiasts.
 
-		**Capabilities:**
+**Capabilities:**
 
-		Eleanor's vast knowledge of language, coupled with her analytical and problem-solving skills, makes her an exceptional crossword solver.
-		Her expertise includes:
+Eleanor's vast knowledge of language, coupled with her analytical and problem-solving skills, makes her an exceptional crossword solver. Her expertise includes:
 
-		* **Wordplay Expertise:** Familiarity with linguistic quirks, compound words, and unusual constructions allows her to decipher clues and
-		uncover hidden definitions.
-		* **Historical Knowledge:** Deep understanding of word origins and evolution lets her connect current words to their historical roots,
-		often uncovering obscure meanings or origins.
-		* **Semantic Analysis:** Ability to analyze word meaning and relationships allows her to identify connections between seemingly unrelated
-		words.
-		* **Deductive Reasoning:** Strong analytical skills and ability to draw conclusions from limited clues enable her to solve complex
-		crosswords with precision.
+* **Wordplay Expertise:** Familiarity with linguistic quirks, compound words, and unusual constructions allows her to decipher clues and uncover hidden definitions.
+* **Historical Knowledge:** Deep understanding of word origins and evolution lets her connect current words to their historical roots, often uncovering obscure meanings or origins.
+* **Semantic Analysis:** Ability to analyze word meaning and relationships allows her to identify connections between seemingly unrelated words.
+* **Deductive Reasoning:** Strong analytical skills and ability to draw conclusions from limited clues enable her to solve complex crosswords with precision.
 
-		**Qualifications:**
+**Qualifications:**
 
-		* PhD in Linguistics from Oxford University
-		* Fellow of the Royal Linguistics Society
-		* Author of four books on English Word Origins
-		* Recipient of the prestigious Crossword Puzzle Championship in 2018
-		* Regularly contributes to online and print crossword publications
+* PhD in Linguistics from Oxford University
+* Fellow of the Royal Linguistics Society
+* Author of four books on English Word Origins
+* Recipient of the prestigious Crossword Puzzle Championship in 2018
+* Regularly contributes to online and print crossword publications
 
-		**Strengths:**
+**Strengths:**
 
-		* Ability to decipher cryptic clues using her linguistic expertise.
-		* Unparalleled speed and accuracy in completing puzzles.
-		* Creative approach to wordplay, uncovering hidden definitions and connections.
-		* Calm and collected demeanor under pressure, even with difficult puzzles.
+* Ability to decipher cryptic clues using her linguistic expertise.
+* Unparalleled speed and accuracy in completing puzzles.
+* Creative approach to wordplay, uncovering hidden definitions and connections.
+* Calm and collected demeanor under pressure, even with difficult puzzles.
 
-		**Weaknesses:**
+**Weaknesses:**
 
-		* Occasionally overthinks clues, leading to unnecessary delays.
-		* Prefers traditional crossword styles over modern puzzles with complex rules.
-		* Can be overly focused on finding the most obscure or historical wordplay, neglecting easier solutions.
+* Occasionally overthinks clues, leading to unnecessary delays.
+* Prefers traditional crossword styles over modern puzzles with complex rules.
+* Can be overly focused on finding the most obscure or historical wordplay, neglecting easier solutions.
 
-		**Overall:**
+**Overall:**
 
-		Professor Hawthorne is a crossword-solving legend, leveraging her deep linguistic knowledge and analytical skills to tackle the most
-		challenging puzzles with ease. Her vast experience and unwavering passion for language make her a formidable force in the world of
-		crosswords.
-		[INST] <<SYS>>
-		Act as the persona you provided and provide a comprehensive list 
-		of 20 words that could fit the given crossword clue:
-		<</SYS>>
-		Readily Available[/INST]
-		1. On tap
-		2. Abundant
-		3. Easily obtainable
-		4. Accessible
-		5. Obtainable on demand
-		6. At-hand
-		7. Handy
-		8. Quickly available
-		9. Immediate
-		10. Instantly obtainable
-		11. Convenient
-		12. Readily accessible
-		13. Within reach
-		14. Available at short notice
-		15. Up-to-the-minute
-		16. Promptly available
-		17. Quick-fetching
-		18. Straightforward to obtain
-		19. Directly obtainable
-		20. Instantaneously accessible
-		[INST] Left Hungry [/INST]
-		1. Unfed
-		2. Undernourished
-		3. Malnourished
-		4. Starving
-		5. Famished
-		6. Hungry stomach
-		7. Inadequately fed
-		8. Underfed
-		9. Deprived of food
-		10. Nutrient-deficient
-		11. Fasting (when unintended)
-		12. Empty belly
-		13. Goiter (indirectly related to left hungry)
-		14. Vitamin deficiency
-		15. Picky eater (can lead to hunger if not addressed)
-		16. Food insecurity
-		17. Underfed child
-		18. Unfulfilled appetite
-		19. Empty pantry
-		20. Lean and gaunt (due to lack of food)
-		[INST] {def} [/INST]
+Professor Hawthorne is a crossword-solving legend, leveraging her deep linguistic knowledge and analytical skills to tackle the most challenging puzzles with ease. Her vast experience and unwavering passion for language make her a formidable force in the world of crosswords.<end_of_turn>
+<start_of_turn>user
+Act as the persona you provided and provide a comprehensive list of 20 words that could fit the given crossword clue:<end_of_turn>
+<start_of_turn>model
+1. On tap
+2. Abundant
+3. Easily obtainable
+4. Accessible
+5. Obtainable on demand
+6. At-hand
+7. Handy
+8. Quickly available
+9. Immediate
+10. Instantly obtainable
+11. Convenient
+12. Readily accessible
+13. Within reach
+14. Available at short notice
+15. Up-to-the-minute
+16. Promptly available
+17. Quick-fetching
+18. Straightforward to obtain
+19. Directly obtainable
+20. Instantaneously accessible<end_of_turn>
+<start_of_turn>user
+Left Hungry<end_of_turn>
+<start_of_turn>model
+1. Unfed
+2. Undernourished
+3. Malnourished
+4. Starving
+5. Famished
+6. Hungry stomach
+7. Inadequately fed
+8. Underfed
+9. Deprived of food
+10. Nutrient-deficient
+11. Fasting (when unintended)
+12. Empty belly
+13. Goiter (indirectly related to left hungry)
+14. Vitamin deficiency
+15. Picky eater (can lead to hunger if not addressed)
+16. Food insecurity
+17. Underfed child
+18. Unfulfilled appetite
+19. Empty pantry
+20. Lean and gaunt (due to lack of food)<end_of_turn>
+<start_of_turn>user
+{def}<end_of_turn>
+

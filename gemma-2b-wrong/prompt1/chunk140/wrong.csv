@@ -1,0 +1,51 @@
+CLUE,ANS,OUTPUT
+Academy award ,oscar,[]
+Moisture condensed at night ,dew,[]
+Prosecute ,sue,['The context does not provide any words that match the clue.']
+Tosca composer ,puccini,[]
+Lamp-rubbing poor boy ,aladdin,[]
+Daydream ,fantasy,"['The list contains words that match the clue, including:', 'Unfed', 'Undernourished', 'Malnourished', 'Starving', 'Famished', 'Hungry stomach', 'Inadequately fed', 'Underfed', 'Deprived of food', 'Nutrient-deficient', 'Fasting (when unintended)', 'Empty belly', 'Goiter (indirectly related to left hungry)', 'Vitamin deficiency', 'Picky eater (can lead to hunger if not addressed)', 'Food insecurity', 'Underfed child', 'Unfulfilled appetite', 'Empty pantry', 'Lean and gaunt (due to lack of food)']"
+Acid purple plum ,damson,[]
+Planet second nearest to the sun ,venus,[]
+Magnitude ,size,[]
+Stick out ,protrude,[]
+"Aida, e.g. ",opera,"['On tap', 'Abundant', 'Easily obtainable', 'Accessible', 'Obtainable on demand', 'At-hand', 'Handy', 'Quickly available', 'Immediate', 'Instantly obtainable', 'Convenient', 'Readily accessible', 'Within reach', 'Available at short notice', 'Up-to-the-minute', 'Promptly available', 'Quick-fetching', 'Straightforward to obtain', 'Directly obtainable', 'Instantaneously accessible']"
+Man or beast ,animal,[]
+Eat this by way of apology ,humble pie,[]
+Gong ,medal,[]
+Mediate ,liaise,[]
+Shield from danger ,protect,[]
+Important person (colloq.) ,big noise,[]
+Deep red spice,paprika,[]
+Item inserted in a written record ,entry,"['On tap', 'Convenient', 'Up-to-the-minute', 'Immediate', 'Instantly obtainable', 'Promptly available', 'Quick-fetching', 'Straightforward to obtain', 'Directly obtainable', 'Instantaneously accessible', 'Convenient', 'Readily accessible', 'Within reach', 'Available at short notice', 'Up-to-date', 'Prompt', 'Quick-responding', 'Easy to find', 'Easily attainable', 'Instantaneous access']"
+Coma ,stupor,[]
+One who watches ,viewer,"['The pattern is a sequence of characters that resemble a piece of a piece of paper being torn away', 'On tap', 'Abundant', 'Easily obtainable', 'Accessible', 'Obtainable on demand', 'At-hand', 'Handy', 'Quickly available', 'Immediate', 'Instantly obtainable', 'Convenient', 'Readily accessible', 'Within reach', 'Available at short notice', 'Up-to-the-minute', 'Promptly available', 'Quick-fetching', 'Straightforward to obtain', 'Directly obtainable', 'Instantaneously accessible']"
+Unrest - upheaval ,turmoil,"['Hungry', 'Undernourished', 'Malnourished', 'Starving', 'Famished', 'Hungry stomach', 'Inadequately fed', 'Underfed', 'Deprived of food', 'Nutrient-deficient', 'Fasting (when unintended)', 'Empty belly', 'Goiter (indirectly related to left hungry)', 'Vitamin deficiency', 'Picky eater (can lead to hunger if not addressed)', 'Food insecurity', 'Underfed child', 'Unfulfilled appetite', 'Empty pantry', 'Lean and gaunt (due to lack of food)']"
+Remains of a prehistoric plant or animal ,fossil,[]
+Frisk,gambol,[]
+Complement ,accompaniment,[]
+US state ,pennsylvania,[]
+Rich; old towel (anag.) ,well-to-do,[]
+Car ,motor,[]
+Permissive,tolerant,[]
+Travelling attraction ,fun fair,[]
+Familiarity ,intimacy,"['On tap', 'Abundant', 'Easily obtainable', 'Accessible', 'Obtainable on demand', 'At-hand', 'Handy', 'Quickly available', 'Immediate', 'Instantly obtainable', 'Convenient', 'Readily accessible', 'Within reach', 'Available at short notice', 'Up-to-the-minute', 'Promptly available', 'Quick-fetching', 'Straightforward to obtain', 'Directly obtainable', 'Instantaneously accessible']"
+Copier of (handwritten) documents,scribe,[]
+Custom ,usage,"['On tap', 'Abundant', 'Easily obtainable', 'Accessible', 'Obtainable on demand', 'At-hand', 'Handy', 'Quickly available', 'Immediate', 'Instantly obtainable', 'Convenient', 'Readily accessible', 'Within reach', 'Available at short notice', 'Up-to-the-minute', 'Promptly available', 'Quick-fetching', 'Straightforward to obtain', 'Directly obtainable', 'Instantaneously accessible']"
+An old noisy car ,banger,"['On tap', 'Abundant', 'Easily obtainable', 'Accessible', 'Obtainable on demand', 'At-hand', 'Handy', 'Quickly available', 'Immediate', 'Instantly obtainable', 'Convenient', 'Readily accessible', 'Within reach', 'Available at short notice', 'Up-to-the-minute', 'Promptly available', 'Quick-fetching', 'Straightforward to obtain', 'Directly obtainable', 'Instantaneously accessible']"
+Advise strongly or prod ,urge,"['The pattern is two words that are synonyms for ""hungry"".', 'Unfed', 'Undernourished', 'Malnourished', 'Starving', 'Famished', 'Hungry stomach', 'Inadequately fed', 'Underfed', 'Deprived of food', 'Nutrient-deficient', 'Fasting (when unintended)', 'Empty belly', 'Goiter (indirectly related to left hungry)', 'Vitamin deficiency', 'Picky eater (can lead to hunger if not addressed)', 'Food insecurity', 'Underfed child', 'Unfulfilled appetite', 'Empty pantry', 'Lean and gaunt (due to lack of food)']"
+Gathered in great quantity ,amassed,"['Abundant', 'Convenient', 'Easy', 'Enough', 'Ample', 'Plenty', 'Ample supply', 'Surplus', 'Surplus food', 'Plenty of food', 'Plenty for everyone', 'Plenty of resources', 'Ample stock', 'Plenty of stock', 'Plenty of supplies', 'Plenty of food', 'Enough to last', 'Plenty to eat', 'Ample food', 'Plenty of resources']"
+Avoid or abstain from ,eschew,"['The template is a string where ""[INST]"" is replaced with the actual string ""INST"".', 'Unfed', 'Undernourished', 'Malnourished', 'Starving', 'Famished', 'Hungry stomach', 'Inadequately fed', 'Underfed', 'Deprived of food', 'Nutrient-deficient', 'Fasting (when unintended)', 'Empty belly', 'Goiter (indirectly related to left hungry)', 'Vitamin deficiency', 'Picky eater (can lead to hunger if not addressed)', 'Food insecurity', 'Underfed child', 'Unfulfilled appetite', 'Empty pantry', 'Lean and gaunt']"
+Lloyd Webber musical ,evita,[]
+What makes us different,gene,[]
+Every year ,annually,[]
+Scottish estuaries,firths,[]
+Set on a particular musical note ,pitched,[]
+A cage for poultry ,co-op,"['On tap', 'Abundant', 'Easily obtainable', 'Accessible', 'Obtainable on demand', 'At-hand', 'Handy', 'Quickly available', 'Immediate', 'Instantly obtainable', 'Convenient', 'Readily accessible', 'Within reach', 'Available at short notice', 'Up-to-the-minute', 'Promptly available', 'Quick-fetching', 'Straightforward to obtain', 'Directly obtainable', 'Instantaneously accessible']"
+Calling for immediate attention,urgent,"['On tap', 'Convenient', 'Up-to-the-minute', 'Promptly available', 'Instantly obtainable', 'Available at short notice', 'Quick-fetching', 'Straightforward to obtain', 'Direct access', 'Instantly available', 'Convenient', 'Readily accessible', 'Within reach', 'Available at any time', 'Ready at hand', 'Prompt attention needed', 'Hunger-stricken', 'Undernnourished', 'Deprived of food', 'Hungry individuals']"
+New England state ,maine,[]
+Declines ,sinks,[]
+"American state, capital Juneau ",alaska,[]
+Glowing in the dark ,fluorescent,"['The clue is about the phrase ""[INST] Left Hungry"".']"
+The Cape of Good - ,hope,[]
+Great American inventor ,edison,[]

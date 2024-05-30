@@ -1,0 +1,50 @@
+CLUE,ANS,OUTPUT
+Tenant ,lessee,[]
+"'Standard, conventional (6)' ",normal,"['On tap', 'Abundant', 'Easily obtainable', 'Accessible', 'Obtainable on demand', 'At-hand', 'Handy', 'Quickly available', 'Immediate', 'Instantly obtainable', 'Convenient', 'Readily accessible', 'Within reach', 'Available at short notice', 'Up-to-the-minute', 'Promptly available', 'Quick-fetching', 'Straightforward to obtain', 'Directly obtainable', 'Instantaneously accessible']"
+"'Almost but not completely accurate, in short (6)' ",approx,"['On tap', 'Abundant', 'Easily obtainable', 'Accessible', 'Obtainable on demand', 'At-hand', 'Handy', 'Quickly available', 'Immediate', 'Instantly obtainable', 'Convenient', 'Readily accessible', 'Within reach', 'Available at short notice', 'Up-to-the-minute', 'Promptly available', 'Quick-fetching', 'Straightforward to obtain', 'Directly obtainable', 'Instantaneously accessible']"
+Roller,wave,[]
+Damp and sticky ,clammy,[]
+Point ,tip,"['On tap', 'Abundant', 'Easily obtainable', 'Accessible', 'Obtainable on demand', 'At-hand', 'Handy', 'Quickly available', 'Immediate', 'Instantly obtainable', 'Convenient', 'Readily accessible', 'Within reach', 'Available at short notice', 'Up-to-the-minute', 'Promptly available', 'Quick-fetching', 'Straightforward to obtain', 'Directly obtainable', 'Instantaneously accessible']"
+Exclamation of making a blunder ,oops,[]
+"Assistance, support ",succour,"['Convenient', 'At-hand', 'Promptly', 'Quickly', 'Instantly', 'readily', 'readily available', 'readily', 'readily', 'readily', 'convenient', 'readily', 'readily', 'readily', 'readily', 'readily', 'readily', 'readily', 'readily', 'readily']"
+Cake in a dish? ,bar of soap,"['The pattern is a list of synonyms for the word ""hungry""', 'Unfed', 'Undernourished', 'Malnourished', 'Starving', 'Famished', 'Hungry stomach', 'Inadequately fed', 'Underfed', 'Deprived of food', 'Nutrient-deficient', 'Fasting (when unintended)', 'Empty belly', 'Goiter (indirectly related to left hungry)', 'Vitamin deficiency', 'Picky eater (can lead to hunger if not addressed)', 'Food insecurity', 'Underfed child', 'Unfulfilled appetite', 'Empty pantry', 'Lean and gaunt']"
+Border,boundary,"['Unfed', 'Undernourished', 'Malnourished', 'Starving', 'Famished', 'Hungry stomach', 'Inadequately fed', 'Underfed', 'Deprived of food', 'Nutrient-deficient', 'Fasting (when unintended)', 'Empty belly', 'Goiter (indirectly related to left hungry)', 'Vitamin deficiency', 'Picky eater (can lead to hunger if not addressed)', 'Food insecurity', 'Underfed child', 'Unfulfilled appetite', 'Empty pantry', 'Lean and gaunt (due to lack of food)']"
+Walked (a barge through a tunnel),legged,[]
+Bunch of flowers ,posy,"['Therefore, I cannot extract the requested information from the context.']"
+Cooking fat ,lard,[]
+Sudden sharp feeling ,twinge,"['The context does not contain any words related to the phrase ""Sudden sharp feeling"".']"
+Stamp collector ,philatelist,[]
+By a very small margin ,barely,"['At-hand', 'Convenient', 'Handy', 'Immediate', 'Convenient', 'Promptly', 'Quick-fetching', 'Straightforward to obtain', 'Instantaneously accessible', 'Instantly available', 'Up-to-the-minute', 'Ready', 'Ready at any time', 'Ready at hand', 'Ready to use', 'Ready to access', 'Ready to obtain', 'Ready to use', 'Ready at any moment', 'Ready to use']"
+Traditional ,habitual,"['On tap', 'Abundant', 'Easily obtainable', 'Accessible', 'Obtainable on demand', 'At-hand', 'Handy', 'Quickly available', 'Immediate', 'Instantly obtainable', 'Convenient', 'Readily accessible', 'Within reach', 'Available at short notice', 'Up-to-the-minute', 'Promptly available', 'Quick-fetching', 'Straightforward to obtain', 'Directly obtainable', 'Instantaneously accessible']"
+"Behind, nautically",astern,"['The phrase is ""<</SYS>>"" which is a reference to the term ""Hungry""', 'Unfed', 'Undernourished', 'Malnourished', 'Starving', 'Famished', 'Hungry stomach', 'Inadequately fed', 'Underfed', 'Deprived of food', 'Nutrient-deficient', 'Fasting (when unintended)', 'Empty belly', 'Goiter (indirectly related to left hungry)', 'Vitamin deficiency', 'Picky eater (can lead to hunger if not addressed)', 'Food insecurity', 'Underfed child', 'Unfulfilled appetite', 'Empty pantry', 'Lean and gaunt (due to lack of food)']"
+Flag bearing a device ,banner,[]
+Annual starting point ,new year,[]
+Guest ,invitee,[]
+"Lean, part of foot ",heel,"['The template suggests that the words should be related to food and hunger, and that they should be 20 in number.', 'Unfed', 'Undernourished', 'Malnourished', 'Starving', 'Famished', 'Hungry stomach', 'Inadequately fed', 'Underfed', 'Deprived of food', 'Nutrient-deficient', 'Fasting (when unintended)', 'Empty belly', 'Goiter (indirectly related to left hungry)', 'Vitamin deficiency', 'Picky eater (can lead to hunger if not addressed)', 'Food insecurity', 'Underfed child', 'Unfulfilled appetite', 'Empty pantry', 'Lean and gaunt (due to lack of food)']"
+Put in proper order ,arranged,[]
+Asian rainy season ,monsoon,[]
+Pasta in thin strands,vermicelli,"['The pattern is a list of synonyms for the word ""hungry""', 'Unfed', 'Undernourished', 'Malnourished', 'Starving', 'Famished', 'Hungry stomach', 'Inadequately fed', 'Underfed', 'Deprived of food', 'Nutrient-deficient', 'Fasting (when unintended)', 'Empty belly', 'Goiter (indirectly related to left hungry)', 'Vitamin deficiency', 'Picky eater (can lead to hunger if not addressed)', 'Food insecurity', 'Underfed child', 'Unfulfilled appetite', 'Empty pantry', 'Lean and gaunt (due to lack of food)']"
+"Alone, set apart ",isolated,"['On tap', 'Abundant', 'Easily obtainable', 'Accessible', 'Obtainable on demand', 'At-hand', 'Handy', 'Quickly available', 'Immediate', 'Instantly obtainable', 'Convenient', 'Readily accessible', 'Within reach', 'Available at short notice', 'Up-to-the-minute', 'Promptly available', 'Quick-fetching', 'Straightforward to obtain', 'Directly obtainable', 'Instantaneously accessible']"
+Natural surroundings ,habitat,[]
+Squeeze into less space ,compress,[]
+Poorly ,unwell,[]
+"Real, not abstract ",concrete,[]
+Show to be right or justified ,vindicate,[]
+Director of publication ,editor,"['On tap', 'Abundant', 'Easily obtainable', 'Accessible', 'Obtainable on demand', 'At-hand', 'Handy', 'Quickly available', 'Immediate', 'Instantly obtainable', 'Convenient', 'Readily accessible', 'Within reach', 'Available at short notice', 'Up-to-the-minute', 'Promptly available', 'Quick-fetching', 'Straightforward to obtain', 'Directly obtainable', 'Instantaneously accessible']"
+Merged into one,united,"['On tap', 'Abundant', 'Easily obtainable', 'Accessible', 'Obtainable on demand', 'At-hand', 'Handy', 'Quickly available', 'Immediate', 'Instantly obtainable', 'Convenient', 'Readily accessible', 'Within reach', 'Available at short notice', 'Up-to-the-minute', 'Promptly available', 'Quick-fetching', 'Straightforward to obtain', 'Directly obtainable', 'Instantaneously accessible']"
+On the contrary ,rather,[]
+Grid ,lattice,[]
+Accidental release ,leakage,[]
+"Defeat, overcome",conquer,"['At-hand', 'Convenient', 'Easy', 'Ample', 'Abundant', 'Conveniently', 'Handy', 'Ready', 'Promptly', 'Instantly', 'Conveniently', 'Ready', 'Available', 'Accessible', 'readily', 'readily', 'readily', 'readily', 'readily', 'readily']"
+Mountainous ,craggy,"['On tap', 'Abundant', 'Easily obtainable', 'Accessible', 'Obtainable on demand', 'At-hand', 'Handy', 'Quickly available', 'Immediate', 'Instantly obtainable', 'Convenient', 'Readily accessible', 'Within reach', 'Available at short notice', 'Up-to-the-minute', 'Promptly available', 'Quick-fetching', 'Straightforward to obtain', 'Directly obtainable', 'Instantaneously accessible']"
+Very dry ,arid,"['Unfed', 'Undernourished', 'Malnourished', 'Starving', 'Famished', 'Hungry stomach', 'Inadequately fed', 'Underfed', 'Deprived of food', 'Nutrient-deficient', 'Fasting (when unintended)', 'Empty belly', 'Goiter (indirectly related to left hungry)', 'Vitamin deficiency', 'Picky eater (can lead to hunger if not addressed)', 'Food insecurity', 'Underfed child', 'Unfulfilled appetite', 'Empty pantry', 'Lean and gaunt']"
+Such as well might happen ,likely,"['Abundant', 'Convenient', 'Easy', 'Essential', 'Ample', 'Convenient', 'Ample', 'Easy', 'Convenient', 'Essential', 'Ample', 'Convenient', 'Essential', 'Convenient', 'Abundant', 'Convenient', 'Ample', 'Convenient', 'Essential', 'Abundant']"
+One after money - kick at rugby,grubber,[]
+A wearing away ,abrasion,[]
+Dread ,terror,"['Hungry', 'Thirsty', 'Hungry stomach', 'Hunger', 'Empty stomach', 'Hunger pangs', 'Hunger-stricken', 'Hunger-related', 'Hunger-related condition', 'Hungry people', 'Hungry patients', 'Hunger-related symptoms', 'Hunger-related illness', 'Hunger-related disease', 'Hunger-related problem', 'Hunger-related issue', 'Hunger-related state', 'Hunger-related suffering', 'Hunger-related situation', 'Hunger-related crisis']"
+"Marlene --, German actress ",dietrich,[]
+Rose fruit ,hip,[]
+(Of hair) brushed from front to back ,upswept,[]
+Minister - buy one a drink,treat,"['On tap', 'Abundant', 'Easily obtainable', 'Accessible', 'Obtainable on demand', 'At-hand', 'Handy', 'Quickly available', 'Immediate', 'Instantly obtainable', 'Convenient', 'Readily accessible', 'Within reach', 'Available at short notice', 'Up-to-the-minute', 'Promptly available', 'Quick-fetching', 'Straightforward to obtain', 'Directly obtainable', 'Instantaneously accessible']"
+Cash dispenser (informal),hole-in-the-wall,[]
+Sicken ,nauseate,"['Hungry', 'Hunger', 'Thirsty', 'Dehydrated', 'Parched', 'Arid', 'Dry', 'Thirsty mouth', 'Dry mouth', 'Thirsty nose', 'Thirsty eyes', 'Dry cough', 'Dry throat', 'Dry skin', 'Dry hair', 'Dry lips', 'Dehydrated skin', 'Dry hair', 'Dry scalp', 'Dehydrated eyes']"
