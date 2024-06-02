@@ -1,3 +1,5 @@
 CLUE,ANS,POS,FOUND IN
-Meal ,dinner,4,"Dinner** - The main meal of the day, usually eaten in the evening."
-Mass for the dead ,requiem,4,Requiem mass
+Deploy ,use,9,Focused deployment
+Mass for the dead ,requiem,1,Requiem Mass
+Dispossess ,deprive,15,Deprive of ownership
+Accumulate into total ,aggregate,8,Aggregate**

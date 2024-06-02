@@ -1,4 +1,5 @@
 CLUE,ANS,POS,FOUND IN
-Conduct trade ,transact,5,Transaction
-Deep ravines ,gorges,2,Abyssal gorges
-Kiln for drying hops ,oast,1,Toaster
+Conduct trade ,transact,5,Market transaction
+Throw -- bitumen ,pitch,4,Tar pitch
+Take in 30 ,breathe,20,Breathe in
+Kiln for drying hops ,oast,4,**Roaster** - A baking pan with a heating element used for roasting food.

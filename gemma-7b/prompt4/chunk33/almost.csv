@@ -1,10 +1,6 @@
 CLUE,ANS,POS,FOUND IN
-Care for ,tend,2,Tend to
-Portion ,piece,14,Size of a piece
-Ill fame ,notoriety,13,Negative notoriety
-Acute pain of the nerves ,neuralgia,7,Postherpetic neuralgia
-Accustomed ,used,16,Used to it
-Guffaw ,laugh,6,Burst out laughing
-Muscular spasms and pains ,cramps,1,**Cramps**
-Disobey ,defy,18,Openly defying
-Fall back on ,turn to,18,Return to a previous state
+Accustomed ,used,2,Used to
+"Ferocious, savage",fierce,3,**Aggressive:** Exhibiting fierce energy or hostility
+Guffaw ,laugh,1,Burst out laughing
+Muscular spasms and pains ,cramps,9,**Cramps:** painful muscle spasms often caused by dehydration or electrolyte imbalances
+Disobey ,defy,9,Openly defying

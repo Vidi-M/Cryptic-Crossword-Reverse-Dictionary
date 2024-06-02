@@ -1,6 +1,8 @@
 CLUE,ANS,POS,FOUND IN
-"Flee from restraint, allow to pursue like dog ",unleash,19,Unleashed
-Chest bone ,rib,1,Ribcage
-Physician (informal) ,medic,5,Medical professional
-"Eg, a chemist ",scientist,1,Molecular scientist
-Wrap; pupa's protection ,cocoon,1,Cocoons
+Arrive at ,reach,3,**Arrival** - The act of reaching a place.
+Chest bone ,rib,1,Ribs
+Military encirclement ,siege,1,"**Siege:** A military strategy where an armed force surrounds an enemy stronghold, cutting off their supply and movement."
+Ice mountains ,bergs,11,towering icebergs
+Physician (informal) ,medic,2,Doctor:** More formal and professional title for a medical practitioner.
+Short-long metrical foot ,iamb,8,Choriamb
+Area with frozen subsoil ,tundra,4,Frozen tundra

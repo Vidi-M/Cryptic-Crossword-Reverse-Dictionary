@@ -1,0 +1,5 @@
+CLUE,ANS,POS,FOUND IN
+Shore ,coast,2,Coastlines
+Geometrical figure ,triangle,1,"The answer should be a geometric shape, such as a rectangle, triangle, square, or circle."
+Container for liquids ,vat,6,Starvation
+Public sale - type of bridge,auction,2,"The solver would need to look for clues within the clues, such as the type of items being sold or the platform used for the auction."

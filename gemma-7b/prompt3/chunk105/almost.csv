@@ -1,8 +1,7 @@
 CLUE,ANS,POS,FOUND IN
-Anger ,ire,3,Ireful
-Orderly and clean ,neat,2,Neatly arranged
-Asian desert ,gobi,3,Gobi Desert
-Tall hunting dog,afghan,10,Afghan Hound
-Characterized by intense feeling ,emotional,12,Intensely emotional
-This job does not require all of the working week ,part-time,6,Part-time availability
+Anger ,ire,2,Ireful:** Feeling intense anger or hostility.
+.... sapiens is the human species ,homo,1,Homo sapiens is the scientific name for the human species
+Orderly and clean ,neat,3,Neatly arranged
+Servitude ,bondage,1,Bondage** - A state of being forced to obey another.
+Tall hunting dog,afghan,8,Afghan hound
 Early string instrument ,viol,3,Violin

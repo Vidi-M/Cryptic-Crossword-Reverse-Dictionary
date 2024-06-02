@@ -1,7 +1,10 @@
 CLUE,ANS,POS,FOUND IN
-Calculate approximately ,estimate,3,Estimate values based on available information and known relationships.
-Defeat by superior ingenuity ,outwit,1,Outwitted
-Sway on the brink,teeter,4,Teetering
-Be in accord,agree,2,Agreement
-Salad plant,cress,8,Watercress
+Defeat by superior ingenuity ,outwit,1,Outwitted**
+Reverie ,dream,1,Daydream** - A state of pleasant or unfocused mental wandering.
+Be in accord,agree,1,Agreement
+Salad plant,cress,18,Watercress
 Rush of water - eye problem,cataract,1,Cataracts
+Good enough ,adequate,19,Inadequate diet
+Seed-bearing spike ,ear,5,Umbel (a type of plant with seed-bearing spikes)
+Fragrance,aroma,2,Aromatic
+Appetizers in an Italian meal ,antipasto,4,Antipasto platter

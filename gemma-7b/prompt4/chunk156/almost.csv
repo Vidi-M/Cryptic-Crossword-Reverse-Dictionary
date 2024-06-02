@@ -1,7 +1,6 @@
 CLUE,ANS,POS,FOUND IN
-Loud and angry speech ,harangue,20,"**Harangue:** A prolonged and impassioned speech, often delivered in a hostile tone."
+Loud and angry speech ,harangue,2,"**Harangue:** A prolonged and forceful speech, often expressing strong negative emotions."
 Three feet ,yard,1,Yardstick
-Hand over; plaster ,render,12,Surrender
-Period of history ,age,2,Middle Ages
-Rich dessert cake ,gateau,15,Gateau opera
-Cut of meat from between rib and haunch ,loin,3,Tenderloin
+Period of history ,age,1,Middle Ages
+Rich dessert cake ,gateau,17,Gateau opera
+Cut of meat from between rib and haunch ,loin,2,Striploin
