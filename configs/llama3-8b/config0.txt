@@ -1,4 +1,4 @@
 model=llama3:8b
-prompt=Give me a comprehensive list of 20 words that match the clue: {def}
+prompt=Give me a comprehensive list of 20 words that match the clue: ((def))
 prompt_no=0
 datasize=50

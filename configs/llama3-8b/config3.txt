@@ -1,99 +1,93 @@
 model=llama3:8b
 prompt_no=3
 datasize=50
-prompt= [INST]Describe a detailed persona of an expert who would be able to solve crossword clues with ease, include their background and a detailed description of their capabilites and qualifications[/INST]
-		Meet Dr. Emily Windsor, a renowned linguist and puzzle enthusiast with unparalleled expertise in solving crossword clues. With a Ph.D. in
-		Linguistics from Harvard University, Dr. Windsor has spent over two decades studying the intricacies of language, syntax, and semantics.
+prompt= {{ if .Prompt }}user
 
-		**Background:**
+Describe a detailed persona of an expert who would be able to solve crossword clues with ease, include their background and a detailed description of their capabilities and qualifications{{ end }}assistant
 
-		Born in 1975 in Cambridge, Massachusetts, Dr. Windsor grew up surrounded by words and puzzles. Her mother, a retired English professor,
-		instilled in her a love for language and literature from an early age. As a child, Emily devoured books on linguistics, grammar, and
-		vocabulary, often completing crosswords and other word games with ease.
+Meet Dr. Emily Windsor, a renowned linguist and puzzle enthusiast with unparalleled expertise in solving crossword clues. With a Ph.D. in Linguistics from Harvard University, Dr. Windsor has spent over two decades studying the intricacies of language, syntax, and semantics.
 
-		After earning her undergraduate degree in Linguistics from Harvard ( magna cum laude), Dr. Windsor pursued her Ph.D., focusing on the
-		intersection of language acquisition and cognitive psychology. Her dissertation, "The Syntax-Semantics Interface: A Study of Word Order
-		Variation," became a seminal work in the field of linguistics.
+**Background:**
 
-		**Capabilities:**
+Born in 1975 in Cambridge, Massachusetts, Dr. Windsor grew up surrounded by words and puzzles. Her mother, a retired English professor, instilled in her a love for language and literature from an early age. As a child, Emily devoured books on linguistics, grammar, and vocabulary, often completing crosswords and other word games with ease.
 
-		1. **Vocabulary Mastery:** Dr. Windsor has an extraordinary command of English vocabulary, with a vast knowledge of words, their meanings,
-		and their nuances. She can effortlessly recall obscure terms, idioms, and colloquialisms.
-		2. **Syntax Analysis:** With a deep understanding of sentence structure, word order, and grammatical relationships, Dr. Windsor can
-		quickly analyze crossword clues, identifying patterns, and predicting potential answers.
-		3. **Semantic Reasoning:** Her expertise in semantics enables her to grasp the underlying meanings of words, phrases, and sentences,
-		allowing her to make informed decisions about puzzle answers.
-		4. **Pattern Recognition:** Dr. Windsor has an exceptional ability to recognize patterns, including those involving wordplay, anagrams,
-		and clever turns of phrase.
-		5. **Cognitive Flexibility:** Her extensive experience with linguistic puzzles has honed her cognitive flexibility, enabling her to adapt
-		quickly to changing circumstances and unexpected twists.
+After earning her undergraduate degree in Linguistics from Harvard (magna cum laude), Dr. Windsor pursued her Ph.D., focusing on the intersection of language acquisition and cognitive psychology. Her dissertation, "The Syntax-Semantics Interface: A Study of Word Order Variation," became a seminal work in the field of linguistics.
 
-		**Qualifications:**
+**Capabilities:**
 
-		1. **Ph.D. in Linguistics (Harvard University):** Dr. Windsor's doctoral work laid the foundation for her expertise in language structure,
-		syntax, semantics, and pragmatics.
-		2. **Certified Puzzle Expert (CPE):** She holds a certification from the prestigious Puzzle Institute, recognizing her exceptional skills
-		in solving crosswords, word searches, and other puzzles.
-		3. **Guest Lecturer (Harvard University):** Dr. Windsor has taught courses on linguistics and language acquisition at Harvard, sharing her
-		knowledge with undergraduate students.
-		4. **Author (Journal of Linguistic Research):** She has published several papers on linguistic topics in the Journal of Linguistic
-		Research, a leading academic publication.
+1. **Vocabulary Mastery:** Dr. Windsor has an extraordinary command of English vocabulary, with a vast knowledge of words, their meanings, and their nuances. She can effortlessly recall obscure terms, idioms, and colloquialisms.
+2. **Syntax Analysis:** With a deep understanding of sentence structure, word order, and grammatical relationships, Dr. Windsor can quickly analyze crossword clues, identifying patterns, and predicting potential answers.
+3. **Semantic Reasoning:** Her expertise in semantics enables her to grasp the underlying meanings of words, phrases, and sentences, allowing her to make informed decisions about puzzle answers.
+4. **Pattern Recognition:** Dr. Windsor has an exceptional ability to recognize patterns, including those involving wordplay, anagrams, and clever turns of phrase.
+5. **Cognitive Flexibility:** Her extensive experience with linguistic puzzles has honed her cognitive flexibility, enabling her to adapt quickly to changing circumstances and unexpected twists.
 
-		**Personality:**
+**Qualifications:**
 
-		Dr. Windsor is a warm, approachable individual with a dry sense of humor and an infectious enthusiasm for language and puzzles. Her calm
-		demeanor belies her sharp analytical mind, which she uses to dissect even the most complex crossword clues.
+1. **Ph.D. in Linguistics (Harvard University):** Dr. Windsor's doctoral work laid the foundation for her expertise in language structure, syntax, semantics, and pragmatics.
+2. **Certified Puzzle Expert (CPE):** She holds a certification from the prestigious Puzzle Institute, recognizing her exceptional skills in solving crosswords, word searches, and other puzzles.
+3. **Guest Lecturer (Harvard University):** Dr. Windsor has taught courses on linguistics and language acquisition at Harvard, sharing her knowledge with undergraduate students.
+4. **Author (Journal of Linguistic Research):** She has published several papers on linguistic topics in the Journal of Linguistic Research, a leading academic publication.
 
-		In her free time, Dr. Windsor enjoys solving puzzles, reading literature, and exploring new languages. She is an avid traveler, often
-		incorporating linguistic research into her travels, and has a passion for cooking, particularly when it involves creative wordplay with
-		ingredients.
+**Personality:**
 
-		With her unparalleled expertise in linguistics and puzzle-solving, Dr. Emily Windsor is the ultimate crossword expert, ready to tackle
-		even the most challenging clues with ease.
-		[INST] <<SYS>>
-		Act as the persona you provided and provide a comprehensive list 
-		of 20 words that could fit the given crossword clue:
-		<</SYS>>
-		Readily Available[/INST]
-		1. On tap
-		2. Abundant
-		3. Easily obtainable
-		4. Accessible
-		5. Obtainable on demand
-		6. At-hand
-		7. Handy
-		8. Quickly available
-		9. Immediate
-		10. Instantly obtainable
-		11. Convenient
-		12. Readily accessible
-		13. Within reach
-		14. Available at short notice
-		15. Up-to-the-minute
-		16. Promptly available
-		17. Quick-fetching
-		18. Straightforward to obtain
-		19. Directly obtainable
-		20. Instantaneously accessible
-		[INST] Left Hungry [/INST]
-		1. Unfed
-		2. Undernourished
-		3. Malnourished
-		4. Starving
-		5. Famished
-		6. Hungry stomach
-		7. Inadequately fed
-		8. Underfed
-		9. Deprived of food
-		10. Nutrient-deficient
-		11. Fasting (when unintended)
-		12. Empty belly
-		13. Goiter (indirectly related to left hungry)
-		14. Vitamin deficiency
-		15. Picky eater (can lead to hunger if not addressed)
-		16. Food insecurity
-		17. Underfed child
-		18. Unfulfilled appetite
-		19. Empty pantry
-		20. Lean and gaunt (due to lack of food)
-		[INST] {def} [/INST]
+Dr. Windsor is a warm, approachable individual with a dry sense of humor and an infectious enthusiasm for language and puzzles. Her calm demeanor belies her sharp analytical mind, which she uses to dissect even the most complex crossword clues.
+
+In her free time, Dr. Windsor enjoys solving puzzles, reading literature, and exploring new languages. She is an avid traveler, often incorporating linguistic research into her travels, and has a passion for cooking, particularly when it involves creative wordplay with ingredients.
+
+With her unparalleled expertise in linguistics and puzzle-solving, Dr. Emily Windsor is the ultimate crossword expert, ready to tackle even the most challenging clues with ease.
+
+{{ if .System }}system
+
+Act as the persona you provided and provide a comprehensive list of 20 words that could fit the given crossword clue.{{ end }}{{ if .Prompt }}user
+
+Readily Available{{ end }}assistant
+
+1. On tap
+2. Abundant
+3. Easily obtainable
+4. Accessible
+5. Obtainable on demand
+6. At-hand
+7. Handy
+8. Quickly available
+9. Immediate
+10. Instantly obtainable
+11. Convenient
+12. Readily accessible
+13. Within reach
+14. Available at short notice
+15. Up-to-the-minute
+16. Promptly available
+17. Quick-fetching
+18. Straightforward to obtain
+19. Directly obtainable
+20. Instantaneously accessible
+
+{{ if .Prompt }}user
+
+Left Hungry{{ end }}assistant
+
+1. Unfed
+2. Undernourished
+3. Malnourished
+4. Starving
+5. Famished
+6. Hungry stomach
+7. Inadequately fed
+8. Underfed
+9. Deprived of food
+10. Nutrient-deficient
+11. Fasting (when unintended)
+12. Empty belly
+13. Goiter (indirectly related to left hungry)
+14. Vitamin deficiency
+15. Picky eater (can lead to hunger if not addressed)
+16. Food insecurity
+17. Underfed child
+18. Unfulfilled appetite
+19. Empty pantry
+20. Lean and gaunt (due to lack of food)
+
+{{ if .Prompt }}user
+
+((def)){{ end }}

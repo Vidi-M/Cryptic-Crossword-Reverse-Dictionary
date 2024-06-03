@@ -19,7 +19,7 @@ base_dir = os.getcwd()
 for num_prompt in range(0, num_prompts + 1):
     # Iterate through each chunk folder
     for i in range(start, end):
-        folder_name = f"phi3-14b/prompt{num_prompt}/chunk{i}"
+        folder_name = f"gemma-2b/prompt{num_prompt}/chunk{i}"
         folder_path = os.path.join(base_dir, folder_name)
         
         # Check if the folder exists
