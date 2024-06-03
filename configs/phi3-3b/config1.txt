@@ -1,4 +1,4 @@
-model=phi3
+model=phi3:mini
 prompt_no=1
 datasize=100
 prompt=[INST] <<SYS>>
