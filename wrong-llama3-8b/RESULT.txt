@@ -1,9 +1,0 @@
-PROMPT || ACCURACY || RIGHT || ALMOST || WRONG || AVG TIME
-
-0 || 64.15% || 59.69% || 0.045% || 35.35% || 708
-1 || 1.77% || 0.53% || 1.25% || 98.23% || 1449
-2 || 6.02% || 3.43% || 2.59% || 93.98% || 1512
-3 || 26.21% || 20.13% || 6.08% || 73.79% || 1819
-4 || 40.25% || 30.64% || 9.61% || 59.75% || 1456
-
-# Went wrong because the prompting template is different from llama2, easy fix
