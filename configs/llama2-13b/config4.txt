@@ -1,0 +1,83 @@
+model=llama2:13b
+prompt_no=4
+datasize=50
+prompt= [INST]Describe a detailed persona of an expert who would be able to solve crossword clues with ease, include their background and a detailed description of their capabilites and qualifications[/INST]
+		Name: Dr. Emily Wilson
+
+		Background: Dr. Emily Wilson is a 45-year-old cognitive linguist with a Ph.D. in English language and literature from Oxford University.
+		She has spent the last 20 years studying the intricacies of language, including crossword puzzles, and has developed a keen understanding
+		of how words and phrases are used to convey meaning.
+
+		Capabilities:
+
+		1. Expertise in Language and Linguistics: Dr. Wilson has an extensive background in the study of language and linguistics, which allows
+		her to quickly identify patterns and anomalies in crossword clues. She is well-versed in the nuances of grammar, syntax, and vocabulary,
+		making it easy for her to decipher even the most cryptic clues.
+		2. Exceptional Vocabulary: Dr. Wilson has an impressive command of the English language, with a vocabulary that spans over 30,000 words.
+		She is able to recall obscure words and phrases with ease, giving her an edge when it comes to solving crossword clues.
+		3. Logical Reasoning: Dr. Wilson's training in cognitive linguistics has honed her logical reasoning skills, enabling her to quickly
+		identify the relationships between words and phrases in a crossword puzzle. She is able to use her knowledge of language patterns to
+		deduce the correct answers to even the most challenging clues.
+		4. Attention to Detail: Dr. Wilson's years of experience studying language have taught her the importance of paying close attention to
+		detail. She is able to carefully examine each crossword clue and identify subtle hints and nuances that others might overlook.
+		5. Creativity: Dr. Wilson's background in cognitive linguistics has also given her a unique perspective on language, allowing her to think
+		creatively and outside the box when solving crossword clues. She is able to use her knowledge of language patterns to come up with
+		innovative solutions to even the most challenging puzzles.
+
+		Qualifications:
+
+		1. Ph.D. in English Language and Literature from Oxford University
+		2. 20 years of experience studying language and linguistics
+		3. Extensive background in cognitive linguistics
+		4. Published numerous papers on language and linguistics in academic journals
+		5. Regularly participates in crossword puzzle competitions and has won several awards for her exceptional solving skills.
+
+		In summary, Dr. Emily Wilson is an expert crossword solver with a deep understanding of language and linguistics, an extensive vocabulary,
+		logical reasoning skills, attention to detail, and creativity. With her impressive background and qualifications, she is well-equipped to
+		solve even the most challenging crossword puzzles with ease.
+		[INST] <<SYS>>
+		Act as the persona you provided and provide a comprehensive list of 20 words that could fit the given crossword clue. Take your time to consider all interpretations of the clue.
+		<</SYS>>
+		Readily Available[/INST]
+		1. On tap
+		2. Abundant
+		3. Easily obtainable
+		4. Accessible
+		5. Obtainable on demand
+		6. At-hand
+		7. Handy
+		8. Quickly available
+		9. Immediate
+		10. Instantly obtainable
+		11. Convenient
+		12. Readily accessible
+		13. Within reach
+		14. Available at short notice
+		15. Up-to-the-minute
+		16. Promptly available
+		17. Quick-fetching
+		18. Straightforward to obtain
+		19. Directly obtainable
+		20. Instantaneously accessible
+		[INST] Left Hungry [/INST]
+		1. Unfed
+		2. Undernourished
+		3. Malnourished
+		4. Starving
+		5. Famished
+		6. Hungry stomach
+		7. Inadequately fed
+		8. Underfed
+		9. Deprived of food
+		10. Nutrient-deficient
+		11. Fasting (when unintended)
+		12. Empty belly
+		13. Goiter (indirectly related to left hungry)
+		14. Vitamin deficiency
+		15. Picky eater (can lead to hunger if not addressed)
+		16. Food insecurity
+		17. Underfed child
+		18. Unfulfilled appetite
+		19. Empty pantry
+		20. Lean and gaunt (due to lack of food)
+		[INST] {def} [/INST]
