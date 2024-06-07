@@ -13,7 +13,7 @@ total_almost = 0
 total_wrong = 0
 total_time = 0.0
 
-folder_names = ['phi3-3b', 'phi3-14b', 'gemma-2b', 'gemma-7b', 'llama2-7b', 'llama2-13b', 'llama3-8b']
+folder_names = ['phi3-3b', 'phi3-14b', 'gemma-2b', 'gemma-7b', 'llama2-7b', 'llama3-8b']
 
 # Base directory (update this if the folders are in a different location)
 base_dir = os.getcwd()
@@ -21,6 +21,11 @@ best_accuracy = 0
 best_right=0
 
 for num_prompt in range(0, num_prompts + 1):
+    total_chunk = 0
+    total_right = 0
+    total_almost = 0
+    total_wrong = 0
+    total_time = 0.0
     print(num_prompt)
     for folder in folder_names:
         # Iterate through each chunk folder
@@ -45,7 +50,6 @@ for num_prompt in range(0, num_prompts + 1):
             with open(csv_file_path, mode='r') as file:
                 csv_reader = csv.DictReader(file)
                 for row in csv_reader:
-                    total_chunk += int(row['CHUNK'])
                     total_right += int(row['RIGHT'])
                     total_almost += int(row['ALMOST'])
                     total_wrong += int(row['WRONG'])
@@ -54,6 +58,7 @@ for num_prompt in range(0, num_prompts + 1):
     total = total_right  + total_almost + total_wrong
 
     # Print the results
+    print(total)
     print(f"{total_right / total} + {total_almost/ total} = {(total_right + total_almost) / total} ")
     print(f"Total RIGHT: {total_right}")
     print(f"Total ALMOST: {total_almost}")

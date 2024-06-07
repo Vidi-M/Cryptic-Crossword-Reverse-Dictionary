@@ -1,6 +1,6 @@
 model=phi3:14b
 prompt_no=1
-datasize=100
+datasize=50
 prompt=[INST] <<SYS>>
 	Return a list of 20 words that match the given clue:
 	<</SYS>>
@@ -46,4 +46,4 @@ prompt=[INST] <<SYS>>
 	18. Unfulfilled appetite
 	19. Empty pantry
 	20. Lean and gaunt (due to lack of food)
-	[INST] {def} [/INST]
+	[INST] ((def)) [/INST]

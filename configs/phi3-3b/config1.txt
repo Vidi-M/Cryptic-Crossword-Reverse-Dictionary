@@ -1,6 +1,6 @@
 model=phi3:mini
 prompt_no=1
-datasize=100
+datasize=50
 prompt=[INST] <<SYS>>
 	Return a list of 20 words that match the given clue:
 	<</SYS>>

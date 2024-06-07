@@ -74,4 +74,4 @@ prompt= [INST]Describe a detailed persona of an expert who would be able to solv
 	18. Unfulfilled appetite
 	19. Empty pantry
 	20. Lean and gaunt (due to lack of food)
-	[INST] {def} [/INST]
+	[INST] ((def)) [/INST]
