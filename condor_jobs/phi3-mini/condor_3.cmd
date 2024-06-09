@@ -7,9 +7,9 @@ initialdir = /homes/vs221/Cryptic-Crossword-Reverse-Dictionary
 executable = /homes/vs221/Cryptic-Crossword-Reverse-Dictionary/run.sh
 arguments = $(item) $(Process)
 
-output = file/out0/$(Process).out
-error = file/err0/$(Process).err
-log = file0.log
+output = file/out3-mini/$(Process).out
+error = file/err3-mini/$(Process).err
+log = file3-mini.log
 
 # Setting environment variables
 environment = "HOME=/homes/vs221 PATH=/homes/vs221/.local/bin:/usr/bin:/bin"

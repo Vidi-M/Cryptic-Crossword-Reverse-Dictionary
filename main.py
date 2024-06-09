@@ -45,7 +45,6 @@ def make_csv_all(file_path):
     make_csv(f"{file_path}/right.csv", ["CLUE", "ANS", "POS"])
     make_csv(f"{file_path}/almost.csv", ["CLUE", "ANS", "POS", "FOUND IN"])
     make_csv(f"{file_path}/wrong.csv", ["CLUE", "ANS", "OUTPUT"])
-    make_csv(f"{file_path}/summary.csv", ["CHUNK", "RIGHT", "ALMOST", "WRONG", "TIME"])
         
 def main():
     parser = argparse.ArgumentParser(description="Run the script to interact with the Ollama model")
@@ -110,10 +109,13 @@ def main():
     wrong_count = datasize - (right_count + almost_count)
                 
     # print_result(right_count, almost_count, len(definitions), elapsed, directory)
+    make_csv(f"{file_path}/summary.csv", ["CHUNK", "RIGHT", "ALMOST", "WRONG", "TIME"])
     
     with open(os.path.join(directory, 'summary.csv'), "a", newline= '') as output_file:
         writer = csv.writer(output_file)
         writer.writerow([chunk, right_count, almost_count, wrong_count, elapsed])
+        
+    print("summary has been written")
     
 if __name__ == "__main__":
     main()
