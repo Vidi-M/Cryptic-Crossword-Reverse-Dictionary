@@ -109,7 +109,7 @@ def main():
     wrong_count = datasize - (right_count + almost_count)
                 
     # print_result(right_count, almost_count, len(definitions), elapsed, directory)
-    make_csv(f"{file_path}/summary.csv", ["CHUNK", "RIGHT", "ALMOST", "WRONG", "TIME"])
+    make_csv(f"{directory}/summary.csv", ["CHUNK", "RIGHT", "ALMOST", "WRONG", "TIME"])
     
     with open(os.path.join(directory, 'summary.csv'), "a", newline= '') as output_file:
         writer = csv.writer(output_file)
