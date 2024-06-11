@@ -80,4 +80,4 @@ Left Hungry<end_of_turn>
 19. Empty pantry
 20. Lean and gaunt (due to lack of food)<end_of_turn>
 <start_of_turn>user
-{def}<end_of_turn>
+((def))<end_of_turn>

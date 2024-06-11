@@ -1,5 +1,5 @@
 # run command for every file
-requirements = ((OpSysVer == 2204) && regexp("^(pixel|texel|vertex|ash|beech|ray|oak).*", Name))
+requirements = ((OpSysVer == 2204) && regexp("^(curve|pixel|texel|vertex|ash|beech|ray|oak).*", Name))
 universe = vanilla
 notification = Complete
 notify_user = vs221@ic.ac.uk
@@ -9,7 +9,7 @@ arguments = $(item) $(Process)
 
 output = file/out3/$(Process).out
 error = file/err3/$(Process).err
-log = file.log
+log = file3.log
 
 # Setting environment variables
 environment = "HOME=/homes/vs221 PATH=/homes/vs221/.local/bin:/usr/bin:/bin"

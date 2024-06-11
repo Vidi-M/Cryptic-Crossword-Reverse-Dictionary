@@ -1,5 +1,5 @@
 # run command for every file
-requirements = ((OpSysVer == 2204) && regexp("^(pixel|texel|vertex|ash|beech|ray|oak).*", Name))
+requirements = ((OpSysVer == 2204) && regexp("^(curve|pixel|texel|vertex|ash|beech|ray|oak).*", Name))
 universe = vanilla
 notification = Complete
 notify_user = vs221@ic.ac.uk
