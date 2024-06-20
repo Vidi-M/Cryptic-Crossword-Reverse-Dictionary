@@ -3,67 +3,97 @@ import ollama
 import pandas as pd
 import argparse
 import time
-import datetime
+import logging
 import csv
 from post_processing import process_result, print_result
 
 ## python main.py --config config.txt
 
-def read_config(filename):
-    with open(filename, 'r') as file:
-        lines = file.readlines()
+# Constants
+RANDOM_STATE = 27
 
+# Setup logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+def read_config(filename: str) -> dict:
+    """Read the configuration from the specified file."""
     config = {}
-    current_key = None
+    try:
+        with open(filename, 'r') as file:
+            lines = file.readlines()
 
-    for line in lines:
-        line = line.strip()
-        if '=' in line:
-            key, value = line.split('=', 1)
-            config[key.strip()] = value.strip()
-            current_key = key.strip()
-        elif current_key:
-            config[current_key] += '\n' + line
-
+        current_key = None
+        for line in lines:
+            line = line.strip()
+            if '=' in line:
+                key, value = line.split('=', 1)
+                config[key.strip()] = value.strip()
+                current_key = key.strip()
+            elif current_key:
+                config[current_key] += '\n' + line
+            
+    except FileNotFoundError:
+        logging.error(f"Config file {filename} not found.")
+    except Exception as e:
+        logging.error(f"Error reading config file {filename}: {e}")
+        
     return config
 
-def read_csv(file_path, init_pos, end_pos): ## need to implement cross validation
-    df = pd.read_csv(file_path)
-    sampled_df = df.sample(n=len(df.index), random_state=27)
-    df_chunk = sampled_df.iloc[init_pos:end_pos, :]
-    definitions = df_chunk['definition'].tolist()  # Assuming 'Definition' is the header for the definition column
-    answers = df_chunk['answer'].tolist()  # Assuming 'Answer' is the header for the answer column
-    #word_lengths = [len(word) for answer in answers for word in answer.split()]
+def read_csv(file_path: str, init_pos: int, end_pos: int) -> tuple[list[str], list[str]]:
+    """Read a chunk of the CSV file and return lists of definitions and answers."""
+    try:
+        df = pd.read_csv(file_path)
+        sampled_df = df.sample(n=len(df.index), random_state=RANDOM_STATE)
+        df_chunk = sampled_df.iloc[init_pos:end_pos, :]
+        definitions = df_chunk['definition'].tolist() 
+        answers = df_chunk['answer'].tolist()
+        
+    except FileNotFoundError:
+        logging.error(f"CSV file {file_path} not found.")
+        definitions, answers = [], []
+    except KeyError as e:
+        logging.error(f"Missing column in CSV file {file_path}: {e}")
+        definitions, answers = [], []
+        
     return definitions, answers
 
-def make_csv(filename, titles):
-    with open(filename, 'w', newline='') as file:
-        c = csv.writer(file)
-        c.writerow(titles)
+def make_csv(filename: str, titles: list[str]) -> None:
+    """Create a CSV file with the specified titles."""
+    try:
+        with open(filename, 'w', newline='') as file:
+            writer = csv.writer(file)
+            writer.writerow(titles)
+    except Exception as e:
+        logging.error(f"Error creating CSV file {filename}: {e}")
 
-def make_csv_all(file_path):
+def make_csv_all(file_path: str) -> None:
+    """Create right.csv, almost.csv, and wrong.csv in the specified directory."""
     make_csv(f"{file_path}/right.csv", ["CLUE", "ANS", "POS"])
     make_csv(f"{file_path}/almost.csv", ["CLUE", "ANS", "POS", "FOUND IN"])
     make_csv(f"{file_path}/wrong.csv", ["CLUE", "ANS", "OUTPUT"])
         
 def main():
+    """Main function to run the script."""
     parser = argparse.ArgumentParser(description="Run the script to interact with the Ollama model")
     parser.add_argument('--config', help='Path to config file')
-    parser.add_argument('--chunk', help='Chunk number')
+    parser.add_argument('--batch', help='Batch number')
     args = parser.parse_args()
-    date = datetime.date.today()
 
     config = read_config(args.config)
-    model = config.get('model', 'llama2')  # Default to 'llama2' if not specified
+    model = config.get('model')
     prompt = config.get('prompt')
     prompt_no = config.get('prompt_no')
     datasize = int(config.get('datasize'))
+    
+    if not prompt or not prompt_no or datasize == 0:
+        logging.error("Missing required configuration values.")
+        return
         
-    chunk = int(args.chunk) #which process job it is
-    init_pos = int(chunk*datasize + 1)
-    end_pos = int(init_pos + datasize)
+    batch = int(args.batch) # which process job we are on 
+    init_pos = int(batch*datasize + 1) # which datapoint to start batch on
+    end_pos = int(init_pos + datasize) # which datapoint to end batch on
 
-    directory = f"{model}/prompt{prompt_no}/chunk{chunk}"
+    directory = f"outputs/{model}/prompt{prompt_no}/batch{batch}"
     if not os.path.exists(directory):
         os.makedirs(directory)
         
@@ -72,50 +102,47 @@ def main():
     file_path = 'definitions.csv'
     definitions, answers = read_csv(file_path, init_pos, end_pos)
     
-
+    if not prompt or not prompt_no or datasize == 0:
+        logging.error("Missing required configuration values.")
+        return
+    
     right_count, almost_count = 0, 0
     
     start = time.time()
     for i in range(len(definitions)):
-        print(f"{i+1}/{len(definitions)}")
+        logging.info(f"Processing {i+1}/{len(definitions)}")
         prompt_clue = prompt.replace('((def))', definitions[i])
         response = ollama.chat(model=model, messages=[
-        {
-            'role': 'user',
-            'content': f'{prompt_clue}',
-        },
+            {
+                'role': 'user',
+                'content': f'{prompt_clue}',
+            },
         ])
         
         generated_words = response['message']['content']
-        
-        print(f"def: {definitions[i]} ans: {answers[i]}")
-        print(generated_words)
+        logging.info(f"Definition: {definitions[i]}, Answer: {answers[i]}")
+        logging.info(f"Generated words: {generated_words}")
         
         word_lines = generated_words[1:].splitlines()
         words_list = [line.split('. ')[1] for line in word_lines if '. ' in line]
         
         
-        
-        
-        right_count,almost_count = process_result(definitions[i], 
-                                                  answers[i], 
-                                                  words_list, 
-                                                  right_count, 
-                                                  almost_count,
-                                                  directory)
+        right_count,almost_count = process_result(
+            definitions[i], answers[i], words_list, right_count, almost_count, directory
+        )
         
     end = time.time()
     elapsed = end - start
     wrong_count = datasize - (right_count + almost_count)
                 
-    # print_result(right_count, almost_count, len(definitions), elapsed, directory)
     make_csv(f"{directory}/summary.csv", ["CHUNK", "RIGHT", "ALMOST", "WRONG", "TIME"])
-    
-    with open(os.path.join(directory, 'summary.csv'), "a", newline= '') as output_file:
-        writer = csv.writer(output_file)
-        writer.writerow([chunk, right_count, almost_count, wrong_count, elapsed])
-        
-    print("summary has been written")
+    try:
+        with open(os.path.join(directory, 'summary.csv'), "a", newline='') as output_file:
+            writer = csv.writer(output_file)
+            writer.writerow([batch, right_count, almost_count, wrong_count, elapsed])
+        logging.info("Summary has been written")
+    except Exception as e:
+        logging.error(f"Error writing summary CSV file: {e}")
     
 if __name__ == "__main__":
     main()
