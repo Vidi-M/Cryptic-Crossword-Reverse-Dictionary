@@ -77,8 +77,7 @@ Check progress:
 
 
 ## Results
-
-[Results Tables](results/tables)
+[Result Tables](results/tables)
 
 [Graphs](results/graphs)
 
