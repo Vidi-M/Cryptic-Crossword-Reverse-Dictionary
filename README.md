@@ -12,7 +12,7 @@ The project explores enhancing cryptic crossword solving using large language mo
 
 ## Data
 
-Used crossword clues from definitions.csv
+Data used can be seen in [definitions.csv](definitons.csv)
 
 ## Installation
 
@@ -78,4 +78,6 @@ Check progress:
 
 ## Results
 
-See all results in results folder
+[Results Tables](results/tables)
+[Graphs](results/graphs)
+
