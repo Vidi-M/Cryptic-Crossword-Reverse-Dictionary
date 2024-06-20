@@ -1,5 +1,0 @@
-CLUE: Period (of enchantment?) ||| ANS: spell ||| POS: 5 ||| Found in: Spellbinding 
-CLUE: In favour of  ||| ANS: pro ||| POS: 2 ||| Found in: Pro- 
-CLUE: Entrance  ||| ANS: gate ||| POS: 10 ||| Found in: Gateway 
-CLUE: Peculiar  ||| ANS: odd ||| POS: 5 ||| Found in: Oddball 
-CLUE: Verity  ||| ANS: truth ||| POS: 1 ||| Found in: Truthfulness 

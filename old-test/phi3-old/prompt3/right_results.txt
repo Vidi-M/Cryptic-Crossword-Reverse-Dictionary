@@ -1,4 +1,0 @@
-CLUE: It follows from that fact  ||| ANS: hence ||| POS: 5 
-CLUE: Explicit or in detail  ||| ANS: specific ||| POS: 6 
-CLUE: Huge legendary beings  ||| ANS: giants ||| POS: 3 
-CLUE: Very skilled or proficient  ||| ANS: adept ||| POS: 3 

@@ -6,15 +6,15 @@ CROSSWORD="/homes/${USER}/Cryptic-Crossword-Reverse-Dictionary/"
 
 # Check if a config file is provided as an argument
 CONFIG_FILE="config.txt"  # Default config file
-CHUNK=0
+BATCH=300 #default batch number
 if [ $# -gt 0 ]; then
   CONFIG_FILE="$1"
-  CHUNK="$2"
+  BATCH="$2"
 fi
 
 # Start the background service
 if [ -x ./ollama ]; then
-  ./ollama serve & echo "{"$CHUNK"}: Sucess: 'ollama' server  executed"
+  ./ollama serve & echo "{"$BATCH"}: Sucess: 'ollama' server  executed"
 else
   echo "Error: 'ollama' executable not found or not executable."
   exit 1
@@ -24,4 +24,4 @@ fi
 sleep 8
 
 # Run the Python script with the specified config file
-python main.py --config "$CONFIG_FILE" --chunk "$CHUNK"|| echo "{"$CHUNK"}: Error: main.py did not execute"
+python main.py --config "$CONFIG_FILE" --batch "$BATCH"|| echo "{"$BATCH"}: Error: main.py did not execute"

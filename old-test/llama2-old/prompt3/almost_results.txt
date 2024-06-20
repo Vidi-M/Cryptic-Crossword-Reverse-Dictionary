@@ -1,7 +1,0 @@
-CLUE: 1987 Best Actress Oscar winner for 'Moonstruck'  ||| ANS: cher ||| POS: 2 ||| Found in: Cher - The actor who won the award for her role in "Moonstruck." 
-CLUE: Oriental two-wheeled carriage ||| ANS: rickshaw ||| POS: 2 ||| Found in: RICKSHAW - A popular choice for this clue, rickshaws are traditional two-wheeled vehicles originating from India and commonly used in Southeast Asia. 
-CLUE: Ball game  ||| ANS: hockey ||| POS: 18 ||| Found in: Hockey (both ice and field) 
-CLUE: In favour of  ||| ANS: pro ||| POS: 3 ||| Found in: Pro- 
-CLUE: No more the old blond film start  ||| ANS: monroe ||| POS: 2 ||| Found in: DIANA - A classic Hollywood actress known for her blonde hair and iconic roles in films such as "The Princess Diana" and "Marilyn Monroe." 
-CLUE: Enclosure set back or indented  ||| ANS: recess ||| POS: 1 ||| Found in: Recessed 
-CLUE: Entrance  ||| ANS: gate ||| POS: 1 ||| Found in: Gateway 

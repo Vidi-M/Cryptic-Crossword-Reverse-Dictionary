@@ -1,2 +1,0 @@
-CLUE: Assassinated US president  ||| ANS: kennedy ||| POS: 5 ||| Found in: Kennedy (John F.) 
-CLUE: Ball game  ||| ANS: hockey ||| POS: 13 ||| Found in: Hockey (ice or field) 

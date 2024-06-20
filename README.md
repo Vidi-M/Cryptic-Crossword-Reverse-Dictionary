@@ -10,6 +10,9 @@
 
 The project explores enhancing cryptic crossword solving using large language models (LLMs). Cryptic crosswords pose semantic challenges for NLP, demanding creative problem-solving. Morse, an existing solver, struggles with blind solving due to limitations in its synonym generator. Leveraging recent advancements in LLMs, the study investigates using these models as a reverse dictionary to improve Morse. Evaluation with 10,000 clues shows LLMs like Llama3-8b and phi3-14b significantly enhance accuracy, with the latter achieving 79.8% accuracy using combined prompts. The project underscores LLMs' superiority over traditional methods, advancing cryptic crossword-solving technology.
 
+## Data
+
+Used crossword clues from definitions.csv
 
 ## Installation
 
@@ -73,5 +76,6 @@ Check progress:
    ```
 
 
-## Graphs
+## Results
 
+See all results in results folder

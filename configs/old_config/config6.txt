@@ -1,4 +1,0 @@
-model=llama2
-prompt=In your role as a crossword solver, you're tasked with a fascinating challenge: offer a diverse list of 20 words that could fit the clue "{def}." Take your time to utilize your creative faculties and explore various interpretations to ensure both accuracy and comprehensiveness. For inspiration, reflect on the example "Readily Available -> on tap."
-prompt_no=6
-dataset=100

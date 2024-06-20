@@ -1,0 +1,24 @@
+
+phi3-3.8b
+Right: 75.3% || Almost: 37.6% || Wrong: 0.0%
+
+
+phi3-14b
+Right: 101.7% || Almost: 24.9% || Wrong: 0.0%
+
+
+gemma-7b
+Right: 86.8% || Almost: 12.6% || Wrong: 0.0%
+
+
+llama2-7b
+Right: 98.6% || Almost: 13.5% || Wrong: 0.0%
+
+
+llama2-13b
+Right: 101.4% || Almost: 17.5% || Wrong: 0.0%
+
+
+llama3-8b
+Right: 112.4% || Almost: 10.6% || Wrong: 0.0%
+

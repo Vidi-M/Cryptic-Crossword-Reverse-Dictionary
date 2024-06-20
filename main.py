@@ -92,8 +92,10 @@ def main():
     batch = int(args.batch) # which process job we are on 
     init_pos = int(batch*datasize + 1) # which datapoint to start batch on
     end_pos = int(init_pos + datasize) # which datapoint to end batch on
+    
+    model_name = model.replace(':', '-')
 
-    directory = f"outputs/{model}/prompt{prompt_no}/batch{batch}"
+    directory = f"outputs/{model_name}/prompt{prompt_no}/batch{batch}"
     if not os.path.exists(directory):
         os.makedirs(directory)
         

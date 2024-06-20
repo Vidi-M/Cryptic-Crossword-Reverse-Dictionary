@@ -1,4 +1,0 @@
-model=llama2
-prompt=As an adept solver of crosswords, your mission is to decipher the clue {def}. Much like the example "Readily Available -> on tap," provide 20 words that mirror this clue. Take your time, accuracy and consideration of all definitions are paramount!
-prompt_no=5
-dataset=100
